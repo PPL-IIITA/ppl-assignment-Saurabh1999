@@ -1,0 +1,8000 @@
+boy 1 :
+name : nwlrbbmqbh
+attractiveness : 3
+intelligence : 8
+budget : 8691
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 2 :
+name : owkkyhiddq
+attractiveness : 1
+intelligence : 3
+budget : 5124
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 3 :
+name : jmowfrxsjy
+attractiveness : 10
+intelligence : 4
+budget : 4422
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 4 :
+name : fsarcbynec
+attractiveness : 4
+intelligence : 3
+budget : 9171
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 5 :
+name : xpklorelln
+attractiveness : 5
+intelligence : 6
+budget : 9583
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 6 :
+name : fwkhopkmco
+attractiveness : 5
+intelligence : 4
+budget : 2652
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 7 :
+name : kuewhsqmgb
+attractiveness : 6
+intelligence : 1
+budget : 1435
+min_attraction_req : 9
+type_of_committed_boy : The Geeks
+
+boy 8 :
+name : jjivswmdkq
+attractiveness : 2
+intelligence : 6
+budget : 9690
+min_attraction_req : 5
+type_of_committed_boy : The Geeks
+
+boy 9 :
+name : mvtrrbljpt
+attractiveness : 8
+intelligence : 7
+budget : 9498
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 10 :
+name : zqfjmafadr
+attractiveness : 10
+intelligence : 1
+budget : 3369
+min_attraction_req : 9
+type_of_committed_boy : The Geeks
+
+boy 11 :
+name : sbcnuvqhff
+attractiveness : 10
+intelligence : 9
+budget : 7765
+min_attraction_req : 9
+type_of_committed_boy : The Generous
+
+boy 12 :
+name : wpqcacehch
+attractiveness : 2
+intelligence : 8
+budget : 8366
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 13 :
+name : mlnozjkpqp
+attractiveness : 10
+intelligence : 8
+budget : 8236
+min_attraction_req : 4
+type_of_committed_boy : The Geeks
+
+boy 14 :
+name : itzyxacbhh
+attractiveness : 9
+intelligence : 7
+budget : 6841
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 15 :
+name : oendtomfgd
+attractiveness : 1
+intelligence : 10
+budget : 9773
+min_attraction_req : 6
+type_of_committed_boy : The Generous
+
+boy 16 :
+name : gpxiqvkuyt
+attractiveness : 8
+intelligence : 6
+budget : 8805
+min_attraction_req : 9
+type_of_committed_boy : The Geeks
+
+boy 17 :
+name : ewhtacioho
+attractiveness : 6
+intelligence : 2
+budget : 5662
+min_attraction_req : 1
+type_of_committed_boy : The Generous
+
+boy 18 :
+name : vwcsgspqoq
+attractiveness : 9
+intelligence : 5
+budget : 7638
+min_attraction_req : 3
+type_of_committed_boy : The Geeks
+
+boy 19 :
+name : guwnnyqxnz
+attractiveness : 2
+intelligence : 1
+budget : 8934
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 20 :
+name : pbtrwblnsa
+attractiveness : 6
+intelligence : 7
+budget : 6467
+min_attraction_req : 5
+type_of_committed_boy : The Miser
+
+boy 21 :
+name : umoqcdrube
+attractiveness : 8
+intelligence : 3
+budget : 3349
+min_attraction_req : 3
+type_of_committed_boy : The Miser
+
+boy 22 :
+name : hoachwdvmx
+attractiveness : 6
+intelligence : 10
+budget : 4600
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 23 :
+name : xlmndqtukw
+attractiveness : 1
+intelligence : 5
+budget : 2423
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 24 :
+name : juukwcibxu
+attractiveness : 10
+intelligence : 1
+budget : 6043
+min_attraction_req : 9
+type_of_committed_boy : The Geeks
+
+boy 25 :
+name : meyatdrmyd
+attractiveness : 5
+intelligence : 5
+budget : 380
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 26 :
+name : oghiqfmzhl
+attractiveness : 8
+intelligence : 5
+budget : 614
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 27 :
+name : uvsuyoypay
+attractiveness : 9
+intelligence : 10
+budget : 8873
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 28 :
+name : muotehzrii
+attractiveness : 5
+intelligence : 8
+budget : 1747
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 29 :
+name : ggkbbipzzr
+attractiveness : 4
+intelligence : 3
+budget : 7687
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 30 :
+name : mludfykgru
+attractiveness : 5
+intelligence : 9
+budget : 8028
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 31 :
+name : ooobppleql
+attractiveness : 1
+intelligence : 2
+budget : 7648
+min_attraction_req : 9
+type_of_committed_boy : The Generous
+
+boy 32 :
+name : jnadqhdcnv
+attractiveness : 5
+intelligence : 6
+budget : 6430
+min_attraction_req : 4
+type_of_committed_boy : The Generous
+
+boy 33 :
+name : bmyppphaux
+attractiveness : 4
+intelligence : 5
+budget : 2830
+min_attraction_req : 1
+type_of_committed_boy : The Miser
+
+boy 34 :
+name : gdhiixqmbf
+attractiveness : 2
+intelligence : 2
+budget : 6310
+min_attraction_req : 1
+type_of_committed_boy : The Miser
+
+boy 35 :
+name : udjsuyibye
+attractiveness : 6
+intelligence : 9
+budget : 6313
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 36 :
+name : qyoygyxymz
+attractiveness : 1
+intelligence : 2
+budget : 9081
+min_attraction_req : 2
+type_of_committed_boy : The Generous
+
+boy 37 :
+name : vjegebeocf
+attractiveness : 1
+intelligence : 10
+budget : 6190
+min_attraction_req : 5
+type_of_committed_boy : The Geeks
+
+boy 38 :
+name : dixtigsiee
+attractiveness : 8
+intelligence : 7
+budget : 2261
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 39 :
+name : dflilrjqfn
+attractiveness : 10
+intelligence : 4
+budget : 6608
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 40 :
+name : svbspkyhse
+attractiveness : 4
+intelligence : 8
+budget : 3682
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 41 :
+name : qtpddbuotb
+attractiveness : 2
+intelligence : 3
+budget : 6683
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 42 :
+name : vrfxjujjdd
+attractiveness : 2
+intelligence : 8
+budget : 3741
+min_attraction_req : 5
+type_of_committed_boy : The Geeks
+
+boy 43 :
+name : qvdgaijvwc
+attractiveness : 9
+intelligence : 1
+budget : 9219
+min_attraction_req : 2
+type_of_committed_boy : The Miser
+
+boy 44 :
+name : ewpjvygehl
+attractiveness : 10
+intelligence : 8
+budget : 9745
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 45 :
+name : piwuqzdzub
+attractiveness : 6
+intelligence : 5
+budget : 3292
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 46 :
+name : afspqpqwuz
+attractiveness : 1
+intelligence : 4
+budget : 1575
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 47 :
+name : yddwyvvbur
+attractiveness : 9
+intelligence : 10
+budget : 5711
+min_attraction_req : 3
+type_of_committed_boy : The Miser
+
+boy 48 :
+name : jgfdxvtnun
+attractiveness : 2
+intelligence : 1
+budget : 4019
+min_attraction_req : 8
+type_of_committed_boy : The Miser
+
+boy 49 :
+name : plwuiupfxl
+attractiveness : 10
+intelligence : 4
+budget : 2605
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 50 :
+name : kwppanltcf
+attractiveness : 7
+intelligence : 4
+budget : 7678
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 51 :
+name : dsozoyvegu
+attractiveness : 10
+intelligence : 2
+budget : 8271
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 52 :
+name : fmoxeqmrjo
+attractiveness : 1
+intelligence : 4
+budget : 3715
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 53 :
+name : lkobmeahkg
+attractiveness : 1
+intelligence : 9
+budget : 9160
+min_attraction_req : 3
+type_of_committed_boy : The Miser
+
+boy 54 :
+name : hhsveymqpx
+attractiveness : 8
+intelligence : 6
+budget : 2748
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 55 :
+name : nyfdzrhbas
+attractiveness : 8
+intelligence : 1
+budget : 7085
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 56 :
+name : afoubutpni
+attractiveness : 1
+intelligence : 7
+budget : 8225
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 57 :
+name : qsjxvkqdor
+attractiveness : 8
+intelligence : 4
+budget : 6788
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 58 :
+name : ctdsneogvb
+attractiveness : 8
+intelligence : 5
+budget : 9182
+min_attraction_req : 2
+type_of_committed_boy : The Miser
+
+boy 59 :
+name : gdirbfcriq
+attractiveness : 3
+intelligence : 2
+budget : 298
+min_attraction_req : 3
+type_of_committed_boy : The Miser
+
+boy 60 :
+name : nkrrefxsnv
+attractiveness : 7
+intelligence : 5
+budget : 8978
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 61 :
+name : wctgtwmxnu
+attractiveness : 6
+intelligence : 1
+budget : 5991
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 62 :
+name : cuqunublmo
+attractiveness : 1
+intelligence : 9
+budget : 7644
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 63 :
+name : klefszbexr
+attractiveness : 9
+intelligence : 3
+budget : 1784
+min_attraction_req : 1
+type_of_committed_boy : The Miser
+
+boy 64 :
+name : vhqnddjeqv
+attractiveness : 9
+intelligence : 9
+budget : 6611
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 65 :
+name : kazqfrpjvo
+attractiveness : 3
+intelligence : 8
+budget : 2642
+min_attraction_req : 6
+type_of_committed_boy : The Miser
+
+boy 66 :
+name : wmjobmsksk
+attractiveness : 4
+intelligence : 9
+budget : 2198
+min_attraction_req : 6
+type_of_committed_boy : The Generous
+
+boy 67 :
+name : wxgxnnofwl
+attractiveness : 4
+intelligence : 5
+budget : 2440
+min_attraction_req : 5
+type_of_committed_boy : The Miser
+
+boy 68 :
+name : nvbwjckdme
+attractiveness : 1
+intelligence : 3
+budget : 5483
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 69 :
+name : yvhgvwujbq
+attractiveness : 8
+intelligence : 8
+budget : 8860
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 70 :
+name : cvograiddv
+attractiveness : 8
+intelligence : 2
+budget : 3084
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 71 :
+name : ycqhkleewh
+attractiveness : 10
+intelligence : 2
+budget : 3413
+min_attraction_req : 9
+type_of_committed_boy : The Geeks
+
+boy 72 :
+name : aqwqwpqhsu
+attractiveness : 7
+intelligence : 4
+budget : 6040
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 73 :
+name : gvjwdvjjaf
+attractiveness : 9
+intelligence : 6
+budget : 1878
+min_attraction_req : 4
+type_of_committed_boy : The Geeks
+
+boy 74 :
+name : cxdzncqgjl
+attractiveness : 7
+intelligence : 2
+budget : 5359
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 75 :
+name : vxfgvicetc
+attractiveness : 3
+intelligence : 5
+budget : 2660
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 76 :
+name : opgtqvvhbg
+attractiveness : 7
+intelligence : 2
+budget : 2476
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 77 :
+name : hesnkqxmwr
+attractiveness : 9
+intelligence : 7
+budget : 1184
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 78 :
+name : mhlubbrykt
+attractiveness : 4
+intelligence : 7
+budget : 5475
+min_attraction_req : 1
+type_of_committed_boy : The Miser
+
+boy 79 :
+name : tmrobdeyqc
+attractiveness : 10
+intelligence : 1
+budget : 1642
+min_attraction_req : 3
+type_of_committed_boy : The Generous
+
+boy 80 :
+name : iihveixwjj
+attractiveness : 2
+intelligence : 1
+budget : 4221
+min_attraction_req : 6
+type_of_committed_boy : The Miser
+
+boy 81 :
+name : bjguxhxdip
+attractiveness : 6
+intelligence : 10
+budget : 3025
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 82 :
+name : ybgfylqvjz
+attractiveness : 10
+intelligence : 5
+budget : 9650
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 83 :
+name : lyauuzdrcn
+attractiveness : 2
+intelligence : 5
+budget : 4134
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 84 :
+name : lffrkeecbp
+attractiveness : 4
+intelligence : 9
+budget : 6354
+min_attraction_req : 3
+type_of_committed_boy : The Generous
+
+boy 85 :
+name : hidjcxjhrn
+attractiveness : 10
+intelligence : 1
+budget : 6488
+min_attraction_req : 3
+type_of_committed_boy : The Generous
+
+boy 86 :
+name : cxohqanxdr
+attractiveness : 7
+intelligence : 3
+budget : 822
+min_attraction_req : 3
+type_of_committed_boy : The Generous
+
+boy 87 :
+name : hnlmwpmhwd
+attractiveness : 10
+intelligence : 2
+budget : 2590
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 88 :
+name : queeexgruj
+attractiveness : 1
+intelligence : 1
+budget : 4167
+min_attraction_req : 5
+type_of_committed_boy : The Miser
+
+boy 89 :
+name : vrzgfwvrft
+attractiveness : 7
+intelligence : 9
+budget : 7070
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 90 :
+name : utpbztygns
+attractiveness : 6
+intelligence : 4
+budget : 173
+min_attraction_req : 2
+type_of_committed_boy : The Miser
+
+boy 91 :
+name : ngcomikjzs
+attractiveness : 10
+intelligence : 1
+budget : 6795
+min_attraction_req : 9
+type_of_committed_boy : The Generous
+
+boy 92 :
+name : novdruypcn
+attractiveness : 2
+intelligence : 9
+budget : 8258
+min_attraction_req : 5
+type_of_committed_boy : The Geeks
+
+boy 93 :
+name : uzmxnafame
+attractiveness : 9
+intelligence : 6
+budget : 357
+min_attraction_req : 3
+type_of_committed_boy : The Miser
+
+boy 94 :
+name : cazxdrtdgy
+attractiveness : 10
+intelligence : 5
+budget : 5345
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 95 :
+name : zybnvqqcqc
+attractiveness : 10
+intelligence : 1
+budget : 3954
+min_attraction_req : 6
+type_of_committed_boy : The Miser
+
+boy 96 :
+name : cnvbmasidz
+attractiveness : 1
+intelligence : 3
+budget : 5610
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 97 :
+name : tzzwpwmfbf
+attractiveness : 2
+intelligence : 1
+budget : 6340
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 98 :
+name : kelhhzjchp
+attractiveness : 10
+intelligence : 2
+budget : 9054
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 99 :
+name : mppnlgjznk
+attractiveness : 9
+intelligence : 5
+budget : 1321
+min_attraction_req : 1
+type_of_committed_boy : The Generous
+
+boy 100 :
+name : sgefonexpm
+attractiveness : 7
+intelligence : 9
+budget : 4426
+min_attraction_req : 3
+type_of_committed_boy : The Generous
+
+boy 101 :
+name : pmdgzqmkqz
+attractiveness : 8
+intelligence : 1
+budget : 2554
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 102 :
+name : vnxbslqzkg
+attractiveness : 4
+intelligence : 6
+budget : 6785
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 103 :
+name : pdnsjolvyb
+attractiveness : 9
+intelligence : 10
+budget : 3350
+min_attraction_req : 4
+type_of_committed_boy : The Generous
+
+boy 104 :
+name : qognrbaiak
+attractiveness : 7
+intelligence : 10
+budget : 9570
+min_attraction_req : 3
+type_of_committed_boy : The Geeks
+
+boy 105 :
+name : khfzconnmo
+attractiveness : 3
+intelligence : 7
+budget : 630
+min_attraction_req : 4
+type_of_committed_boy : The Generous
+
+boy 106 :
+name : efsnsmouwq
+attractiveness : 6
+intelligence : 5
+budget : 9500
+min_attraction_req : 5
+type_of_committed_boy : The Geeks
+
+boy 107 :
+name : cfohesyshm
+attractiveness : 5
+intelligence : 10
+budget : 3597
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 108 :
+name : ayuvnojdjf
+attractiveness : 2
+intelligence : 3
+budget : 5982
+min_attraction_req : 1
+type_of_committed_boy : The Generous
+
+boy 109 :
+name : bapriujimq
+attractiveness : 1
+intelligence : 7
+budget : 4164
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 110 :
+name : gvlcsaqbdb
+attractiveness : 1
+intelligence : 5
+budget : 2294
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 111 :
+name : eettwdnfnb
+attractiveness : 9
+intelligence : 2
+budget : 4814
+min_attraction_req : 4
+type_of_committed_boy : The Geeks
+
+boy 112 :
+name : jxyuzqxsta
+attractiveness : 2
+intelligence : 4
+budget : 9588
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 113 :
+name : tthoofremg
+attractiveness : 4
+intelligence : 5
+budget : 3568
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 114 :
+name : vkzvgbofth
+attractiveness : 1
+intelligence : 3
+budget : 8148
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 115 :
+name : naywpnbito
+attractiveness : 4
+intelligence : 1
+budget : 7053
+min_attraction_req : 1
+type_of_committed_boy : The Generous
+
+boy 116 :
+name : ednezwfpda
+attractiveness : 9
+intelligence : 10
+budget : 9171
+min_attraction_req : 8
+type_of_committed_boy : The Miser
+
+boy 117 :
+name : svtqtkfvsy
+attractiveness : 2
+intelligence : 6
+budget : 2554
+min_attraction_req : 4
+type_of_committed_boy : The Generous
+
+boy 118 :
+name : cqxswyqdnt
+attractiveness : 8
+intelligence : 5
+budget : 4674
+min_attraction_req : 8
+type_of_committed_boy : The Miser
+
+boy 119 :
+name : zlqsekejhz
+attractiveness : 5
+intelligence : 7
+budget : 3135
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 120 :
+name : epxchvczys
+attractiveness : 6
+intelligence : 2
+budget : 9091
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 121 :
+name : bbiswmeayl
+attractiveness : 10
+intelligence : 9
+budget : 2526
+min_attraction_req : 5
+type_of_committed_boy : The Geeks
+
+boy 122 :
+name : moikssfxtg
+attractiveness : 2
+intelligence : 1
+budget : 9410
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 123 :
+name : iysrsqfwqd
+attractiveness : 10
+intelligence : 9
+budget : 8342
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 124 :
+name : gdqrnlluie
+attractiveness : 9
+intelligence : 10
+budget : 3706
+min_attraction_req : 1
+type_of_committed_boy : The Generous
+
+boy 125 :
+name : nuufnnxvlo
+attractiveness : 9
+intelligence : 10
+budget : 5019
+min_attraction_req : 1
+type_of_committed_boy : The Miser
+
+boy 126 :
+name : iuqandlyav
+attractiveness : 6
+intelligence : 9
+budget : 3721
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 127 :
+name : snlnvacsvp
+attractiveness : 1
+intelligence : 1
+budget : 6555
+min_attraction_req : 9
+type_of_committed_boy : The Generous
+
+boy 128 :
+name : awcqxswkqw
+attractiveness : 3
+intelligence : 6
+budget : 1785
+min_attraction_req : 3
+type_of_committed_boy : The Generous
+
+boy 129 :
+name : ntnaikamey
+attractiveness : 10
+intelligence : 2
+budget : 513
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 130 :
+name : cqaggxachr
+attractiveness : 1
+intelligence : 10
+budget : 3695
+min_attraction_req : 6
+type_of_committed_boy : The Miser
+
+boy 131 :
+name : qmlfotpqhv
+attractiveness : 5
+intelligence : 5
+budget : 6351
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 132 :
+name : mmqmvxjvbs
+attractiveness : 1
+intelligence : 1
+budget : 7903
+min_attraction_req : 6
+type_of_committed_boy : The Miser
+
+boy 133 :
+name : yxnjcberrn
+attractiveness : 5
+intelligence : 9
+budget : 5266
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 134 :
+name : yjhovengbp
+attractiveness : 7
+intelligence : 1
+budget : 6840
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 135 :
+name : qgwdrygxrx
+attractiveness : 7
+intelligence : 10
+budget : 5368
+min_attraction_req : 3
+type_of_committed_boy : The Geeks
+
+boy 136 :
+name : ainhwilkqm
+attractiveness : 2
+intelligence : 6
+budget : 9243
+min_attraction_req : 1
+type_of_committed_boy : The Miser
+
+boy 137 :
+name : digznzxtzq
+attractiveness : 1
+intelligence : 8
+budget : 5901
+min_attraction_req : 9
+type_of_committed_boy : The Geeks
+
+boy 138 :
+name : ycbmjawwmn
+attractiveness : 3
+intelligence : 4
+budget : 8503
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 139 :
+name : duplucltxm
+attractiveness : 9
+intelligence : 10
+budget : 3800
+min_attraction_req : 9
+type_of_committed_boy : The Generous
+
+boy 140 :
+name : rgtuseurag
+attractiveness : 5
+intelligence : 2
+budget : 7210
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 141 :
+name : apwpbqromq
+attractiveness : 9
+intelligence : 9
+budget : 6265
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 142 :
+name : zqkvlfbhwc
+attractiveness : 5
+intelligence : 3
+budget : 4566
+min_attraction_req : 6
+type_of_committed_boy : The Miser
+
+boy 143 :
+name : rmbpbegvsu
+attractiveness : 4
+intelligence : 3
+budget : 5039
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 144 :
+name : uvkesvjtdh
+attractiveness : 2
+intelligence : 4
+budget : 7968
+min_attraction_req : 9
+type_of_committed_boy : The Geeks
+
+boy 145 :
+name : xfqbvufdpa
+attractiveness : 4
+intelligence : 9
+budget : 97
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 146 :
+name : qjtbplyzed
+attractiveness : 7
+intelligence : 9
+budget : 7683
+min_attraction_req : 5
+type_of_committed_boy : The Miser
+
+boy 147 :
+name : dpwtqrpyue
+attractiveness : 9
+intelligence : 4
+budget : 3194
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 148 :
+name : fnpaqelofr
+attractiveness : 7
+intelligence : 5
+budget : 8804
+min_attraction_req : 1
+type_of_committed_boy : The Generous
+
+boy 149 :
+name : ktxipqzeqv
+attractiveness : 4
+intelligence : 5
+budget : 3791
+min_attraction_req : 9
+type_of_committed_boy : The Geeks
+
+boy 150 :
+name : ubbjbrpmix
+attractiveness : 2
+intelligence : 9
+budget : 436
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 151 :
+name : tnosvdkujc
+attractiveness : 2
+intelligence : 5
+budget : 4665
+min_attraction_req : 4
+type_of_committed_boy : The Generous
+
+boy 152 :
+name : hxrkiuezio
+attractiveness : 1
+intelligence : 9
+budget : 3847
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 153 :
+name : iecwxxbjtn
+attractiveness : 1
+intelligence : 5
+budget : 2720
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 154 :
+name : cpmvauqgta
+attractiveness : 3
+intelligence : 9
+budget : 6287
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 155 :
+name : fugjtfiuqb
+attractiveness : 8
+intelligence : 9
+budget : 2054
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 156 :
+name : azamucimic
+attractiveness : 6
+intelligence : 7
+budget : 947
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 157 :
+name : xjlfuemdad
+attractiveness : 1
+intelligence : 9
+budget : 3382
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 158 :
+name : suevjaxrni
+attractiveness : 2
+intelligence : 3
+budget : 5973
+min_attraction_req : 8
+type_of_committed_boy : The Miser
+
+boy 159 :
+name : frqqwnujqu
+attractiveness : 1
+intelligence : 9
+budget : 4187
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 160 :
+name : lqprlyskrh
+attractiveness : 1
+intelligence : 6
+budget : 4590
+min_attraction_req : 4
+type_of_committed_boy : The Generous
+
+boy 161 :
+name : soxleuyyfq
+attractiveness : 1
+intelligence : 10
+budget : 57
+min_attraction_req : 8
+type_of_committed_boy : The Miser
+
+boy 162 :
+name : hmgyetyyep
+attractiveness : 10
+intelligence : 7
+budget : 9119
+min_attraction_req : 1
+type_of_committed_boy : The Generous
+
+boy 163 :
+name : lkzivdevdl
+attractiveness : 10
+intelligence : 9
+budget : 13
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 164 :
+name : xjndjrxhrd
+attractiveness : 1
+intelligence : 5
+budget : 4212
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 165 :
+name : nqdoayshwx
+attractiveness : 9
+intelligence : 6
+budget : 3442
+min_attraction_req : 2
+type_of_committed_boy : The Miser
+
+boy 166 :
+name : ywumbffamx
+attractiveness : 4
+intelligence : 6
+budget : 9214
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 167 :
+name : oyirmirern
+attractiveness : 3
+intelligence : 3
+budget : 710
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 168 :
+name : icjfqkkvnx
+attractiveness : 5
+intelligence : 5
+budget : 8657
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 169 :
+name : cixmzkwsqo
+attractiveness : 1
+intelligence : 3
+budget : 4285
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 170 :
+name : lpeuuugfrt
+attractiveness : 5
+intelligence : 3
+budget : 745
+min_attraction_req : 1
+type_of_committed_boy : The Generous
+
+boy 171 :
+name : nuqnirxelp
+attractiveness : 7
+intelligence : 10
+budget : 2785
+min_attraction_req : 3
+type_of_committed_boy : The Geeks
+
+boy 172 :
+name : odqszkogrf
+attractiveness : 6
+intelligence : 4
+budget : 8216
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 173 :
+name : dbltqtmpyy
+attractiveness : 1
+intelligence : 7
+budget : 5414
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 174 :
+name : uiokcowswq
+attractiveness : 3
+intelligence : 8
+budget : 9268
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 175 :
+name : dxqqsgkhvi
+attractiveness : 10
+intelligence : 2
+budget : 5149
+min_attraction_req : 3
+type_of_committed_boy : The Generous
+
+boy 176 :
+name : jugagloddk
+attractiveness : 8
+intelligence : 2
+budget : 5470
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 177 :
+name : ynyoesuozr
+attractiveness : 9
+intelligence : 3
+budget : 3060
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 178 :
+name : rifximkyro
+attractiveness : 1
+intelligence : 5
+budget : 240
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 179 :
+name : suiqiojfck
+attractiveness : 9
+intelligence : 7
+budget : 6510
+min_attraction_req : 8
+type_of_committed_boy : The Miser
+
+boy 180 :
+name : ekijksvuso
+attractiveness : 5
+intelligence : 9
+budget : 15
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 181 :
+name : vwufpctajx
+attractiveness : 7
+intelligence : 5
+budget : 2484
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 182 :
+name : xjmitwcqqx
+attractiveness : 8
+intelligence : 2
+budget : 3160
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 183 :
+name : badvfuaauj
+attractiveness : 4
+intelligence : 8
+budget : 2062
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 184 :
+name : vuuhepdifv
+attractiveness : 6
+intelligence : 7
+budget : 4031
+min_attraction_req : 6
+type_of_committed_boy : The Generous
+
+boy 185 :
+name : fiuleafgaa
+attractiveness : 4
+intelligence : 7
+budget : 3164
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 186 :
+name : tesplweqfm
+attractiveness : 4
+intelligence : 3
+budget : 7303
+min_attraction_req : 5
+type_of_committed_boy : The Geeks
+
+boy 187 :
+name : qreleinkop
+attractiveness : 7
+intelligence : 10
+budget : 8446
+min_attraction_req : 2
+type_of_committed_boy : The Miser
+
+boy 188 :
+name : mqueghdmxk
+attractiveness : 1
+intelligence : 8
+budget : 6253
+min_attraction_req : 4
+type_of_committed_boy : The Geeks
+
+boy 189 :
+name : qnswaxgnjw
+attractiveness : 8
+intelligence : 2
+budget : 3364
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 190 :
+name : sgkmnqwqdv
+attractiveness : 3
+intelligence : 8
+budget : 1705
+min_attraction_req : 5
+type_of_committed_boy : The Miser
+
+boy 191 :
+name : hoqakqzqgk
+attractiveness : 7
+intelligence : 10
+budget : 4150
+min_attraction_req : 3
+type_of_committed_boy : The Geeks
+
+boy 192 :
+name : dimnwzgspl
+attractiveness : 3
+intelligence : 4
+budget : 3787
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 193 :
+name : pgehioxhhf
+attractiveness : 8
+intelligence : 4
+budget : 4071
+min_attraction_req : 9
+type_of_committed_boy : The Generous
+
+boy 194 :
+name : wdtksslyka
+attractiveness : 8
+intelligence : 1
+budget : 4968
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 195 :
+name : gpdmyldxuk
+attractiveness : 8
+intelligence : 8
+budget : 5574
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 196 :
+name : rrumbmemlr
+attractiveness : 5
+intelligence : 7
+budget : 2862
+min_attraction_req : 2
+type_of_committed_boy : The Generous
+
+boy 197 :
+name : oqntclghlc
+attractiveness : 8
+intelligence : 7
+budget : 8280
+min_attraction_req : 4
+type_of_committed_boy : The Generous
+
+boy 198 :
+name : gsbaecplpc
+attractiveness : 1
+intelligence : 2
+budget : 6485
+min_attraction_req : 4
+type_of_committed_boy : The Generous
+
+boy 199 :
+name : xmdmfhaopl
+attractiveness : 9
+intelligence : 3
+budget : 5248
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 200 :
+name : iqbjtimitd
+attractiveness : 5
+intelligence : 10
+budget : 7141
+min_attraction_req : 1
+type_of_committed_boy : The Miser
+
+boy 201 :
+name : xjecwmkwab
+attractiveness : 4
+intelligence : 3
+budget : 3848
+min_attraction_req : 3
+type_of_committed_boy : The Geeks
+
+boy 202 :
+name : vqvwcqeqaz
+attractiveness : 6
+intelligence : 3
+budget : 6035
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 203 :
+name : rbgxdcjpal
+attractiveness : 3
+intelligence : 4
+budget : 8239
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 204 :
+name : kzhhvlxcbx
+attractiveness : 4
+intelligence : 7
+budget : 7758
+min_attraction_req : 9
+type_of_committed_boy : The Generous
+
+boy 205 :
+name : gtdoqiscys
+attractiveness : 8
+intelligence : 1
+budget : 9362
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 206 :
+name : qivzptlpvo
+attractiveness : 9
+intelligence : 3
+budget : 1534
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 207 :
+name : pgvswoaosa
+attractiveness : 9
+intelligence : 2
+budget : 4172
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 208 :
+name : nxnjyeeltz
+attractiveness : 3
+intelligence : 9
+budget : 2588
+min_attraction_req : 6
+type_of_committed_boy : The Generous
+
+boy 209 :
+name : ccozwknwyh
+attractiveness : 10
+intelligence : 9
+budget : 4888
+min_attraction_req : 1
+type_of_committed_boy : The Generous
+
+boy 210 :
+name : wfkjqipuuj
+attractiveness : 8
+intelligence : 3
+budget : 8686
+min_attraction_req : 8
+type_of_committed_boy : The Miser
+
+boy 211 :
+name : bznryjdohb
+attractiveness : 4
+intelligence : 7
+budget : 6216
+min_attraction_req : 3
+type_of_committed_boy : The Miser
+
+boy 212 :
+name : uiggtyqjtm
+attractiveness : 3
+intelligence : 9
+budget : 5129
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 213 :
+name : tqmihntkdd
+attractiveness : 8
+intelligence : 7
+budget : 5592
+min_attraction_req : 5
+type_of_committed_boy : The Geeks
+
+boy 214 :
+name : msxsatqqel
+attractiveness : 10
+intelligence : 5
+budget : 7485
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 215 :
+name : pjfermrnyu
+attractiveness : 1
+intelligence : 2
+budget : 8875
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 216 :
+name : jpdjhdeavk
+attractiveness : 8
+intelligence : 7
+budget : 6299
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 217 :
+name : xhxclqqedq
+attractiveness : 3
+intelligence : 10
+budget : 9742
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 218 :
+name : oiorrwwxyr
+attractiveness : 8
+intelligence : 2
+budget : 7617
+min_attraction_req : 6
+type_of_committed_boy : The Generous
+
+boy 219 :
+name : gqkduvtmzz
+attractiveness : 9
+intelligence : 2
+budget : 5091
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 220 :
+name : tvfioygkve
+attractiveness : 6
+intelligence : 5
+budget : 8474
+min_attraction_req : 2
+type_of_committed_boy : The Generous
+
+boy 221 :
+name : udneghbctc
+attractiveness : 4
+intelligence : 6
+budget : 6708
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 222 :
+name : zrzgbpfhza
+attractiveness : 2
+intelligence : 8
+budget : 9092
+min_attraction_req : 5
+type_of_committed_boy : The Miser
+
+boy 223 :
+name : cbgqfmzjqt
+attractiveness : 2
+intelligence : 4
+budget : 5193
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 224 :
+name : xqiywjobsp
+attractiveness : 5
+intelligence : 6
+budget : 6939
+min_attraction_req : 6
+type_of_committed_boy : The Miser
+
+boy 225 :
+name : xnmddurddi
+attractiveness : 7
+intelligence : 9
+budget : 9082
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 226 :
+name : spvcoulcvd
+attractiveness : 8
+intelligence : 2
+budget : 1019
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 227 :
+name : wlyiqdchgh
+attractiveness : 10
+intelligence : 7
+budget : 2197
+min_attraction_req : 2
+type_of_committed_boy : The Generous
+
+boy 228 :
+name : dnobqcvdeq
+attractiveness : 4
+intelligence : 9
+budget : 9577
+min_attraction_req : 2
+type_of_committed_boy : The Miser
+
+boy 229 :
+name : epxcaniewq
+attractiveness : 5
+intelligence : 3
+budget : 4864
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 230 :
+name : wpymqorlux
+attractiveness : 1
+intelligence : 8
+budget : 3502
+min_attraction_req : 9
+type_of_committed_boy : The Generous
+
+boy 231 :
+name : hcoghotpus
+attractiveness : 4
+intelligence : 7
+budget : 8051
+min_attraction_req : 9
+type_of_committed_boy : The Geeks
+
+boy 232 :
+name : tckrpaigoc
+attractiveness : 8
+intelligence : 9
+budget : 6256
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 233 :
+name : biyrrffmwa
+attractiveness : 1
+intelligence : 1
+budget : 291
+min_attraction_req : 1
+type_of_committed_boy : The Generous
+
+boy 234 :
+name : dfnnzcphkf
+attractiveness : 4
+intelligence : 2
+budget : 4348
+min_attraction_req : 9
+type_of_committed_boy : The Geeks
+
+boy 235 :
+name : vtdwludsga
+attractiveness : 7
+intelligence : 10
+budget : 7017
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 236 :
+name : oihbxifopr
+attractiveness : 3
+intelligence : 9
+budget : 6608
+min_attraction_req : 2
+type_of_committed_boy : The Generous
+
+boy 237 :
+name : dxngtacwtj
+attractiveness : 7
+intelligence : 6
+budget : 5663
+min_attraction_req : 3
+type_of_committed_boy : The Miser
+
+boy 238 :
+name : xvegybogsf
+attractiveness : 10
+intelligence : 7
+budget : 6618
+min_attraction_req : 9
+type_of_committed_boy : The Geeks
+
+boy 239 :
+name : bompufpxck
+attractiveness : 7
+intelligence : 7
+budget : 67
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 240 :
+name : ufczmaccgw
+attractiveness : 7
+intelligence : 3
+budget : 8847
+min_attraction_req : 6
+type_of_committed_boy : The Generous
+
+boy 241 :
+name : cteqkbwbaa
+attractiveness : 5
+intelligence : 1
+budget : 7187
+min_attraction_req : 3
+type_of_committed_boy : The Miser
+
+boy 242 :
+name : livnjjoomw
+attractiveness : 1
+intelligence : 3
+budget : 2425
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 243 :
+name : vdgztqarsa
+attractiveness : 10
+intelligence : 1
+budget : 5171
+min_attraction_req : 9
+type_of_committed_boy : The Geeks
+
+boy 244 :
+name : aheyvohlet
+attractiveness : 8
+intelligence : 3
+budget : 8492
+min_attraction_req : 5
+type_of_committed_boy : The Miser
+
+boy 245 :
+name : djslkoelfy
+attractiveness : 4
+intelligence : 8
+budget : 4733
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 246 :
+name : aaceazuimy
+attractiveness : 4
+intelligence : 9
+budget : 3166
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 247 :
+name : gyxblhppuu
+attractiveness : 2
+intelligence : 7
+budget : 2486
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 248 :
+name : qtmvanuuvj
+attractiveness : 4
+intelligence : 5
+budget : 2668
+min_attraction_req : 1
+type_of_committed_boy : The Generous
+
+boy 249 :
+name : vuvsvhzkyw
+attractiveness : 2
+intelligence : 9
+budget : 4903
+min_attraction_req : 9
+type_of_committed_boy : The Generous
+
+boy 250 :
+name : qvdcqdpmzm
+attractiveness : 10
+intelligence : 1
+budget : 1578
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 251 :
+name : kzfgtantnl
+attractiveness : 8
+intelligence : 7
+budget : 1244
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 252 :
+name : hnvkplpfao
+attractiveness : 8
+intelligence : 8
+budget : 1414
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 253 :
+name : xrfczzdmus
+attractiveness : 2
+intelligence : 6
+budget : 4151
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 254 :
+name : okvkwkxlrx
+attractiveness : 6
+intelligence : 6
+budget : 2012
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 255 :
+name : zomeqlftxz
+attractiveness : 8
+intelligence : 8
+budget : 4219
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 256 :
+name : sqmnciazvr
+attractiveness : 6
+intelligence : 5
+budget : 1965
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 257 :
+name : yvdkbtwhpv
+attractiveness : 1
+intelligence : 1
+budget : 8857
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 258 :
+name : ylwkbyubxr
+attractiveness : 3
+intelligence : 7
+budget : 6467
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 259 :
+name : hxpmjrhfaw
+attractiveness : 2
+intelligence : 3
+budget : 8076
+min_attraction_req : 8
+type_of_committed_boy : The Miser
+
+boy 260 :
+name : fypdksbhta
+attractiveness : 3
+intelligence : 4
+budget : 7330
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 261 :
+name : rbnjpzcxec
+attractiveness : 4
+intelligence : 2
+budget : 9335
+min_attraction_req : 9
+type_of_committed_boy : The Geeks
+
+boy 262 :
+name : qdjhgvzjcu
+attractiveness : 1
+intelligence : 8
+budget : 3144
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 263 :
+name : acbpnsoppv
+attractiveness : 6
+intelligence : 2
+budget : 953
+min_attraction_req : 3
+type_of_committed_boy : The Miser
+
+boy 264 :
+name : pynyfvuefy
+attractiveness : 5
+intelligence : 2
+budget : 5328
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 265 :
+name : djegbsypjo
+attractiveness : 5
+intelligence : 4
+budget : 4336
+min_attraction_req : 8
+type_of_committed_boy : The Miser
+
+boy 266 :
+name : kilzhsvbwc
+attractiveness : 4
+intelligence : 5
+budget : 3308
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 267 :
+name : virbosvmjf
+attractiveness : 3
+intelligence : 3
+budget : 8231
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 268 :
+name : zqzkpgemja
+attractiveness : 5
+intelligence : 10
+budget : 1193
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 269 :
+name : feywimqdac
+attractiveness : 9
+intelligence : 10
+budget : 8923
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 270 :
+name : txysjqznci
+attractiveness : 6
+intelligence : 4
+budget : 7456
+min_attraction_req : 8
+type_of_committed_boy : The Miser
+
+boy 271 :
+name : jtjhrtvkww
+attractiveness : 3
+intelligence : 8
+budget : 6318
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 272 :
+name : jjfkboacce
+attractiveness : 8
+intelligence : 6
+budget : 4012
+min_attraction_req : 5
+type_of_committed_boy : The Geeks
+
+boy 273 :
+name : csanbtgxdc
+attractiveness : 4
+intelligence : 2
+budget : 1584
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 274 :
+name : vfscrwqtyu
+attractiveness : 3
+intelligence : 10
+budget : 1137
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 275 :
+name : vbqxorquow
+attractiveness : 6
+intelligence : 8
+budget : 774
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 276 :
+name : zjlrlcncyo
+attractiveness : 9
+intelligence : 9
+budget : 7242
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 277 :
+name : zhxpenhviv
+attractiveness : 2
+intelligence : 10
+budget : 7460
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 278 :
+name : khfxbqaquy
+attractiveness : 1
+intelligence : 6
+budget : 269
+min_attraction_req : 5
+type_of_committed_boy : The Geeks
+
+boy 279 :
+name : thnsxrggoq
+attractiveness : 6
+intelligence : 6
+budget : 5132
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 280 :
+name : svzzscqutm
+attractiveness : 3
+intelligence : 8
+budget : 6376
+min_attraction_req : 3
+type_of_committed_boy : The Miser
+
+boy 281 :
+name : nmtaeqtmyk
+attractiveness : 1
+intelligence : 2
+budget : 2790
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 282 :
+name : juhltznlui
+attractiveness : 3
+intelligence : 9
+budget : 3915
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 283 :
+name : vstouzgqme
+attractiveness : 5
+intelligence : 5
+budget : 6451
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 284 :
+name : sdmzohydtu
+attractiveness : 5
+intelligence : 10
+budget : 7774
+min_attraction_req : 9
+type_of_committed_boy : The Geeks
+
+boy 285 :
+name : sttlknmqdy
+attractiveness : 10
+intelligence : 4
+budget : 2800
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 286 :
+name : ftatuqastv
+attractiveness : 6
+intelligence : 8
+budget : 9333
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 287 :
+name : psdifnxrfb
+attractiveness : 3
+intelligence : 5
+budget : 7539
+min_attraction_req : 4
+type_of_committed_boy : The Generous
+
+boy 288 :
+name : foyhhsxhnt
+attractiveness : 6
+intelligence : 3
+budget : 9349
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 289 :
+name : miupqzeqsj
+attractiveness : 4
+intelligence : 7
+budget : 273
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 290 :
+name : phfoooioyv
+attractiveness : 10
+intelligence : 10
+budget : 3872
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 291 :
+name : bzhvqzwupr
+attractiveness : 3
+intelligence : 5
+budget : 7870
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 292 :
+name : tjpazfritp
+attractiveness : 4
+intelligence : 7
+budget : 7365
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 293 :
+name : qgrxekxcgm
+attractiveness : 4
+intelligence : 9
+budget : 7992
+min_attraction_req : 4
+type_of_committed_boy : The Generous
+
+boy 294 :
+name : fqqwspdjxz
+attractiveness : 9
+intelligence : 4
+budget : 800
+min_attraction_req : 5
+type_of_committed_boy : The Geeks
+
+boy 295 :
+name : vlqpkuzjzh
+attractiveness : 5
+intelligence : 1
+budget : 259
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 296 :
+name : cafsyaibjh
+attractiveness : 7
+intelligence : 3
+budget : 6277
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 297 :
+name : wbtpqelrnk
+attractiveness : 10
+intelligence : 10
+budget : 1020
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 298 :
+name : uzgcseccin
+attractiveness : 2
+intelligence : 9
+budget : 2074
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 299 :
+name : gwqzlifxct
+attractiveness : 4
+intelligence : 6
+budget : 3871
+min_attraction_req : 5
+type_of_committed_boy : The Geeks
+
+boy 300 :
+name : njztltanvi
+attractiveness : 1
+intelligence : 8
+budget : 5059
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 301 :
+name : hkdxlrfroh
+attractiveness : 5
+intelligence : 10
+budget : 2395
+min_attraction_req : 5
+type_of_committed_boy : The Miser
+
+boy 302 :
+name : mhvodihdvf
+attractiveness : 2
+intelligence : 4
+budget : 897
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 303 :
+name : xmlclxvroj
+attractiveness : 3
+intelligence : 7
+budget : 5906
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 304 :
+name : xbeurhcbmz
+attractiveness : 3
+intelligence : 8
+budget : 7883
+min_attraction_req : 1
+type_of_committed_boy : The Generous
+
+boy 305 :
+name : yvtlzeivxy
+attractiveness : 1
+intelligence : 5
+budget : 8211
+min_attraction_req : 6
+type_of_committed_boy : The Miser
+
+boy 306 :
+name : zosdikkmlw
+attractiveness : 2
+intelligence : 8
+budget : 3632
+min_attraction_req : 5
+type_of_committed_boy : The Geeks
+
+boy 307 :
+name : dioytnfeie
+attractiveness : 7
+intelligence : 8
+budget : 5747
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 308 :
+name : vgvqjfavsn
+attractiveness : 10
+intelligence : 8
+budget : 6591
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 309 :
+name : bvxputczzn
+attractiveness : 2
+intelligence : 10
+budget : 2465
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 310 :
+name : khshxdnzyh
+attractiveness : 9
+intelligence : 8
+budget : 3813
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 311 :
+name : cxfbobwrcv
+attractiveness : 5
+intelligence : 10
+budget : 3590
+min_attraction_req : 1
+type_of_committed_boy : The Miser
+
+boy 312 :
+name : nsdgacjpei
+attractiveness : 7
+intelligence : 9
+budget : 6866
+min_attraction_req : 1
+type_of_committed_boy : The Generous
+
+boy 313 :
+name : noqssfvoyx
+attractiveness : 3
+intelligence : 5
+budget : 4729
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 314 :
+name : aygfgihqzn
+attractiveness : 3
+intelligence : 6
+budget : 1237
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 315 :
+name : zqcpiuudju
+attractiveness : 3
+intelligence : 4
+budget : 1941
+min_attraction_req : 2
+type_of_committed_boy : The Generous
+
+boy 316 :
+name : mlivqpdzhf
+attractiveness : 10
+intelligence : 4
+budget : 3317
+min_attraction_req : 8
+type_of_committed_boy : The Miser
+
+boy 317 :
+name : sudvjlrgrc
+attractiveness : 7
+intelligence : 6
+budget : 9390
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 318 :
+name : hlrqgjhmjq
+attractiveness : 6
+intelligence : 9
+budget : 6452
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 319 :
+name : jsnopyaget
+attractiveness : 2
+intelligence : 10
+budget : 5383
+min_attraction_req : 3
+type_of_committed_boy : The Miser
+
+boy 320 :
+name : xqroiayroj
+attractiveness : 10
+intelligence : 4
+budget : 1104
+min_attraction_req : 1
+type_of_committed_boy : The Generous
+
+boy 321 :
+name : arcpgrniys
+attractiveness : 4
+intelligence : 2
+budget : 3256
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 322 :
+name : fqhwhpyfio
+attractiveness : 1
+intelligence : 8
+budget : 1460
+min_attraction_req : 6
+type_of_committed_boy : The Miser
+
+boy 323 :
+name : gxniovabda
+attractiveness : 10
+intelligence : 7
+budget : 8884
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 324 :
+name : azsiwzzwei
+attractiveness : 2
+intelligence : 7
+budget : 8736
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 325 :
+name : vqqkzefbhi
+attractiveness : 4
+intelligence : 10
+budget : 7919
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 326 :
+name : rmxjwtiwro
+attractiveness : 1
+intelligence : 7
+budget : 9575
+min_attraction_req : 6
+type_of_committed_boy : The Generous
+
+boy 327 :
+name : dadtkczpfh
+attractiveness : 2
+intelligence : 5
+budget : 5123
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 328 :
+name : jhjgqfbbbt
+attractiveness : 4
+intelligence : 8
+budget : 7248
+min_attraction_req : 9
+type_of_committed_boy : The Generous
+
+boy 329 :
+name : ifnmbaqapy
+attractiveness : 2
+intelligence : 6
+budget : 143
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 330 :
+name : dfpmlirnjv
+attractiveness : 7
+intelligence : 1
+budget : 2329
+min_attraction_req : 6
+type_of_committed_boy : The Miser
+
+boy 331 :
+name : tokjcljsna
+attractiveness : 3
+intelligence : 10
+budget : 1276
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 332 :
+name : acbpqnxjci
+attractiveness : 7
+intelligence : 7
+budget : 4584
+min_attraction_req : 8
+type_of_committed_boy : The Miser
+
+boy 333 :
+name : pedbpfoyyc
+attractiveness : 8
+intelligence : 7
+budget : 8128
+min_attraction_req : 5
+type_of_committed_boy : The Miser
+
+boy 334 :
+name : xstbkjqjts
+attractiveness : 5
+intelligence : 10
+budget : 7413
+min_attraction_req : 8
+type_of_committed_boy : The Miser
+
+boy 335 :
+name : rwrxygcmfa
+attractiveness : 3
+intelligence : 7
+budget : 54
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 336 :
+name : itteudnkmg
+attractiveness : 5
+intelligence : 3
+budget : 1531
+min_attraction_req : 9
+type_of_committed_boy : The Generous
+
+boy 337 :
+name : sbkjyksbyx
+attractiveness : 10
+intelligence : 2
+budget : 6058
+min_attraction_req : 3
+type_of_committed_boy : The Generous
+
+boy 338 :
+name : fhfylzbalq
+attractiveness : 2
+intelligence : 6
+budget : 531
+min_attraction_req : 4
+type_of_committed_boy : The Geeks
+
+boy 339 :
+name : mjzyvxknyi
+attractiveness : 7
+intelligence : 5
+budget : 7598
+min_attraction_req : 4
+type_of_committed_boy : The Geeks
+
+boy 340 :
+name : myjrxwtaxe
+attractiveness : 9
+intelligence : 9
+budget : 469
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 341 :
+name : tfiudfspss
+attractiveness : 10
+intelligence : 3
+budget : 1003
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 342 :
+name : zlykevhxxg
+attractiveness : 3
+intelligence : 7
+budget : 919
+min_attraction_req : 3
+type_of_committed_boy : The Generous
+
+boy 343 :
+name : ltovorbiiv
+attractiveness : 7
+intelligence : 6
+budget : 277
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 344 :
+name : datbkaytxw
+attractiveness : 8
+intelligence : 8
+budget : 9131
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 345 :
+name : vazjwpczxk
+attractiveness : 3
+intelligence : 2
+budget : 6682
+min_attraction_req : 1
+type_of_committed_boy : The Miser
+
+boy 346 :
+name : aecthnvggt
+attractiveness : 5
+intelligence : 9
+budget : 2499
+min_attraction_req : 5
+type_of_committed_boy : The Geeks
+
+boy 347 :
+name : cpwdausevr
+attractiveness : 5
+intelligence : 8
+budget : 2647
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 348 :
+name : tjwxffkalt
+attractiveness : 4
+intelligence : 8
+budget : 8508
+min_attraction_req : 3
+type_of_committed_boy : The Miser
+
+boy 349 :
+name : yyaudcqvgl
+attractiveness : 3
+intelligence : 7
+budget : 1942
+min_attraction_req : 9
+type_of_committed_boy : The Geeks
+
+boy 350 :
+name : xbpvzwalxo
+attractiveness : 9
+intelligence : 9
+budget : 3850
+min_attraction_req : 6
+type_of_committed_boy : The Generous
+
+boy 351 :
+name : tioteryvoe
+attractiveness : 9
+intelligence : 7
+budget : 7316
+min_attraction_req : 2
+type_of_committed_boy : The Generous
+
+boy 352 :
+name : jkoahnxibw
+attractiveness : 3
+intelligence : 4
+budget : 7669
+min_attraction_req : 4
+type_of_committed_boy : The Geeks
+
+boy 353 :
+name : hwzxsfpqad
+attractiveness : 5
+intelligence : 2
+budget : 1747
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 354 :
+name : tijjjqziaa
+attractiveness : 7
+intelligence : 3
+budget : 182
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 355 :
+name : cfyddqjuij
+attractiveness : 2
+intelligence : 10
+budget : 8245
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 356 :
+name : tclemwwlex
+attractiveness : 6
+intelligence : 3
+budget : 1744
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 357 :
+name : zzoyctqlnz
+attractiveness : 4
+intelligence : 5
+budget : 8705
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 358 :
+name : ioavsorrbv
+attractiveness : 9
+intelligence : 1
+budget : 4902
+min_attraction_req : 4
+type_of_committed_boy : The Generous
+
+boy 359 :
+name : qlqgluzdgo
+attractiveness : 5
+intelligence : 10
+budget : 4463
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 360 :
+name : atpdohtgax
+attractiveness : 4
+intelligence : 1
+budget : 4968
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 361 :
+name : ebpuhapgfx
+attractiveness : 3
+intelligence : 9
+budget : 8981
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 362 :
+name : cbnrgebbmd
+attractiveness : 1
+intelligence : 4
+budget : 9567
+min_attraction_req : 1
+type_of_committed_boy : The Miser
+
+boy 363 :
+name : ysdnnkpesu
+attractiveness : 8
+intelligence : 7
+budget : 8291
+min_attraction_req : 8
+type_of_committed_boy : The Miser
+
+boy 364 :
+name : bhuqbauedg
+attractiveness : 4
+intelligence : 7
+budget : 2993
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 365 :
+name : abmeoboffj
+attractiveness : 5
+intelligence : 3
+budget : 984
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 366 :
+name : qjvkawmucq
+attractiveness : 4
+intelligence : 2
+budget : 6235
+min_attraction_req : 6
+type_of_committed_boy : The Generous
+
+boy 367 :
+name : mbqyfhcwmh
+attractiveness : 4
+intelligence : 1
+budget : 1841
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 368 :
+name : zxguhiswdw
+attractiveness : 5
+intelligence : 5
+budget : 2813
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 369 :
+name : zumpuuywsn
+attractiveness : 5
+intelligence : 6
+budget : 8024
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 370 :
+name : ctcjqmrkiw
+attractiveness : 10
+intelligence : 3
+budget : 1327
+min_attraction_req : 4
+type_of_committed_boy : The Generous
+
+boy 371 :
+name : pqyehsyirq
+attractiveness : 2
+intelligence : 4
+budget : 3788
+min_attraction_req : 5
+type_of_committed_boy : The Geeks
+
+boy 372 :
+name : wbmbmepfpz
+attractiveness : 5
+intelligence : 5
+budget : 3374
+min_attraction_req : 3
+type_of_committed_boy : The Generous
+
+boy 373 :
+name : zajzesteak
+attractiveness : 5
+intelligence : 10
+budget : 2
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 374 :
+name : alznmnrbui
+attractiveness : 3
+intelligence : 9
+budget : 6765
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 375 :
+name : xylixrbtvb
+attractiveness : 6
+intelligence : 2
+budget : 2226
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 376 :
+name : xnrwcglujf
+attractiveness : 1
+intelligence : 1
+budget : 7597
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 377 :
+name : pkmctltueq
+attractiveness : 8
+intelligence : 3
+budget : 6562
+min_attraction_req : 3
+type_of_committed_boy : The Miser
+
+boy 378 :
+name : prmippoajy
+attractiveness : 9
+intelligence : 2
+budget : 621
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 379 :
+name : xdjjfevayz
+attractiveness : 9
+intelligence : 4
+budget : 3866
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 380 :
+name : iojxybmndx
+attractiveness : 10
+intelligence : 2
+budget : 2867
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 381 :
+name : lwcwgjadja
+attractiveness : 1
+intelligence : 4
+budget : 3304
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 382 :
+name : laqxxpyjed
+attractiveness : 5
+intelligence : 2
+budget : 5610
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 383 :
+name : oimtgucixo
+attractiveness : 9
+intelligence : 3
+budget : 1826
+min_attraction_req : 4
+type_of_committed_boy : The Geeks
+
+boy 384 :
+name : srwkqubqff
+attractiveness : 8
+intelligence : 1
+budget : 1885
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 385 :
+name : mxvzsdtwlt
+attractiveness : 5
+intelligence : 2
+budget : 8348
+min_attraction_req : 1
+type_of_committed_boy : The Generous
+
+boy 386 :
+name : tytrillkbt
+attractiveness : 10
+intelligence : 8
+budget : 894
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 387 :
+name : yaetzwyttl
+attractiveness : 7
+intelligence : 4
+budget : 3727
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 388 :
+name : kghexsplet
+attractiveness : 7
+intelligence : 6
+budget : 3655
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 389 :
+name : vpkakjyiet
+attractiveness : 10
+intelligence : 9
+budget : 4374
+min_attraction_req : 6
+type_of_committed_boy : The Generous
+
+boy 390 :
+name : knlutlojys
+attractiveness : 5
+intelligence : 5
+budget : 6110
+min_attraction_req : 9
+type_of_committed_boy : The Generous
+
+boy 391 :
+name : xpohrysqix
+attractiveness : 10
+intelligence : 2
+budget : 1362
+min_attraction_req : 3
+type_of_committed_boy : The Miser
+
+boy 392 :
+name : vxvitpvhat
+attractiveness : 6
+intelligence : 3
+budget : 6462
+min_attraction_req : 5
+type_of_committed_boy : The Geeks
+
+boy 393 :
+name : wnpkwjkpbu
+attractiveness : 1
+intelligence : 1
+budget : 5794
+min_attraction_req : 4
+type_of_committed_boy : The Generous
+
+boy 394 :
+name : hayflrugaw
+attractiveness : 1
+intelligence : 6
+budget : 4181
+min_attraction_req : 2
+type_of_committed_boy : The Miser
+
+boy 395 :
+name : ayhrkdcxsd
+attractiveness : 8
+intelligence : 7
+budget : 621
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 396 :
+name : rampfzibgk
+attractiveness : 2
+intelligence : 3
+budget : 4176
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 397 :
+name : gbjntwrvtl
+attractiveness : 8
+intelligence : 1
+budget : 9261
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 398 :
+name : emisdnslpa
+attractiveness : 6
+intelligence : 1
+budget : 8655
+min_attraction_req : 3
+type_of_committed_boy : The Generous
+
+boy 399 :
+name : vqphekfxia
+attractiveness : 3
+intelligence : 2
+budget : 7695
+min_attraction_req : 3
+type_of_committed_boy : The Miser
+
+boy 400 :
+name : ugqcbtrvgg
+attractiveness : 4
+intelligence : 2
+budget : 4256
+min_attraction_req : 8
+type_of_committed_boy : The Miser
+
+boy 401 :
+name : lcdajjnqgv
+attractiveness : 1
+intelligence : 8
+budget : 5363
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 402 :
+name : izaabbtswb
+attractiveness : 8
+intelligence : 4
+budget : 8161
+min_attraction_req : 3
+type_of_committed_boy : The Generous
+
+boy 403 :
+name : tlcwnoiaeo
+attractiveness : 4
+intelligence : 4
+budget : 7608
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 404 :
+name : xlzxlcygww
+attractiveness : 4
+intelligence : 10
+budget : 4540
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 405 :
+name : pgkrfahnam
+attractiveness : 8
+intelligence : 3
+budget : 7258
+min_attraction_req : 8
+type_of_committed_boy : The Miser
+
+boy 406 :
+name : lelkbwobfk
+attractiveness : 4
+intelligence : 1
+budget : 4945
+min_attraction_req : 3
+type_of_committed_boy : The Geeks
+
+boy 407 :
+name : jbiwupwccw
+attractiveness : 1
+intelligence : 9
+budget : 7129
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 408 :
+name : wmrhyufmvk
+attractiveness : 7
+intelligence : 5
+budget : 3194
+min_attraction_req : 1
+type_of_committed_boy : The Miser
+
+boy 409 :
+name : buhlsdbofd
+attractiveness : 7
+intelligence : 8
+budget : 2930
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 410 :
+name : yfkroiltui
+attractiveness : 5
+intelligence : 10
+budget : 6915
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 411 :
+name : igzrtrvuhc
+attractiveness : 1
+intelligence : 7
+budget : 6443
+min_attraction_req : 2
+type_of_committed_boy : The Miser
+
+boy 412 :
+name : akkldyvprs
+attractiveness : 8
+intelligence : 2
+budget : 4648
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 413 :
+name : smkugendav
+attractiveness : 6
+intelligence : 5
+budget : 1110
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 414 :
+name : ukyexdcsut
+attractiveness : 7
+intelligence : 7
+budget : 3178
+min_attraction_req : 4
+type_of_committed_boy : The Generous
+
+boy 415 :
+name : vumiosmbxm
+attractiveness : 3
+intelligence : 2
+budget : 6030
+min_attraction_req : 4
+type_of_committed_boy : The Geeks
+
+boy 416 :
+name : dhadnxgpsb
+attractiveness : 10
+intelligence : 3
+budget : 7540
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 417 :
+name : vbahlqcxrz
+attractiveness : 3
+intelligence : 5
+budget : 8631
+min_attraction_req : 2
+type_of_committed_boy : The Miser
+
+boy 418 :
+name : vgpvjcvpup
+attractiveness : 3
+intelligence : 10
+budget : 1870
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 419 :
+name : biodsatuzn
+attractiveness : 2
+intelligence : 6
+budget : 9338
+min_attraction_req : 5
+type_of_committed_boy : The Miser
+
+boy 420 :
+name : ixuxudcpvw
+attractiveness : 7
+intelligence : 8
+budget : 4212
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 421 :
+name : odjejdecxg
+attractiveness : 4
+intelligence : 8
+budget : 2084
+min_attraction_req : 3
+type_of_committed_boy : The Generous
+
+boy 422 :
+name : iduecokeef
+attractiveness : 1
+intelligence : 3
+budget : 703
+min_attraction_req : 4
+type_of_committed_boy : The Geeks
+
+boy 423 :
+name : ttsfabigfg
+attractiveness : 3
+intelligence : 6
+budget : 656
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 424 :
+name : yqusuziefo
+attractiveness : 4
+intelligence : 9
+budget : 8852
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 425 :
+name : pvjhcjklps
+attractiveness : 8
+intelligence : 5
+budget : 2328
+min_attraction_req : 3
+type_of_committed_boy : The Generous
+
+boy 426 :
+name : guydouewzj
+attractiveness : 8
+intelligence : 1
+budget : 684
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 427 :
+name : hbkqlmzxzo
+attractiveness : 10
+intelligence : 7
+budget : 6983
+min_attraction_req : 9
+type_of_committed_boy : The Geeks
+
+boy 428 :
+name : cnicswxwtw
+attractiveness : 6
+intelligence : 1
+budget : 5479
+min_attraction_req : 2
+type_of_committed_boy : The Generous
+
+boy 429 :
+name : vithyevzev
+attractiveness : 6
+intelligence : 6
+budget : 9834
+min_attraction_req : 9
+type_of_committed_boy : The Generous
+
+boy 430 :
+name : ckpknjhmha
+attractiveness : 1
+intelligence : 5
+budget : 8895
+min_attraction_req : 9
+type_of_committed_boy : The Generous
+
+boy 431 :
+name : ypzrwxyuyc
+attractiveness : 10
+intelligence : 3
+budget : 1888
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 432 :
+name : zgiqtxzcjg
+attractiveness : 3
+intelligence : 8
+budget : 9260
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 433 :
+name : mkbobanbum
+attractiveness : 4
+intelligence : 10
+budget : 9493
+min_attraction_req : 4
+type_of_committed_boy : The Geeks
+
+boy 434 :
+name : ycygtrgutp
+attractiveness : 2
+intelligence : 4
+budget : 604
+min_attraction_req : 1
+type_of_committed_boy : The Miser
+
+boy 435 :
+name : zovccwcqay
+attractiveness : 5
+intelligence : 2
+budget : 4120
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 436 :
+name : bclzkgsqan
+attractiveness : 5
+intelligence : 4
+budget : 7737
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 437 :
+name : xsusuyqzoq
+attractiveness : 6
+intelligence : 3
+budget : 1443
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 438 :
+name : gkatllbfde
+attractiveness : 1
+intelligence : 2
+budget : 2042
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 439 :
+name : pdalxvjnwy
+attractiveness : 1
+intelligence : 8
+budget : 5809
+min_attraction_req : 3
+type_of_committed_boy : The Geeks
+
+boy 440 :
+name : pmspgdcjig
+attractiveness : 6
+intelligence : 3
+budget : 5126
+min_attraction_req : 8
+type_of_committed_boy : The Miser
+
+boy 441 :
+name : aonazkxiyv
+attractiveness : 9
+intelligence : 7
+budget : 2102
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 442 :
+name : zqwsfexiog
+attractiveness : 3
+intelligence : 6
+budget : 1881
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 443 :
+name : tlqioptlat
+attractiveness : 4
+intelligence : 3
+budget : 6668
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 444 :
+name : lbbhthorpe
+attractiveness : 10
+intelligence : 2
+budget : 1124
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 445 :
+name : kecapqsidu
+attractiveness : 2
+intelligence : 9
+budget : 7055
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 446 :
+name : qnsrulaker
+attractiveness : 1
+intelligence : 2
+budget : 1089
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 447 :
+name : pivrkkheum
+attractiveness : 5
+intelligence : 6
+budget : 9804
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 448 :
+name : pvmhmjvpvb
+attractiveness : 9
+intelligence : 3
+budget : 9646
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 449 :
+name : yusvneiwjc
+attractiveness : 5
+intelligence : 8
+budget : 1107
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 450 :
+name : bzjqiwzfnu
+attractiveness : 10
+intelligence : 4
+budget : 1561
+min_attraction_req : 5
+type_of_committed_boy : The Geeks
+
+boy 451 :
+name : qmukhjrpfa
+attractiveness : 9
+intelligence : 9
+budget : 4746
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 452 :
+name : yxyhnjfoos
+attractiveness : 4
+intelligence : 10
+budget : 5853
+min_attraction_req : 4
+type_of_committed_boy : The Geeks
+
+boy 453 :
+name : okzlwjunaa
+attractiveness : 10
+intelligence : 3
+budget : 415
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 454 :
+name : pzqqifzoup
+attractiveness : 5
+intelligence : 8
+budget : 4108
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 455 :
+name : ankayhjsuj
+attractiveness : 7
+intelligence : 9
+budget : 6657
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 456 :
+name : yckqsswtis
+attractiveness : 9
+intelligence : 8
+budget : 6504
+min_attraction_req : 6
+type_of_committed_boy : The Miser
+
+boy 457 :
+name : zackccrlxn
+attractiveness : 3
+intelligence : 10
+budget : 4720
+min_attraction_req : 1
+type_of_committed_boy : The Generous
+
+boy 458 :
+name : ifeuvynrrx
+attractiveness : 2
+intelligence : 6
+budget : 5197
+min_attraction_req : 5
+type_of_committed_boy : The Geeks
+
+boy 459 :
+name : gkdkufpnsm
+attractiveness : 7
+intelligence : 3
+budget : 6578
+min_attraction_req : 9
+type_of_committed_boy : The Generous
+
+boy 460 :
+name : hkanfxlupe
+attractiveness : 8
+intelligence : 1
+budget : 9583
+min_attraction_req : 5
+type_of_committed_boy : The Miser
+
+boy 461 :
+name : lqxoctvrin
+attractiveness : 6
+intelligence : 3
+budget : 4274
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 462 :
+name : aqvcgaarur
+attractiveness : 7
+intelligence : 4
+budget : 6222
+min_attraction_req : 1
+type_of_committed_boy : The Miser
+
+boy 463 :
+name : itnhjqcghk
+attractiveness : 4
+intelligence : 6
+budget : 4520
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 464 :
+name : fbocfuchoy
+attractiveness : 5
+intelligence : 9
+budget : 8997
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 465 :
+name : jerxoapqiw
+attractiveness : 10
+intelligence : 10
+budget : 5210
+min_attraction_req : 9
+type_of_committed_boy : The Geeks
+
+boy 466 :
+name : jdeygkskti
+attractiveness : 6
+intelligence : 1
+budget : 4473
+min_attraction_req : 4
+type_of_committed_boy : The Generous
+
+boy 467 :
+name : siwjhklwbt
+attractiveness : 6
+intelligence : 7
+budget : 911
+min_attraction_req : 5
+type_of_committed_boy : The Miser
+
+boy 468 :
+name : aqfeqlqkyk
+attractiveness : 10
+intelligence : 4
+budget : 4017
+min_attraction_req : 2
+type_of_committed_boy : The Generous
+
+boy 469 :
+name : wkostwfhsg
+attractiveness : 3
+intelligence : 2
+budget : 1501
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 470 :
+name : mzorfefwof
+attractiveness : 7
+intelligence : 6
+budget : 3287
+min_attraction_req : 3
+type_of_committed_boy : The Generous
+
+boy 471 :
+name : umjkgeilld
+attractiveness : 10
+intelligence : 3
+budget : 4871
+min_attraction_req : 2
+type_of_committed_boy : The Generous
+
+boy 472 :
+name : orocltisrx
+attractiveness : 8
+intelligence : 6
+budget : 4985
+min_attraction_req : 6
+type_of_committed_boy : The Generous
+
+boy 473 :
+name : dhdormtaxe
+attractiveness : 4
+intelligence : 8
+budget : 9227
+min_attraction_req : 4
+type_of_committed_boy : The Geeks
+
+boy 474 :
+name : hosxsdtbxk
+attractiveness : 7
+intelligence : 3
+budget : 9023
+min_attraction_req : 3
+type_of_committed_boy : The Geeks
+
+boy 475 :
+name : fkolyfxthw
+attractiveness : 9
+intelligence : 9
+budget : 9716
+min_attraction_req : 5
+type_of_committed_boy : The Geeks
+
+boy 476 :
+name : qcaibsnutk
+attractiveness : 6
+intelligence : 6
+budget : 8945
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 477 :
+name : lciznigkco
+attractiveness : 2
+intelligence : 3
+budget : 8435
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 478 :
+name : ooaoychlyc
+attractiveness : 2
+intelligence : 8
+budget : 9571
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 479 :
+name : uofepuowfq
+attractiveness : 5
+intelligence : 7
+budget : 9221
+min_attraction_req : 9
+type_of_committed_boy : The Generous
+
+boy 480 :
+name : rdfttdvapu
+attractiveness : 4
+intelligence : 7
+budget : 3496
+min_attraction_req : 4
+type_of_committed_boy : The Generous
+
+boy 481 :
+name : gvclzsfpom
+attractiveness : 5
+intelligence : 1
+budget : 9615
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 482 :
+name : tvvyppdmrs
+attractiveness : 1
+intelligence : 7
+budget : 1148
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 483 :
+name : tqqvdrnkjb
+attractiveness : 6
+intelligence : 8
+budget : 1028
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 484 :
+name : wwrtwiiauc
+attractiveness : 5
+intelligence : 2
+budget : 1637
+min_attraction_req : 4
+type_of_committed_boy : The Generous
+
+boy 485 :
+name : ushmomgdyp
+attractiveness : 8
+intelligence : 10
+budget : 3985
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 486 :
+name : bibucycmyx
+attractiveness : 5
+intelligence : 5
+budget : 4961
+min_attraction_req : 4
+type_of_committed_boy : The Geeks
+
+boy 487 :
+name : tjmcvcqdgo
+attractiveness : 7
+intelligence : 6
+budget : 4629
+min_attraction_req : 3
+type_of_committed_boy : The Generous
+
+boy 488 :
+name : remuaqsdcs
+attractiveness : 7
+intelligence : 2
+budget : 6952
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 489 :
+name : hzrvboyrsg
+attractiveness : 4
+intelligence : 9
+budget : 510
+min_attraction_req : 2
+type_of_committed_boy : The Miser
+
+boy 490 :
+name : yovkjvadad
+attractiveness : 9
+intelligence : 9
+budget : 2841
+min_attraction_req : 2
+type_of_committed_boy : The Miser
+
+boy 491 :
+name : gshzninnbh
+attractiveness : 6
+intelligence : 10
+budget : 487
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 492 :
+name : lrvibgdejg
+attractiveness : 6
+intelligence : 8
+budget : 1711
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 493 :
+name : rpkyoajdpk
+attractiveness : 6
+intelligence : 4
+budget : 6880
+min_attraction_req : 4
+type_of_committed_boy : The Geeks
+
+boy 494 :
+name : eswzaahfeq
+attractiveness : 8
+intelligence : 6
+budget : 8629
+min_attraction_req : 9
+type_of_committed_boy : The Geeks
+
+boy 495 :
+name : qnlblbdwes
+attractiveness : 6
+intelligence : 2
+budget : 3210
+min_attraction_req : 5
+type_of_committed_boy : The Miser
+
+boy 496 :
+name : jiohjqjqyn
+attractiveness : 2
+intelligence : 2
+budget : 3737
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 497 :
+name : yxulagmdcr
+attractiveness : 7
+intelligence : 8
+budget : 4083
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 498 :
+name : fmcvwomfgm
+attractiveness : 6
+intelligence : 2
+budget : 1108
+min_attraction_req : 4
+type_of_committed_boy : The Geeks
+
+boy 499 :
+name : fywzjyhycm
+attractiveness : 8
+intelligence : 9
+budget : 3260
+min_attraction_req : 2
+type_of_committed_boy : The Miser
+
+boy 500 :
+name : rcowakkmpq
+attractiveness : 1
+intelligence : 7
+budget : 6155
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 501 :
+name : gciectdjrh
+attractiveness : 4
+intelligence : 1
+budget : 4506
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 502 :
+name : iokykkkuyc
+attractiveness : 8
+intelligence : 1
+budget : 8207
+min_attraction_req : 2
+type_of_committed_boy : The Generous
+
+boy 503 :
+name : ydagicanor
+attractiveness : 9
+intelligence : 10
+budget : 9481
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 504 :
+name : ilxsmhfwed
+attractiveness : 9
+intelligence : 10
+budget : 9785
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 505 :
+name : cltcsdfusv
+attractiveness : 10
+intelligence : 3
+budget : 8517
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 506 :
+name : rvfoqrxvpd
+attractiveness : 3
+intelligence : 3
+budget : 3221
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 507 :
+name : mgoijilqee
+attractiveness : 4
+intelligence : 7
+budget : 2735
+min_attraction_req : 2
+type_of_committed_boy : The Generous
+
+boy 508 :
+name : mkdtatkaob
+attractiveness : 8
+intelligence : 9
+budget : 1750
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 509 :
+name : uqbjyktmay
+attractiveness : 1
+intelligence : 6
+budget : 6449
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 510 :
+name : xytarwvdyj
+attractiveness : 6
+intelligence : 4
+budget : 9409
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 511 :
+name : vrywcyhxkj
+attractiveness : 6
+intelligence : 7
+budget : 3882
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 512 :
+name : glnbnfxjkx
+attractiveness : 3
+intelligence : 10
+budget : 9320
+min_attraction_req : 3
+type_of_committed_boy : The Geeks
+
+boy 513 :
+name : iphimjhvgt
+attractiveness : 9
+intelligence : 1
+budget : 3641
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 514 :
+name : nhcajqhibu
+attractiveness : 3
+intelligence : 8
+budget : 4514
+min_attraction_req : 4
+type_of_committed_boy : The Generous
+
+boy 515 :
+name : zrfgctploy
+attractiveness : 3
+intelligence : 4
+budget : 2311
+min_attraction_req : 5
+type_of_committed_boy : The Miser
+
+boy 516 :
+name : vrgaupsbzt
+attractiveness : 10
+intelligence : 6
+budget : 4789
+min_attraction_req : 4
+type_of_committed_boy : The Geeks
+
+boy 517 :
+name : egkmpmfezu
+attractiveness : 5
+intelligence : 6
+budget : 5446
+min_attraction_req : 5
+type_of_committed_boy : The Geeks
+
+boy 518 :
+name : lgbrgviazk
+attractiveness : 2
+intelligence : 3
+budget : 9700
+min_attraction_req : 2
+type_of_committed_boy : The Miser
+
+boy 519 :
+name : iooucdihjh
+attractiveness : 6
+intelligence : 9
+budget : 6003
+min_attraction_req : 1
+type_of_committed_boy : The Generous
+
+boy 520 :
+name : yegcxozgoa
+attractiveness : 3
+intelligence : 10
+budget : 466
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 521 :
+name : gtjunlzvul
+attractiveness : 9
+intelligence : 5
+budget : 9840
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 522 :
+name : dtwkxuazcp
+attractiveness : 2
+intelligence : 9
+budget : 6555
+min_attraction_req : 9
+type_of_committed_boy : The Generous
+
+boy 523 :
+name : thzedorfmm
+attractiveness : 1
+intelligence : 1
+budget : 8381
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 524 :
+name : cyhbigvjfz
+attractiveness : 7
+intelligence : 2
+budget : 1446
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 525 :
+name : awozcsouxa
+attractiveness : 9
+intelligence : 10
+budget : 9759
+min_attraction_req : 1
+type_of_committed_boy : The Miser
+
+boy 526 :
+name : gwipztvueb
+attractiveness : 10
+intelligence : 3
+budget : 8523
+min_attraction_req : 5
+type_of_committed_boy : The Geeks
+
+boy 527 :
+name : pregqhagdz
+attractiveness : 3
+intelligence : 6
+budget : 6153
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 528 :
+name : ajdiyddtzh
+attractiveness : 1
+intelligence : 2
+budget : 4860
+min_attraction_req : 5
+type_of_committed_boy : The Geeks
+
+boy 529 :
+name : wyecexlgfo
+attractiveness : 4
+intelligence : 1
+budget : 3406
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 530 :
+name : gvamfarlvs
+attractiveness : 3
+intelligence : 7
+budget : 6074
+min_attraction_req : 3
+type_of_committed_boy : The Geeks
+
+boy 531 :
+name : diyjkegwko
+attractiveness : 7
+intelligence : 10
+budget : 7145
+min_attraction_req : 5
+type_of_committed_boy : The Miser
+
+boy 532 :
+name : vuhvipvzaq
+attractiveness : 9
+intelligence : 3
+budget : 4919
+min_attraction_req : 2
+type_of_committed_boy : The Miser
+
+boy 533 :
+name : lmojyzogxy
+attractiveness : 9
+intelligence : 8
+budget : 8417
+min_attraction_req : 3
+type_of_committed_boy : The Miser
+
+boy 534 :
+name : ctsmoadlcf
+attractiveness : 3
+intelligence : 9
+budget : 7184
+min_attraction_req : 3
+type_of_committed_boy : The Generous
+
+boy 535 :
+name : ibuwnuxdau
+attractiveness : 4
+intelligence : 8
+budget : 1275
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 536 :
+name : byntmduprw
+attractiveness : 7
+intelligence : 4
+budget : 8137
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 537 :
+name : bdrvcepzjs
+attractiveness : 9
+intelligence : 3
+budget : 9474
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 538 :
+name : idivxubrjs
+attractiveness : 2
+intelligence : 8
+budget : 6510
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 539 :
+name : cmetkizbjk
+attractiveness : 4
+intelligence : 8
+budget : 2858
+min_attraction_req : 9
+type_of_committed_boy : The Geeks
+
+boy 540 :
+name : jrltoknpdy
+attractiveness : 6
+intelligence : 1
+budget : 276
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 541 :
+name : dbrjwdryfb
+attractiveness : 3
+intelligence : 3
+budget : 575
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 542 :
+name : qscdlqnagq
+attractiveness : 3
+intelligence : 6
+budget : 5231
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 543 :
+name : phrispmkpt
+attractiveness : 10
+intelligence : 7
+budget : 7752
+min_attraction_req : 6
+type_of_committed_boy : The Generous
+
+boy 544 :
+name : elegorxbuf
+attractiveness : 8
+intelligence : 1
+budget : 3957
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 545 :
+name : mshdbzvplk
+attractiveness : 3
+intelligence : 1
+budget : 9083
+min_attraction_req : 4
+type_of_committed_boy : The Generous
+
+boy 546 :
+name : wgfcowtlzn
+attractiveness : 3
+intelligence : 6
+budget : 1845
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 547 :
+name : ibprhssche
+attractiveness : 1
+intelligence : 6
+budget : 2095
+min_attraction_req : 6
+type_of_committed_boy : The Miser
+
+boy 548 :
+name : yzagbpcwcb
+attractiveness : 9
+intelligence : 10
+budget : 6429
+min_attraction_req : 3
+type_of_committed_boy : The Geeks
+
+boy 549 :
+name : rgpixwaraj
+attractiveness : 8
+intelligence : 6
+budget : 3935
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 550 :
+name : sartgskkqo
+attractiveness : 3
+intelligence : 3
+budget : 5770
+min_attraction_req : 3
+type_of_committed_boy : The Generous
+
+boy 551 :
+name : xzgnhfljxm
+attractiveness : 7
+intelligence : 1
+budget : 6468
+min_attraction_req : 3
+type_of_committed_boy : The Generous
+
+boy 552 :
+name : vlxogfgsqy
+attractiveness : 3
+intelligence : 3
+budget : 6768
+min_attraction_req : 5
+type_of_committed_boy : The Geeks
+
+boy 553 :
+name : bpoiexpqhm
+attractiveness : 9
+intelligence : 4
+budget : 2486
+min_attraction_req : 6
+type_of_committed_boy : The Miser
+
+boy 554 :
+name : fehespkahc
+attractiveness : 1
+intelligence : 2
+budget : 8275
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 555 :
+name : udzindgevp
+attractiveness : 2
+intelligence : 2
+budget : 4543
+min_attraction_req : 9
+type_of_committed_boy : The Generous
+
+boy 556 :
+name : kfotkiiwkp
+attractiveness : 1
+intelligence : 4
+budget : 1248
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 557 :
+name : oapnjetrjo
+attractiveness : 5
+intelligence : 1
+budget : 217
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 558 :
+name : ajjrevzntk
+attractiveness : 7
+intelligence : 6
+budget : 7228
+min_attraction_req : 6
+type_of_committed_boy : The Generous
+
+boy 559 :
+name : haaznlficq
+attractiveness : 10
+intelligence : 3
+budget : 7035
+min_attraction_req : 6
+type_of_committed_boy : The Generous
+
+boy 560 :
+name : yrrkiwfkjz
+attractiveness : 5
+intelligence : 6
+budget : 6065
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 561 :
+name : sabszqfhzh
+attractiveness : 4
+intelligence : 5
+budget : 6006
+min_attraction_req : 9
+type_of_committed_boy : The Geeks
+
+boy 562 :
+name : zqirctpifa
+attractiveness : 2
+intelligence : 2
+budget : 8210
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 563 :
+name : svutpwmudn
+attractiveness : 10
+intelligence : 3
+budget : 9596
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 564 :
+name : euponrhczm
+attractiveness : 3
+intelligence : 3
+budget : 8136
+min_attraction_req : 4
+type_of_committed_boy : The Geeks
+
+boy 565 :
+name : jmjehzattf
+attractiveness : 3
+intelligence : 2
+budget : 6480
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 566 :
+name : gbnvqamxco
+attractiveness : 3
+intelligence : 9
+budget : 9611
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 567 :
+name : mlowpvvrrq
+attractiveness : 7
+intelligence : 8
+budget : 6700
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 568 :
+name : fnyskotzox
+attractiveness : 6
+intelligence : 1
+budget : 175
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 569 :
+name : icoyafvvym
+attractiveness : 6
+intelligence : 3
+budget : 7121
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 570 :
+name : lgtlagcvfq
+attractiveness : 10
+intelligence : 1
+budget : 7085
+min_attraction_req : 4
+type_of_committed_boy : The Geeks
+
+boy 571 :
+name : vljkjjpego
+attractiveness : 2
+intelligence : 1
+budget : 5323
+min_attraction_req : 2
+type_of_committed_boy : The Miser
+
+boy 572 :
+name : sudohdujbz
+attractiveness : 2
+intelligence : 9
+budget : 4310
+min_attraction_req : 6
+type_of_committed_boy : The Generous
+
+boy 573 :
+name : cpkmztxqze
+attractiveness : 5
+intelligence : 1
+budget : 4367
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 574 :
+name : xjxaxfftqg
+attractiveness : 9
+intelligence : 1
+budget : 95
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 575 :
+name : bqclcbebsg
+attractiveness : 6
+intelligence : 9
+budget : 495
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 576 :
+name : cebzgagmux
+attractiveness : 7
+intelligence : 5
+budget : 296
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 577 :
+name : casfmwisxc
+attractiveness : 3
+intelligence : 6
+budget : 6544
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 578 :
+name : sdtvezwlnq
+attractiveness : 1
+intelligence : 5
+budget : 1769
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 579 :
+name : ibhaivyroy
+attractiveness : 8
+intelligence : 7
+budget : 4222
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 580 :
+name : rpukkzmgkz
+attractiveness : 9
+intelligence : 7
+budget : 3500
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 581 :
+name : olwyoftmwj
+attractiveness : 7
+intelligence : 8
+budget : 8503
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 582 :
+name : rjbmvllhsx
+attractiveness : 6
+intelligence : 1
+budget : 8484
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 583 :
+name : khjgfznynj
+attractiveness : 7
+intelligence : 3
+budget : 7340
+min_attraction_req : 9
+type_of_committed_boy : The Geeks
+
+boy 584 :
+name : nbaonybafv
+attractiveness : 2
+intelligence : 3
+budget : 4617
+min_attraction_req : 5
+type_of_committed_boy : The Miser
+
+boy 585 :
+name : laoujtvwtj
+attractiveness : 7
+intelligence : 8
+budget : 2882
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 586 :
+name : awtdmgbpji
+attractiveness : 2
+intelligence : 7
+budget : 2676
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 587 :
+name : gmxujipehk
+attractiveness : 8
+intelligence : 6
+budget : 131
+min_attraction_req : 9
+type_of_committed_boy : The Geeks
+
+boy 588 :
+name : hbwaekjhzs
+attractiveness : 6
+intelligence : 7
+budget : 449
+min_attraction_req : 3
+type_of_committed_boy : The Geeks
+
+boy 589 :
+name : xwexsnfjtm
+attractiveness : 9
+intelligence : 4
+budget : 2326
+min_attraction_req : 1
+type_of_committed_boy : The Generous
+
+boy 590 :
+name : bvkxwqjhxl
+attractiveness : 4
+intelligence : 2
+budget : 8018
+min_attraction_req : 2
+type_of_committed_boy : The Miser
+
+boy 591 :
+name : pzctwwibgb
+attractiveness : 7
+intelligence : 3
+budget : 8509
+min_attraction_req : 2
+type_of_committed_boy : The Generous
+
+boy 592 :
+name : wvlgsjxesu
+attractiveness : 10
+intelligence : 6
+budget : 7674
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 593 :
+name : rhuvasrktz
+attractiveness : 9
+intelligence : 6
+budget : 1846
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 594 :
+name : twyhdsqayl
+attractiveness : 9
+intelligence : 8
+budget : 7395
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 595 :
+name : zbnvyqnraj
+attractiveness : 6
+intelligence : 3
+budget : 4813
+min_attraction_req : 1
+type_of_committed_boy : The Generous
+
+boy 596 :
+name : xqlxxospqq
+attractiveness : 3
+intelligence : 10
+budget : 7731
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 597 :
+name : mgcbccrpts
+attractiveness : 9
+intelligence : 3
+budget : 5
+min_attraction_req : 2
+type_of_committed_boy : The Miser
+
+boy 598 :
+name : xszjswzknq
+attractiveness : 3
+intelligence : 5
+budget : 8890
+min_attraction_req : 3
+type_of_committed_boy : The Miser
+
+boy 599 :
+name : iudkwfmpxh
+attractiveness : 2
+intelligence : 10
+budget : 2213
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 600 :
+name : dpjcadaanp
+attractiveness : 1
+intelligence : 4
+budget : 6756
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 601 :
+name : chsgtqlhik
+attractiveness : 9
+intelligence : 6
+budget : 4613
+min_attraction_req : 1
+type_of_committed_boy : The Miser
+
+boy 602 :
+name : ylbjpbmrdz
+attractiveness : 8
+intelligence : 10
+budget : 7772
+min_attraction_req : 3
+type_of_committed_boy : The Generous
+
+boy 603 :
+name : npffvayihg
+attractiveness : 8
+intelligence : 1
+budget : 7916
+min_attraction_req : 2
+type_of_committed_boy : The Miser
+
+boy 604 :
+name : jzumllpxdt
+attractiveness : 4
+intelligence : 9
+budget : 951
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 605 :
+name : pbnwikzgti
+attractiveness : 9
+intelligence : 3
+budget : 8851
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 606 :
+name : pxqljbwybb
+attractiveness : 8
+intelligence : 1
+budget : 9024
+min_attraction_req : 1
+type_of_committed_boy : The Generous
+
+boy 607 :
+name : mdrzzzkyif
+attractiveness : 2
+intelligence : 5
+budget : 3986
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 608 :
+name : kejcrueovh
+attractiveness : 8
+intelligence : 3
+budget : 7988
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 609 :
+name : vrdmqfncfx
+attractiveness : 10
+intelligence : 9
+budget : 8517
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 610 :
+name : immupeovul
+attractiveness : 1
+intelligence : 2
+budget : 7703
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 611 :
+name : cghiuaphcw
+attractiveness : 10
+intelligence : 5
+budget : 5034
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 612 :
+name : tlbfhsjypd
+attractiveness : 4
+intelligence : 10
+budget : 7512
+min_attraction_req : 8
+type_of_committed_boy : The Miser
+
+boy 613 :
+name : hokrygrpnv
+attractiveness : 8
+intelligence : 3
+budget : 8876
+min_attraction_req : 1
+type_of_committed_boy : The Miser
+
+boy 614 :
+name : utlxzspkqg
+attractiveness : 7
+intelligence : 5
+budget : 988
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 615 :
+name : dqdphbvask
+attractiveness : 3
+intelligence : 5
+budget : 1270
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 616 :
+name : ezyryzmpje
+attractiveness : 4
+intelligence : 8
+budget : 8687
+min_attraction_req : 1
+type_of_committed_boy : The Miser
+
+boy 617 :
+name : uzzxoibllt
+attractiveness : 3
+intelligence : 6
+budget : 216
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 618 :
+name : gjogdofpeq
+attractiveness : 6
+intelligence : 8
+budget : 8381
+min_attraction_req : 3
+type_of_committed_boy : The Generous
+
+boy 619 :
+name : awvzvmiwzt
+attractiveness : 5
+intelligence : 8
+budget : 9037
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 620 :
+name : qbmgjrvoib
+attractiveness : 2
+intelligence : 2
+budget : 4309
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 621 :
+name : wzdszbgjzf
+attractiveness : 9
+intelligence : 4
+budget : 7244
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 622 :
+name : faqthakeqs
+attractiveness : 6
+intelligence : 8
+budget : 7391
+min_attraction_req : 6
+type_of_committed_boy : The Generous
+
+boy 623 :
+name : feyjyxkgij
+attractiveness : 2
+intelligence : 9
+budget : 92
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 624 :
+name : swwkrfmcjf
+attractiveness : 9
+intelligence : 7
+budget : 521
+min_attraction_req : 1
+type_of_committed_boy : The Generous
+
+boy 625 :
+name : dcebneazmk
+attractiveness : 5
+intelligence : 2
+budget : 8209
+min_attraction_req : 6
+type_of_committed_boy : The Miser
+
+boy 626 :
+name : uhmqudwghh
+attractiveness : 6
+intelligence : 3
+budget : 4227
+min_attraction_req : 9
+type_of_committed_boy : The Generous
+
+boy 627 :
+name : avggytkysw
+attractiveness : 9
+intelligence : 2
+budget : 3736
+min_attraction_req : 9
+type_of_committed_boy : The Geeks
+
+boy 628 :
+name : lcczswfqem
+attractiveness : 1
+intelligence : 3
+budget : 6415
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 629 :
+name : zaffgdzsdt
+attractiveness : 5
+intelligence : 8
+budget : 9079
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 630 :
+name : rzxtyrpdiv
+attractiveness : 7
+intelligence : 3
+budget : 3810
+min_attraction_req : 3
+type_of_committed_boy : The Generous
+
+boy 631 :
+name : xnkctsfuki
+attractiveness : 10
+intelligence : 9
+budget : 812
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 632 :
+name : sdmpwnhnqr
+attractiveness : 9
+intelligence : 5
+budget : 9436
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 633 :
+name : ltmvyhnfbz
+attractiveness : 9
+intelligence : 4
+budget : 8650
+min_attraction_req : 2
+type_of_committed_boy : The Miser
+
+boy 634 :
+name : meebvcocpg
+attractiveness : 8
+intelligence : 2
+budget : 5084
+min_attraction_req : 3
+type_of_committed_boy : The Generous
+
+boy 635 :
+name : shreerotwp
+attractiveness : 9
+intelligence : 1
+budget : 9803
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 636 :
+name : jienjbrzgg
+attractiveness : 8
+intelligence : 8
+budget : 2755
+min_attraction_req : 3
+type_of_committed_boy : The Geeks
+
+boy 637 :
+name : fqjyxopljm
+attractiveness : 1
+intelligence : 3
+budget : 4677
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 638 :
+name : ysheisgzrm
+attractiveness : 5
+intelligence : 2
+budget : 7598
+min_attraction_req : 9
+type_of_committed_boy : The Geeks
+
+boy 639 :
+name : pvqzunpjya
+attractiveness : 4
+intelligence : 9
+budget : 743
+min_attraction_req : 3
+type_of_committed_boy : The Miser
+
+boy 640 :
+name : euenzogfnz
+attractiveness : 2
+intelligence : 4
+budget : 5549
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 641 :
+name : yyjoxdbmob
+attractiveness : 3
+intelligence : 5
+budget : 2482
+min_attraction_req : 8
+type_of_committed_boy : The Miser
+
+boy 642 :
+name : pzevmdjskw
+attractiveness : 1
+intelligence : 2
+budget : 1015
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 643 :
+name : hqmqgjvhxm
+attractiveness : 3
+intelligence : 10
+budget : 3751
+min_attraction_req : 5
+type_of_committed_boy : The Miser
+
+boy 644 :
+name : idfmassjme
+attractiveness : 2
+intelligence : 3
+budget : 8027
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 645 :
+name : ylrkbytzhs
+attractiveness : 4
+intelligence : 9
+budget : 5476
+min_attraction_req : 4
+type_of_committed_boy : The Generous
+
+boy 646 :
+name : mtlrhljbww
+attractiveness : 9
+intelligence : 2
+budget : 2033
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 647 :
+name : dquxaxvvwe
+attractiveness : 6
+intelligence : 8
+budget : 4813
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 648 :
+name : cenpyxchyy
+attractiveness : 4
+intelligence : 5
+budget : 8727
+min_attraction_req : 9
+type_of_committed_boy : The Geeks
+
+boy 649 :
+name : ppmjmoijjh
+attractiveness : 3
+intelligence : 9
+budget : 721
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 650 :
+name : lpxaexxhhw
+attractiveness : 4
+intelligence : 9
+budget : 2525
+min_attraction_req : 2
+type_of_committed_boy : The Miser
+
+boy 651 :
+name : bcopnaewkp
+attractiveness : 4
+intelligence : 3
+budget : 5519
+min_attraction_req : 6
+type_of_committed_boy : The Miser
+
+boy 652 :
+name : hizgjgeipl
+attractiveness : 5
+intelligence : 5
+budget : 9234
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 653 :
+name : ymoobcqhaa
+attractiveness : 2
+intelligence : 6
+budget : 6177
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 654 :
+name : nujmauseeh
+attractiveness : 10
+intelligence : 6
+budget : 5717
+min_attraction_req : 6
+type_of_committed_boy : The Generous
+
+boy 655 :
+name : srighlkxtk
+attractiveness : 5
+intelligence : 3
+budget : 8326
+min_attraction_req : 3
+type_of_committed_boy : The Miser
+
+boy 656 :
+name : spxdczzwgd
+attractiveness : 9
+intelligence : 8
+budget : 8355
+min_attraction_req : 5
+type_of_committed_boy : The Miser
+
+boy 657 :
+name : mgjwmqkxqd
+attractiveness : 4
+intelligence : 5
+budget : 184
+min_attraction_req : 2
+type_of_committed_boy : The Miser
+
+boy 658 :
+name : atkzwoyxke
+attractiveness : 7
+intelligence : 3
+budget : 7001
+min_attraction_req : 2
+type_of_committed_boy : The Miser
+
+boy 659 :
+name : ufmgezwoyo
+attractiveness : 2
+intelligence : 8
+budget : 5745
+min_attraction_req : 5
+type_of_committed_boy : The Geeks
+
+boy 660 :
+name : bqflpdznal
+attractiveness : 5
+intelligence : 8
+budget : 5157
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 661 :
+name : msbzyhyxvy
+attractiveness : 8
+intelligence : 3
+budget : 5414
+min_attraction_req : 3
+type_of_committed_boy : The Miser
+
+boy 662 :
+name : utwzgldhzf
+attractiveness : 1
+intelligence : 8
+budget : 4855
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 663 :
+name : cnhgminmfj
+attractiveness : 7
+intelligence : 5
+budget : 1448
+min_attraction_req : 2
+type_of_committed_boy : The Generous
+
+boy 664 :
+name : gpferlqwup
+attractiveness : 6
+intelligence : 4
+budget : 8577
+min_attraction_req : 3
+type_of_committed_boy : The Geeks
+
+boy 665 :
+name : zoeiusqigv
+attractiveness : 4
+intelligence : 5
+budget : 131
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 666 :
+name : ycfehwrxsm
+attractiveness : 5
+intelligence : 1
+budget : 7998
+min_attraction_req : 3
+type_of_committed_boy : The Geeks
+
+boy 667 :
+name : uzubhptaza
+attractiveness : 8
+intelligence : 1
+budget : 3757
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 668 :
+name : ikroqamjxh
+attractiveness : 6
+intelligence : 6
+budget : 9808
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 669 :
+name : lxkfytwttv
+attractiveness : 4
+intelligence : 8
+budget : 5272
+min_attraction_req : 1
+type_of_committed_boy : The Miser
+
+boy 670 :
+name : gaqxogzdqy
+attractiveness : 3
+intelligence : 8
+budget : 5730
+min_attraction_req : 2
+type_of_committed_boy : The Miser
+
+boy 671 :
+name : yanifldeez
+attractiveness : 2
+intelligence : 5
+budget : 3391
+min_attraction_req : 6
+type_of_committed_boy : The Miser
+
+boy 672 :
+name : wzsnyjvxmn
+attractiveness : 6
+intelligence : 1
+budget : 390
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 673 :
+name : rgngqurtyx
+attractiveness : 9
+intelligence : 3
+budget : 9886
+min_attraction_req : 9
+type_of_committed_boy : The Generous
+
+boy 674 :
+name : rlumyuvvrj
+attractiveness : 2
+intelligence : 9
+budget : 300
+min_attraction_req : 3
+type_of_committed_boy : The Generous
+
+boy 675 :
+name : ufchlsbenc
+attractiveness : 6
+intelligence : 1
+budget : 881
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 676 :
+name : zwftifpfdg
+attractiveness : 7
+intelligence : 9
+budget : 6793
+min_attraction_req : 6
+type_of_committed_boy : The Generous
+
+boy 677 :
+name : sphwyuoayb
+attractiveness : 3
+intelligence : 6
+budget : 7012
+min_attraction_req : 3
+type_of_committed_boy : The Geeks
+
+boy 678 :
+name : ghdncltrry
+attractiveness : 8
+intelligence : 4
+budget : 705
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 679 :
+name : mnuvjtpzvp
+attractiveness : 7
+intelligence : 8
+budget : 8829
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 680 :
+name : xuqcjsnelg
+attractiveness : 5
+intelligence : 7
+budget : 4939
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 681 :
+name : rculxfemgb
+attractiveness : 4
+intelligence : 7
+budget : 9415
+min_attraction_req : 5
+type_of_committed_boy : The Miser
+
+boy 682 :
+name : jvsbxetkie
+attractiveness : 2
+intelligence : 2
+budget : 8459
+min_attraction_req : 2
+type_of_committed_boy : The Generous
+
+boy 683 :
+name : xyetjbyqqg
+attractiveness : 10
+intelligence : 8
+budget : 7876
+min_attraction_req : 5
+type_of_committed_boy : The Geeks
+
+boy 684 :
+name : pfmkhjocwy
+attractiveness : 4
+intelligence : 2
+budget : 5742
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 685 :
+name : nxsrqdurtk
+attractiveness : 10
+intelligence : 8
+budget : 4723
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 686 :
+name : xgokqxvgar
+attractiveness : 1
+intelligence : 6
+budget : 4355
+min_attraction_req : 5
+type_of_committed_boy : The Geeks
+
+boy 687 :
+name : adhuuayort
+attractiveness : 6
+intelligence : 9
+budget : 3441
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 688 :
+name : pgpgsfdolf
+attractiveness : 10
+intelligence : 6
+budget : 3181
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 689 :
+name : bokklgklxd
+attractiveness : 1
+intelligence : 1
+budget : 5251
+min_attraction_req : 4
+type_of_committed_boy : The Geeks
+
+boy 690 :
+name : fepukibqwo
+attractiveness : 4
+intelligence : 2
+budget : 810
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 691 :
+name : nrgzdrgocd
+attractiveness : 6
+intelligence : 1
+budget : 5640
+min_attraction_req : 6
+type_of_committed_boy : The Generous
+
+boy 692 :
+name : mucbqojrgh
+attractiveness : 2
+intelligence : 7
+budget : 5680
+min_attraction_req : 4
+type_of_committed_boy : The Geeks
+
+boy 693 :
+name : aangzszhib
+attractiveness : 5
+intelligence : 7
+budget : 3903
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 694 :
+name : jbqnfgcoyk
+attractiveness : 1
+intelligence : 8
+budget : 2007
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 695 :
+name : kluzuwstda
+attractiveness : 2
+intelligence : 9
+budget : 495
+min_attraction_req : 4
+type_of_committed_boy : The Geeks
+
+boy 696 :
+name : yuloiqumgu
+attractiveness : 5
+intelligence : 5
+budget : 1999
+min_attraction_req : 4
+type_of_committed_boy : The Geeks
+
+boy 697 :
+name : uzbpzvntoq
+attractiveness : 4
+intelligence : 2
+budget : 7167
+min_attraction_req : 9
+type_of_committed_boy : The Geeks
+
+boy 698 :
+name : satdobtkpz
+attractiveness : 10
+intelligence : 8
+budget : 951
+min_attraction_req : 8
+type_of_committed_boy : The Miser
+
+boy 699 :
+name : tfauwzrjug
+attractiveness : 5
+intelligence : 6
+budget : 2186
+min_attraction_req : 3
+type_of_committed_boy : The Miser
+
+boy 700 :
+name : serlhhoaud
+attractiveness : 5
+intelligence : 10
+budget : 4705
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 701 :
+name : pdrpaqqrzm
+attractiveness : 8
+intelligence : 2
+budget : 3114
+min_attraction_req : 6
+type_of_committed_boy : The Generous
+
+boy 702 :
+name : vluoweymgs
+attractiveness : 8
+intelligence : 9
+budget : 3546
+min_attraction_req : 4
+type_of_committed_boy : The Generous
+
+boy 703 :
+name : hwwynwqfnq
+attractiveness : 10
+intelligence : 10
+budget : 8572
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 704 :
+name : lstiirmgdu
+attractiveness : 3
+intelligence : 1
+budget : 1090
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 705 :
+name : xawvbjrrph
+attractiveness : 10
+intelligence : 1
+budget : 185
+min_attraction_req : 2
+type_of_committed_boy : The Miser
+
+boy 706 :
+name : gszzcisqox
+attractiveness : 10
+intelligence : 4
+budget : 5124
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 707 :
+name : qnloloaehr
+attractiveness : 10
+intelligence : 2
+budget : 7774
+min_attraction_req : 6
+type_of_committed_boy : The Miser
+
+boy 708 :
+name : hpsgqxoknf
+attractiveness : 2
+intelligence : 1
+budget : 2541
+min_attraction_req : 5
+type_of_committed_boy : The Miser
+
+boy 709 :
+name : grethphhtr
+attractiveness : 7
+intelligence : 6
+budget : 9967
+min_attraction_req : 3
+type_of_committed_boy : The Miser
+
+boy 710 :
+name : mjkgpcdgnr
+attractiveness : 10
+intelligence : 3
+budget : 1080
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 711 :
+name : gpqkjxbshw
+attractiveness : 2
+intelligence : 4
+budget : 486
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 712 :
+name : yjskqkmtqb
+attractiveness : 5
+intelligence : 8
+budget : 3427
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 713 :
+name : vidnuokvjr
+attractiveness : 6
+intelligence : 1
+budget : 2628
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 714 :
+name : kzdfjtpxph
+attractiveness : 2
+intelligence : 4
+budget : 1919
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 715 :
+name : awlfjfuvcf
+attractiveness : 8
+intelligence : 3
+budget : 9966
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 716 :
+name : vcyzhhuygj
+attractiveness : 4
+intelligence : 4
+budget : 5890
+min_attraction_req : 2
+type_of_committed_boy : The Generous
+
+boy 717 :
+name : oteaznhvlk
+attractiveness : 5
+intelligence : 1
+budget : 9821
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 718 :
+name : hzsfacoucw
+attractiveness : 1
+intelligence : 5
+budget : 9615
+min_attraction_req : 2
+type_of_committed_boy : The Generous
+
+boy 719 :
+name : mfzrhagpxr
+attractiveness : 10
+intelligence : 2
+budget : 8544
+min_attraction_req : 2
+type_of_committed_boy : The Miser
+
+boy 720 :
+name : jsbezbgnwk
+attractiveness : 6
+intelligence : 5
+budget : 2015
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 721 :
+name : aeabviddxa
+attractiveness : 4
+intelligence : 3
+budget : 5696
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 722 :
+name : bcddgcgore
+attractiveness : 1
+intelligence : 7
+budget : 5061
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 723 :
+name : dzyeavofan
+attractiveness : 10
+intelligence : 4
+budget : 9194
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 724 :
+name : yhubmaftqy
+attractiveness : 8
+intelligence : 9
+budget : 9257
+min_attraction_req : 9
+type_of_committed_boy : The Generous
+
+boy 725 :
+name : ylowrotfvu
+attractiveness : 3
+intelligence : 9
+budget : 4842
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 726 :
+name : jdsdggfnbx
+attractiveness : 8
+intelligence : 6
+budget : 5995
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 727 :
+name : fqwupokitg
+attractiveness : 1
+intelligence : 9
+budget : 9637
+min_attraction_req : 3
+type_of_committed_boy : The Miser
+
+boy 728 :
+name : thxlnfruvt
+attractiveness : 3
+intelligence : 7
+budget : 7513
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 729 :
+name : fprbjgpuql
+attractiveness : 9
+intelligence : 2
+budget : 6798
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 730 :
+name : sdyronxiis
+attractiveness : 4
+intelligence : 9
+budget : 3191
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 731 :
+name : dczwdlevfu
+attractiveness : 5
+intelligence : 8
+budget : 9340
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 732 :
+name : gxzhpnuoxe
+attractiveness : 9
+intelligence : 5
+budget : 9595
+min_attraction_req : 9
+type_of_committed_boy : The Generous
+
+boy 733 :
+name : snbujffpcm
+attractiveness : 9
+intelligence : 1
+budget : 4666
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 734 :
+name : oimnrddnrc
+attractiveness : 1
+intelligence : 2
+budget : 5178
+min_attraction_req : 5
+type_of_committed_boy : The Miser
+
+boy 735 :
+name : atxcnjjsan
+attractiveness : 3
+intelligence : 5
+budget : 7078
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 736 :
+name : mryahpekex
+attractiveness : 3
+intelligence : 1
+budget : 4180
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 737 :
+name : jsuiwjrfdu
+attractiveness : 3
+intelligence : 2
+budget : 7951
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 738 :
+name : uddsfkjjwq
+attractiveness : 10
+intelligence : 4
+budget : 9235
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 739 :
+name : ptulbquvxx
+attractiveness : 8
+intelligence : 4
+budget : 4441
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 740 :
+name : sqnwktiwef
+attractiveness : 7
+intelligence : 10
+budget : 2687
+min_attraction_req : 3
+type_of_committed_boy : The Generous
+
+boy 741 :
+name : susnfufarf
+attractiveness : 4
+intelligence : 1
+budget : 4765
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 742 :
+name : jatywgthca
+attractiveness : 3
+intelligence : 3
+budget : 5614
+min_attraction_req : 9
+type_of_committed_boy : The Generous
+
+boy 743 :
+name : rumjjufpuw
+attractiveness : 9
+intelligence : 6
+budget : 2793
+min_attraction_req : 3
+type_of_committed_boy : The Miser
+
+boy 744 :
+name : ifcbeajzhn
+attractiveness : 10
+intelligence : 8
+budget : 4336
+min_attraction_req : 6
+type_of_committed_boy : The Miser
+
+boy 745 :
+name : yismtdgbsc
+attractiveness : 8
+intelligence : 7
+budget : 4331
+min_attraction_req : 1
+type_of_committed_boy : The Miser
+
+boy 746 :
+name : zksdnwgzyp
+attractiveness : 1
+intelligence : 2
+budget : 1986
+min_attraction_req : 9
+type_of_committed_boy : The Geeks
+
+boy 747 :
+name : isaceuglva
+attractiveness : 2
+intelligence : 5
+budget : 6794
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 748 :
+name : epkwuavazt
+attractiveness : 7
+intelligence : 10
+budget : 5951
+min_attraction_req : 2
+type_of_committed_boy : The Generous
+
+boy 749 :
+name : jlzjoefurc
+attractiveness : 9
+intelligence : 9
+budget : 294
+min_attraction_req : 2
+type_of_committed_boy : The Generous
+
+boy 750 :
+name : xtliqfklil
+attractiveness : 9
+intelligence : 3
+budget : 8091
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 751 :
+name : ihmhtanywe
+attractiveness : 8
+intelligence : 4
+budget : 432
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 752 :
+name : jzewjudthl
+attractiveness : 7
+intelligence : 4
+budget : 6542
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 753 :
+name : ontbumdimc
+attractiveness : 1
+intelligence : 6
+budget : 2958
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 754 :
+name : hmrlkahqwq
+attractiveness : 6
+intelligence : 7
+budget : 2010
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 755 :
+name : rfumgrakzm
+attractiveness : 9
+intelligence : 6
+budget : 6327
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 756 :
+name : tshmgsnpil
+attractiveness : 7
+intelligence : 2
+budget : 416
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 757 :
+name : teipqqgsch
+attractiveness : 6
+intelligence : 9
+budget : 8850
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 758 :
+name : qcuzrcrerb
+attractiveness : 2
+intelligence : 10
+budget : 5910
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 759 :
+name : rxtbpmsveu
+attractiveness : 10
+intelligence : 10
+budget : 8526
+min_attraction_req : 1
+type_of_committed_boy : The Miser
+
+boy 760 :
+name : muxitoknue
+attractiveness : 3
+intelligence : 10
+budget : 5978
+min_attraction_req : 2
+type_of_committed_boy : The Miser
+
+boy 761 :
+name : sxpmaeyube
+attractiveness : 6
+intelligence : 5
+budget : 8461
+min_attraction_req : 3
+type_of_committed_boy : The Geeks
+
+boy 762 :
+name : iqehbyxllt
+attractiveness : 2
+intelligence : 6
+budget : 2631
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 763 :
+name : ypepdevdzw
+attractiveness : 7
+intelligence : 5
+budget : 3486
+min_attraction_req : 9
+type_of_committed_boy : The Geeks
+
+boy 764 :
+name : ngksqlqnzd
+attractiveness : 10
+intelligence : 3
+budget : 191
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 765 :
+name : lpfrekwzox
+attractiveness : 7
+intelligence : 3
+budget : 9324
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 766 :
+name : jqetiuhaki
+attractiveness : 4
+intelligence : 4
+budget : 7921
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 767 :
+name : oxavpefngv
+attractiveness : 3
+intelligence : 9
+budget : 3310
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 768 :
+name : pivudgqkga
+attractiveness : 3
+intelligence : 9
+budget : 6272
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 769 :
+name : gjxiemmjzu
+attractiveness : 6
+intelligence : 4
+budget : 6725
+min_attraction_req : 5
+type_of_committed_boy : The Miser
+
+boy 770 :
+name : fsudoyjekr
+attractiveness : 4
+intelligence : 4
+budget : 3256
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 771 :
+name : dkjbsnphyr
+attractiveness : 10
+intelligence : 8
+budget : 1841
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 772 :
+name : phajkojvsu
+attractiveness : 8
+intelligence : 2
+budget : 5362
+min_attraction_req : 3
+type_of_committed_boy : The Geeks
+
+boy 773 :
+name : zyqiblvquv
+attractiveness : 10
+intelligence : 10
+budget : 9300
+min_attraction_req : 3
+type_of_committed_boy : The Geeks
+
+boy 774 :
+name : jdjjovzyrr
+attractiveness : 3
+intelligence : 7
+budget : 3596
+min_attraction_req : 4
+type_of_committed_boy : The Geeks
+
+boy 775 :
+name : zswraxexqy
+attractiveness : 7
+intelligence : 4
+budget : 8377
+min_attraction_req : 8
+type_of_committed_boy : The Miser
+
+boy 776 :
+name : zgsirjeqjx
+attractiveness : 1
+intelligence : 4
+budget : 2164
+min_attraction_req : 8
+type_of_committed_boy : The Miser
+
+boy 777 :
+name : zeqyxqxcpn
+attractiveness : 9
+intelligence : 2
+budget : 8526
+min_attraction_req : 5
+type_of_committed_boy : The Miser
+
+boy 778 :
+name : cclxkdgqtp
+attractiveness : 2
+intelligence : 6
+budget : 2937
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 779 :
+name : qsqgqoynsn
+attractiveness : 2
+intelligence : 7
+budget : 8175
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 780 :
+name : bwznvlsben
+attractiveness : 3
+intelligence : 10
+budget : 2818
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 781 :
+name : dceukuiija
+attractiveness : 2
+intelligence : 9
+budget : 5209
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 782 :
+name : txfukageek
+attractiveness : 7
+intelligence : 5
+budget : 1390
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 783 :
+name : pontiansiz
+attractiveness : 9
+intelligence : 7
+budget : 6848
+min_attraction_req : 8
+type_of_committed_boy : The Miser
+
+boy 784 :
+name : wmbdhofnsl
+attractiveness : 2
+intelligence : 5
+budget : 9651
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 785 :
+name : vsmknukdpv
+attractiveness : 1
+intelligence : 4
+budget : 7562
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 786 :
+name : hppiuyyalr
+attractiveness : 8
+intelligence : 3
+budget : 2680
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 787 :
+name : zsilfyhpbw
+attractiveness : 1
+intelligence : 4
+budget : 5121
+min_attraction_req : 4
+type_of_committed_boy : The Geeks
+
+boy 788 :
+name : iaozjixhik
+attractiveness : 7
+intelligence : 3
+budget : 211
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 789 :
+name : ndoxotvvkw
+attractiveness : 9
+intelligence : 8
+budget : 8890
+min_attraction_req : 1
+type_of_committed_boy : The Miser
+
+boy 790 :
+name : yipmiaufjf
+attractiveness : 7
+intelligence : 7
+budget : 5706
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 791 :
+name : ybtmzhfwes
+attractiveness : 2
+intelligence : 3
+budget : 8024
+min_attraction_req : 1
+type_of_committed_boy : The Miser
+
+boy 792 :
+name : fuhwipyfwk
+attractiveness : 5
+intelligence : 5
+budget : 3753
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 793 :
+name : knedafmhcq
+attractiveness : 2
+intelligence : 2
+budget : 4428
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 794 :
+name : nyouuwlvbi
+attractiveness : 8
+intelligence : 4
+budget : 3831
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 795 :
+name : bnqisspezr
+attractiveness : 5
+intelligence : 2
+budget : 5017
+min_attraction_req : 2
+type_of_committed_boy : The Miser
+
+boy 796 :
+name : kbryvoujjy
+attractiveness : 10
+intelligence : 7
+budget : 7160
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 797 :
+name : qveidwaucz
+attractiveness : 1
+intelligence : 1
+budget : 3433
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 798 :
+name : wonnmkbjvk
+attractiveness : 10
+intelligence : 9
+budget : 6851
+min_attraction_req : 9
+type_of_committed_boy : The Generous
+
+boy 799 :
+name : rmdvwirwct
+attractiveness : 9
+intelligence : 9
+budget : 543
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 800 :
+name : iylxmyhpjf
+attractiveness : 1
+intelligence : 5
+budget : 4094
+min_attraction_req : 1
+type_of_committed_boy : The Generous
+
+boy 801 :
+name : bufepbmjyr
+attractiveness : 5
+intelligence : 1
+budget : 3542
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 802 :
+name : eizqfnqpcz
+attractiveness : 7
+intelligence : 7
+budget : 4356
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 803 :
+name : jrfovwqkfq
+attractiveness : 2
+intelligence : 7
+budget : 47
+min_attraction_req : 3
+type_of_committed_boy : The Miser
+
+boy 804 :
+name : qpvrfaevrj
+attractiveness : 9
+intelligence : 6
+budget : 7400
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 805 :
+name : aysfnpefzl
+attractiveness : 4
+intelligence : 9
+budget : 4312
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 806 :
+name : kdcfvjhbez
+attractiveness : 7
+intelligence : 3
+budget : 8873
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 807 :
+name : penhkczqja
+attractiveness : 6
+intelligence : 9
+budget : 6910
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 808 :
+name : sjxuqudxxj
+attractiveness : 5
+intelligence : 5
+budget : 2120
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 809 :
+name : aaqpkculsd
+attractiveness : 10
+intelligence : 7
+budget : 895
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 810 :
+name : digceywjvu
+attractiveness : 9
+intelligence : 7
+budget : 3835
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 811 :
+name : sfjivvnpih
+attractiveness : 7
+intelligence : 1
+budget : 7970
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 812 :
+name : yixgkbejnc
+attractiveness : 6
+intelligence : 8
+budget : 7283
+min_attraction_req : 2
+type_of_committed_boy : The Miser
+
+boy 813 :
+name : hdqsnnqacy
+attractiveness : 3
+intelligence : 2
+budget : 3707
+min_attraction_req : 2
+type_of_committed_boy : The Generous
+
+boy 814 :
+name : jmjguujzdw
+attractiveness : 4
+intelligence : 3
+budget : 1607
+min_attraction_req : 6
+type_of_committed_boy : The Generous
+
+boy 815 :
+name : rkyhcnxsoz
+attractiveness : 8
+intelligence : 5
+budget : 2585
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 816 :
+name : awxjesfotk
+attractiveness : 3
+intelligence : 5
+budget : 2117
+min_attraction_req : 1
+type_of_committed_boy : The Generous
+
+boy 817 :
+name : pjjptldqgt
+attractiveness : 8
+intelligence : 2
+budget : 24
+min_attraction_req : 3
+type_of_committed_boy : The Miser
+
+boy 818 :
+name : cslabruhfn
+attractiveness : 2
+intelligence : 7
+budget : 9918
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 819 :
+name : kfwtvpgahm
+attractiveness : 4
+intelligence : 5
+budget : 2454
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 820 :
+name : emirokikto
+attractiveness : 6
+intelligence : 9
+budget : 8507
+min_attraction_req : 5
+type_of_committed_boy : The Geeks
+
+boy 821 :
+name : uuispfjwhq
+attractiveness : 7
+intelligence : 3
+budget : 6998
+min_attraction_req : 1
+type_of_committed_boy : The Miser
+
+boy 822 :
+name : hcaqtpcdzv
+attractiveness : 2
+intelligence : 4
+budget : 7504
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 823 :
+name : oygyqvfatm
+attractiveness : 9
+intelligence : 3
+budget : 7547
+min_attraction_req : 6
+type_of_committed_boy : The Miser
+
+boy 824 :
+name : apiahdrjgt
+attractiveness : 7
+intelligence : 3
+budget : 4271
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 825 :
+name : fhzlfsjmuc
+attractiveness : 7
+intelligence : 5
+budget : 6953
+min_attraction_req : 3
+type_of_committed_boy : The Miser
+
+boy 826 :
+name : monupuxide
+attractiveness : 10
+intelligence : 10
+budget : 2107
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 827 :
+name : fdkhorbzev
+attractiveness : 9
+intelligence : 3
+budget : 6176
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 828 :
+name : fzfutworht
+attractiveness : 8
+intelligence : 1
+budget : 7429
+min_attraction_req : 4
+type_of_committed_boy : The Geeks
+
+boy 829 :
+name : jijtrzksbq
+attractiveness : 2
+intelligence : 6
+budget : 3014
+min_attraction_req : 8
+type_of_committed_boy : The Miser
+
+boy 830 :
+name : mgqtbmsrfz
+attractiveness : 2
+intelligence : 9
+budget : 6870
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 831 :
+name : panavfcizd
+attractiveness : 3
+intelligence : 10
+budget : 7579
+min_attraction_req : 6
+type_of_committed_boy : The Miser
+
+boy 832 :
+name : zhysbzettj
+attractiveness : 1
+intelligence : 7
+budget : 7496
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 833 :
+name : stafvxkxfm
+attractiveness : 1
+intelligence : 1
+budget : 7000
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 834 :
+name : rkhpciridm
+attractiveness : 6
+intelligence : 10
+budget : 5437
+min_attraction_req : 1
+type_of_committed_boy : The Miser
+
+boy 835 :
+name : ryvtfrrsow
+attractiveness : 9
+intelligence : 6
+budget : 4861
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 836 :
+name : cajjrntivy
+attractiveness : 9
+intelligence : 9
+budget : 5836
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 837 :
+name : xgytzekswy
+attractiveness : 2
+intelligence : 5
+budget : 6422
+min_attraction_req : 4
+type_of_committed_boy : The Generous
+
+boy 838 :
+name : pvjagaobll
+attractiveness : 2
+intelligence : 6
+budget : 8777
+min_attraction_req : 9
+type_of_committed_boy : The Geeks
+
+boy 839 :
+name : cuebnffxyd
+attractiveness : 6
+intelligence : 4
+budget : 1436
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 840 :
+name : qggbgobwso
+attractiveness : 9
+intelligence : 10
+budget : 6739
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 841 :
+name : uqkarzfyyf
+attractiveness : 4
+intelligence : 4
+budget : 1653
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 842 :
+name : fasldbbhxt
+attractiveness : 10
+intelligence : 8
+budget : 998
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 843 :
+name : dpopphqxgq
+attractiveness : 5
+intelligence : 10
+budget : 8980
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 844 :
+name : cgyutcxujv
+attractiveness : 5
+intelligence : 7
+budget : 6435
+min_attraction_req : 2
+type_of_committed_boy : The Miser
+
+boy 845 :
+name : cirszjzrih
+attractiveness : 8
+intelligence : 7
+budget : 5078
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 846 :
+name : pwtptmrqjc
+attractiveness : 10
+intelligence : 10
+budget : 6990
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 847 :
+name : lymcqnlret
+attractiveness : 8
+intelligence : 2
+budget : 1437
+min_attraction_req : 5
+type_of_committed_boy : The Geeks
+
+boy 848 :
+name : vlgrazduro
+attractiveness : 1
+intelligence : 6
+budget : 7214
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 849 :
+name : rszfvrsiiw
+attractiveness : 5
+intelligence : 6
+budget : 3918
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 850 :
+name : rjsxavygpr
+attractiveness : 7
+intelligence : 10
+budget : 5181
+min_attraction_req : 3
+type_of_committed_boy : The Geeks
+
+boy 851 :
+name : bdnclitdtc
+attractiveness : 7
+intelligence : 8
+budget : 8528
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 852 :
+name : veundxiddz
+attractiveness : 2
+intelligence : 8
+budget : 9426
+min_attraction_req : 4
+type_of_committed_boy : The Generous
+
+boy 853 :
+name : kxpxbcivfb
+attractiveness : 6
+intelligence : 10
+budget : 9749
+min_attraction_req : 3
+type_of_committed_boy : The Generous
+
+boy 854 :
+name : njfjxjghol
+attractiveness : 10
+intelligence : 6
+budget : 3230
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 855 :
+name : wignfhpnex
+attractiveness : 9
+intelligence : 10
+budget : 7531
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 856 :
+name : hfbnpayxim
+attractiveness : 6
+intelligence : 8
+budget : 7615
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 857 :
+name : hsbniiwxwb
+attractiveness : 9
+intelligence : 1
+budget : 8361
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 858 :
+name : yomabdazbk
+attractiveness : 5
+intelligence : 9
+budget : 3694
+min_attraction_req : 9
+type_of_committed_boy : The Generous
+
+boy 859 :
+name : wtyxigggge
+attractiveness : 6
+intelligence : 1
+budget : 6335
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 860 :
+name : boyqqztrbu
+attractiveness : 4
+intelligence : 8
+budget : 5353
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 861 :
+name : mfylfitnob
+attractiveness : 2
+intelligence : 5
+budget : 9491
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 862 :
+name : ppepfvryou
+attractiveness : 2
+intelligence : 8
+budget : 9988
+min_attraction_req : 6
+type_of_committed_boy : The Miser
+
+boy 863 :
+name : oogoblwwam
+attractiveness : 9
+intelligence : 4
+budget : 7513
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 864 :
+name : exvjnagebu
+attractiveness : 9
+intelligence : 7
+budget : 9678
+min_attraction_req : 6
+type_of_committed_boy : The Miser
+
+boy 865 :
+name : oznwnqjlnj
+attractiveness : 2
+intelligence : 4
+budget : 9341
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 866 :
+name : iuqefdgljj
+attractiveness : 4
+intelligence : 6
+budget : 6236
+min_attraction_req : 4
+type_of_committed_boy : The Generous
+
+boy 867 :
+name : hltwjinsva
+attractiveness : 10
+intelligence : 2
+budget : 8074
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 868 :
+name : gnhytncayn
+attractiveness : 6
+intelligence : 1
+budget : 5902
+min_attraction_req : 2
+type_of_committed_boy : The Generous
+
+boy 869 :
+name : rasnwbxlvt
+attractiveness : 2
+intelligence : 5
+budget : 47
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 870 :
+name : fgumhqzjqa
+attractiveness : 5
+intelligence : 2
+budget : 6117
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 871 :
+name : ppyjcxmzih
+attractiveness : 1
+intelligence : 1
+budget : 4368
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 872 :
+name : orfigmyhvq
+attractiveness : 4
+intelligence : 4
+budget : 9151
+min_attraction_req : 2
+type_of_committed_boy : The Miser
+
+boy 873 :
+name : skgrtkofjw
+attractiveness : 5
+intelligence : 3
+budget : 8275
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 874 :
+name : pjmuusguzd
+attractiveness : 6
+intelligence : 8
+budget : 185
+min_attraction_req : 6
+type_of_committed_boy : The Generous
+
+boy 875 :
+name : rbnxsijiov
+attractiveness : 8
+intelligence : 5
+budget : 8960
+min_attraction_req : 4
+type_of_committed_boy : The Generous
+
+boy 876 :
+name : vojhkfzsab
+attractiveness : 4
+intelligence : 6
+budget : 1135
+min_attraction_req : 1
+type_of_committed_boy : The Miser
+
+boy 877 :
+name : mnxbnskwaa
+attractiveness : 2
+intelligence : 8
+budget : 2641
+min_attraction_req : 3
+type_of_committed_boy : The Geeks
+
+boy 878 :
+name : cqxoxktzcv
+attractiveness : 7
+intelligence : 7
+budget : 577
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 879 :
+name : gylgayymxy
+attractiveness : 3
+intelligence : 5
+budget : 8139
+min_attraction_req : 5
+type_of_committed_boy : The Geeks
+
+boy 880 :
+name : ptbojyycxb
+attractiveness : 1
+intelligence : 10
+budget : 7366
+min_attraction_req : 9
+type_of_committed_boy : The Generous
+
+boy 881 :
+name : bpimvknvyk
+attractiveness : 8
+intelligence : 7
+budget : 321
+min_attraction_req : 6
+type_of_committed_boy : The Miser
+
+boy 882 :
+name : lsvohepfjo
+attractiveness : 1
+intelligence : 6
+budget : 3677
+min_attraction_req : 6
+type_of_committed_boy : The Generous
+
+boy 883 :
+name : xmihbftoar
+attractiveness : 3
+intelligence : 9
+budget : 5902
+min_attraction_req : 3
+type_of_committed_boy : The Generous
+
+boy 884 :
+name : eoubedgtkp
+attractiveness : 3
+intelligence : 2
+budget : 257
+min_attraction_req : 1
+type_of_committed_boy : The Generous
+
+boy 885 :
+name : pvvafwfymg
+attractiveness : 5
+intelligence : 7
+budget : 6933
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 886 :
+name : dbexdjclen
+attractiveness : 7
+intelligence : 9
+budget : 9849
+min_attraction_req : 3
+type_of_committed_boy : The Geeks
+
+boy 887 :
+name : orkjrphxpv
+attractiveness : 6
+intelligence : 2
+budget : 3170
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 888 :
+name : ymiemnpoyu
+attractiveness : 10
+intelligence : 1
+budget : 6343
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 889 :
+name : xawjlpatop
+attractiveness : 1
+intelligence : 6
+budget : 8784
+min_attraction_req : 3
+type_of_committed_boy : The Generous
+
+boy 890 :
+name : gyrocdcstc
+attractiveness : 7
+intelligence : 4
+budget : 3620
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 891 :
+name : jxghgsxgnn
+attractiveness : 1
+intelligence : 4
+budget : 9748
+min_attraction_req : 6
+type_of_committed_boy : The Miser
+
+boy 892 :
+name : lfbcvehzyb
+attractiveness : 1
+intelligence : 1
+budget : 1937
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 893 :
+name : esilaqfzxs
+attractiveness : 7
+intelligence : 2
+budget : 1060
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 894 :
+name : xhdylaevac
+attractiveness : 9
+intelligence : 9
+budget : 5289
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 895 :
+name : bajlnlbska
+attractiveness : 1
+intelligence : 6
+budget : 5566
+min_attraction_req : 1
+type_of_committed_boy : The Miser
+
+boy 896 :
+name : thdyhpzmkz
+attractiveness : 7
+intelligence : 7
+budget : 6254
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 897 :
+name : wggftwruqd
+attractiveness : 10
+intelligence : 4
+budget : 6575
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 898 :
+name : xquaobrnnd
+attractiveness : 7
+intelligence : 5
+budget : 3622
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 899 :
+name : rrrazkwqgo
+attractiveness : 8
+intelligence : 2
+budget : 592
+min_attraction_req : 3
+type_of_committed_boy : The Geeks
+
+boy 900 :
+name : evqyveanup
+attractiveness : 1
+intelligence : 5
+budget : 9570
+min_attraction_req : 3
+type_of_committed_boy : The Geeks
+
+boy 901 :
+name : exzvxyfvqm
+attractiveness : 5
+intelligence : 9
+budget : 3786
+min_attraction_req : 8
+type_of_committed_boy : The Miser
+
+boy 902 :
+name : pkdfkammpi
+attractiveness : 5
+intelligence : 5
+budget : 8995
+min_attraction_req : 4
+type_of_committed_boy : The Generous
+
+boy 903 :
+name : aclczlcfgv
+attractiveness : 4
+intelligence : 5
+budget : 5832
+min_attraction_req : 9
+type_of_committed_boy : The Geeks
+
+boy 904 :
+name : pcksjwsxli
+attractiveness : 6
+intelligence : 10
+budget : 2733
+min_attraction_req : 3
+type_of_committed_boy : The Miser
+
+boy 905 :
+name : ecsrescjzj
+attractiveness : 1
+intelligence : 9
+budget : 194
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 906 :
+name : dckpuuoorz
+attractiveness : 3
+intelligence : 8
+budget : 4823
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 907 :
+name : gwbzoitqtu
+attractiveness : 4
+intelligence : 4
+budget : 8061
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
+boy 908 :
+name : wkohckdqyw
+attractiveness : 4
+intelligence : 4
+budget : 8346
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 909 :
+name : wpoaqekjud
+attractiveness : 8
+intelligence : 1
+budget : 5833
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 910 :
+name : qsrebtogjm
+attractiveness : 7
+intelligence : 1
+budget : 7060
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 911 :
+name : fyzvypzibt
+attractiveness : 6
+intelligence : 3
+budget : 3140
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 912 :
+name : ahwslznzfx
+attractiveness : 5
+intelligence : 6
+budget : 1702
+min_attraction_req : 6
+type_of_committed_boy : The Miser
+
+boy 913 :
+name : jimkdkzcva
+attractiveness : 3
+intelligence : 7
+budget : 2668
+min_attraction_req : 4
+type_of_committed_boy : The Generous
+
+boy 914 :
+name : nuljmzkzar
+attractiveness : 7
+intelligence : 7
+budget : 1155
+min_attraction_req : 1
+type_of_committed_boy : The Miser
+
+boy 915 :
+name : olcavimumj
+attractiveness : 6
+intelligence : 1
+budget : 985
+min_attraction_req : 3
+type_of_committed_boy : The Miser
+
+boy 916 :
+name : yvaleokqpl
+attractiveness : 10
+intelligence : 9
+budget : 5998
+min_attraction_req : 4
+type_of_committed_boy : The Geeks
+
+boy 917 :
+name : vbbadwissw
+attractiveness : 2
+intelligence : 4
+budget : 646
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 918 :
+name : rvurjahtsw
+attractiveness : 1
+intelligence : 4
+budget : 1411
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 919 :
+name : edofdudnmy
+attractiveness : 1
+intelligence : 2
+budget : 730
+min_attraction_req : 6
+type_of_committed_boy : The Miser
+
+boy 920 :
+name : rmklftoong
+attractiveness : 5
+intelligence : 2
+budget : 3423
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 921 :
+name : xdfllkhoat
+attractiveness : 5
+intelligence : 7
+budget : 4322
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 922 :
+name : wvxgieaysp
+attractiveness : 2
+intelligence : 9
+budget : 4275
+min_attraction_req : 6
+type_of_committed_boy : The Generous
+
+boy 923 :
+name : kmjrzwbhmd
+attractiveness : 3
+intelligence : 4
+budget : 5776
+min_attraction_req : 4
+type_of_committed_boy : The Geeks
+
+boy 924 :
+name : ahczokdqlx
+attractiveness : 10
+intelligence : 1
+budget : 8517
+min_attraction_req : 4
+type_of_committed_boy : The Generous
+
+boy 925 :
+name : hxrsoqqszd
+attractiveness : 4
+intelligence : 9
+budget : 9573
+min_attraction_req : 2
+type_of_committed_boy : The Generous
+
+boy 926 :
+name : jpvlpjxubi
+attractiveness : 1
+intelligence : 3
+budget : 5591
+min_attraction_req : 9
+type_of_committed_boy : The Geeks
+
+boy 927 :
+name : fftyajrqdq
+attractiveness : 6
+intelligence : 10
+budget : 565
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 928 :
+name : ggdbtumtpn
+attractiveness : 2
+intelligence : 10
+budget : 3328
+min_attraction_req : 3
+type_of_committed_boy : The Generous
+
+boy 929 :
+name : qlmjkmvdfy
+attractiveness : 4
+intelligence : 3
+budget : 4670
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 930 :
+name : nugtxapjve
+attractiveness : 1
+intelligence : 5
+budget : 2934
+min_attraction_req : 8
+type_of_committed_boy : The Miser
+
+boy 931 :
+name : wjqlvczsfe
+attractiveness : 9
+intelligence : 3
+budget : 9830
+min_attraction_req : 1
+type_of_committed_boy : The Miser
+
+boy 932 :
+name : dhkjahlqqg
+attractiveness : 3
+intelligence : 5
+budget : 3124
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 933 :
+name : jmtzzqbzig
+attractiveness : 6
+intelligence : 3
+budget : 5670
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 934 :
+name : xpaibcroui
+attractiveness : 2
+intelligence : 6
+budget : 4739
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 935 :
+name : knvdnxtqyd
+attractiveness : 6
+intelligence : 8
+budget : 2758
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 936 :
+name : yhharkejbz
+attractiveness : 8
+intelligence : 9
+budget : 2771
+min_attraction_req : 8
+type_of_committed_boy : The Generous
+
+boy 937 :
+name : ddnaicxdvv
+attractiveness : 1
+intelligence : 3
+budget : 5428
+min_attraction_req : 1
+type_of_committed_boy : The Generous
+
+boy 938 :
+name : tklckfpoqq
+attractiveness : 10
+intelligence : 6
+budget : 273
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 939 :
+name : qoifrqiqwf
+attractiveness : 1
+intelligence : 7
+budget : 5168
+min_attraction_req : 8
+type_of_committed_boy : The Miser
+
+boy 940 :
+name : fkasomzdbp
+attractiveness : 4
+intelligence : 1
+budget : 9613
+min_attraction_req : 6
+type_of_committed_boy : The Miser
+
+boy 941 :
+name : fbsnhlfrcb
+attractiveness : 5
+intelligence : 5
+budget : 6089
+min_attraction_req : 2
+type_of_committed_boy : The Generous
+
+boy 942 :
+name : wctxwhjwnm
+attractiveness : 4
+intelligence : 7
+budget : 2614
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 943 :
+name : jtvdicpntt
+attractiveness : 6
+intelligence : 4
+budget : 6220
+min_attraction_req : 6
+type_of_committed_boy : The Miser
+
+boy 944 :
+name : svslursenh
+attractiveness : 7
+intelligence : 9
+budget : 4255
+min_attraction_req : 2
+type_of_committed_boy : The Generous
+
+boy 945 :
+name : mihhopmfff
+attractiveness : 1
+intelligence : 3
+budget : 3002
+min_attraction_req : 2
+type_of_committed_boy : The Generous
+
+boy 946 :
+name : nbsgonzitm
+attractiveness : 1
+intelligence : 2
+budget : 1161
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 947 :
+name : duvkblansf
+attractiveness : 8
+intelligence : 5
+budget : 9072
+min_attraction_req : 1
+type_of_committed_boy : The Geeks
+
+boy 948 :
+name : ahcupshobc
+attractiveness : 9
+intelligence : 6
+budget : 8965
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 949 :
+name : duvaewogmg
+attractiveness : 4
+intelligence : 4
+budget : 2752
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 950 :
+name : yqkdlaxuqy
+attractiveness : 8
+intelligence : 10
+budget : 8870
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 951 :
+name : suenwkmkry
+attractiveness : 6
+intelligence : 3
+budget : 2940
+min_attraction_req : 9
+type_of_committed_boy : The Generous
+
+boy 952 :
+name : ionstautxl
+attractiveness : 4
+intelligence : 3
+budget : 8591
+min_attraction_req : 6
+type_of_committed_boy : The Geeks
+
+boy 953 :
+name : qdjurfgdsx
+attractiveness : 8
+intelligence : 2
+budget : 6739
+min_attraction_req : 9
+type_of_committed_boy : The Generous
+
+boy 954 :
+name : zspomlphem
+attractiveness : 5
+intelligence : 6
+budget : 6465
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 955 :
+name : zqmimfpskh
+attractiveness : 5
+intelligence : 10
+budget : 4195
+min_attraction_req : 3
+type_of_committed_boy : The Geeks
+
+boy 956 :
+name : rxrhlfucmy
+attractiveness : 5
+intelligence : 1
+budget : 656
+min_attraction_req : 9
+type_of_committed_boy : The Geeks
+
+boy 957 :
+name : exyqhkxxfh
+attractiveness : 5
+intelligence : 10
+budget : 2233
+min_attraction_req : 2
+type_of_committed_boy : The Miser
+
+boy 958 :
+name : tqsmzfrtig
+attractiveness : 8
+intelligence : 5
+budget : 1735
+min_attraction_req : 4
+type_of_committed_boy : The Generous
+
+boy 959 :
+name : ztwxlgkifp
+attractiveness : 6
+intelligence : 4
+budget : 7417
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 960 :
+name : jgddseilas
+attractiveness : 10
+intelligence : 4
+budget : 76
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 961 :
+name : qhdoeouqwz
+attractiveness : 6
+intelligence : 10
+budget : 1550
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 962 :
+name : zcgefyjqkj
+attractiveness : 5
+intelligence : 6
+budget : 6909
+min_attraction_req : 2
+type_of_committed_boy : The Miser
+
+boy 963 :
+name : ptusibjerh
+attractiveness : 3
+intelligence : 4
+budget : 7824
+min_attraction_req : 2
+type_of_committed_boy : The Generous
+
+boy 964 :
+name : vsvexaciso
+attractiveness : 2
+intelligence : 6
+budget : 1711
+min_attraction_req : 10
+type_of_committed_boy : The Generous
+
+boy 965 :
+name : hoychifsow
+attractiveness : 10
+intelligence : 5
+budget : 4320
+min_attraction_req : 5
+type_of_committed_boy : The Geeks
+
+boy 966 :
+name : ouilyhlcpg
+attractiveness : 2
+intelligence : 3
+budget : 2698
+min_attraction_req : 2
+type_of_committed_boy : The Geeks
+
+boy 967 :
+name : nwwnyfvfzk
+attractiveness : 7
+intelligence : 5
+budget : 3023
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 968 :
+name : wnteyrnmvc
+attractiveness : 9
+intelligence : 1
+budget : 8401
+min_attraction_req : 6
+type_of_committed_boy : The Generous
+
+boy 969 :
+name : vqateaabgz
+attractiveness : 6
+intelligence : 5
+budget : 7637
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 970 :
+name : zqzswzjjle
+attractiveness : 4
+intelligence : 8
+budget : 9976
+min_attraction_req : 6
+type_of_committed_boy : The Generous
+
+boy 971 :
+name : ywbasfbugj
+attractiveness : 3
+intelligence : 5
+budget : 4638
+min_attraction_req : 1
+type_of_committed_boy : The Generous
+
+boy 972 :
+name : evgdncdylq
+attractiveness : 1
+intelligence : 3
+budget : 3099
+min_attraction_req : 6
+type_of_committed_boy : The Miser
+
+boy 973 :
+name : gaxharodmx
+attractiveness : 9
+intelligence : 3
+budget : 5782
+min_attraction_req : 6
+type_of_committed_boy : The Miser
+
+boy 974 :
+name : jobprotume
+attractiveness : 8
+intelligence : 3
+budget : 9679
+min_attraction_req : 6
+type_of_committed_boy : The Miser
+
+boy 975 :
+name : ftseduwrak
+attractiveness : 3
+intelligence : 7
+budget : 3465
+min_attraction_req : 6
+type_of_committed_boy : The Generous
+
+boy 976 :
+name : ysmzhfpccd
+attractiveness : 9
+intelligence : 8
+budget : 702
+min_attraction_req : 9
+type_of_committed_boy : The Generous
+
+boy 977 :
+name : ptvhyyewsg
+attractiveness : 1
+intelligence : 1
+budget : 8717
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 978 :
+name : uakgzumqwo
+attractiveness : 6
+intelligence : 2
+budget : 3376
+min_attraction_req : 9
+type_of_committed_boy : The Miser
+
+boy 979 :
+name : hglcpldthv
+attractiveness : 8
+intelligence : 4
+budget : 1118
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 980 :
+name : vqpizqclga
+attractiveness : 10
+intelligence : 8
+budget : 4062
+min_attraction_req : 5
+type_of_committed_boy : The Miser
+
+boy 981 :
+name : znxmrnzuig
+attractiveness : 6
+intelligence : 3
+budget : 6514
+min_attraction_req : 6
+type_of_committed_boy : The Generous
+
+boy 982 :
+name : osyfaxxeid
+attractiveness : 4
+intelligence : 6
+budget : 1077
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 983 :
+name : zngzzymysw
+attractiveness : 1
+intelligence : 9
+budget : 8221
+min_attraction_req : 4
+type_of_committed_boy : The Miser
+
+boy 984 :
+name : otxnyakvev
+attractiveness : 7
+intelligence : 6
+budget : 3935
+min_attraction_req : 5
+type_of_committed_boy : The Miser
+
+boy 985 :
+name : ailghngvnb
+attractiveness : 6
+intelligence : 3
+budget : 7726
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 986 :
+name : sqvpftrqrw
+attractiveness : 4
+intelligence : 6
+budget : 2710
+min_attraction_req : 8
+type_of_committed_boy : The Geeks
+
+boy 987 :
+name : hvkvcrkkox
+attractiveness : 10
+intelligence : 2
+budget : 7976
+min_attraction_req : 7
+type_of_committed_boy : The Generous
+
+boy 988 :
+name : vsaqifjbxa
+attractiveness : 2
+intelligence : 5
+budget : 2821
+min_attraction_req : 4
+type_of_committed_boy : The Generous
+
+boy 989 :
+name : wqbglfzvqn
+attractiveness : 2
+intelligence : 2
+budget : 3561
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 990 :
+name : ejwgzgnlin
+attractiveness : 6
+intelligence : 4
+budget : 5730
+min_attraction_req : 6
+type_of_committed_boy : The Miser
+
+boy 991 :
+name : fffhlsokqg
+attractiveness : 4
+intelligence : 6
+budget : 1497
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 992 :
+name : qalmimvxxd
+attractiveness : 5
+intelligence : 2
+budget : 2015
+min_attraction_req : 5
+type_of_committed_boy : The Generous
+
+boy 993 :
+name : brcganapaq
+attractiveness : 2
+intelligence : 2
+budget : 8874
+min_attraction_req : 10
+type_of_committed_boy : The Miser
+
+boy 994 :
+name : dxvomdahda
+attractiveness : 1
+intelligence : 6
+budget : 8612
+min_attraction_req : 5
+type_of_committed_boy : The Miser
+
+boy 995 :
+name : jzrlhtbiid
+attractiveness : 3
+intelligence : 9
+budget : 939
+min_attraction_req : 9
+type_of_committed_boy : The Generous
+
+boy 996 :
+name : yfntvbzvie
+attractiveness : 6
+intelligence : 3
+budget : 6124
+min_attraction_req : 7
+type_of_committed_boy : The Geeks
+
+boy 997 :
+name : twsmjzfkjq
+attractiveness : 4
+intelligence : 7
+budget : 8423
+min_attraction_req : 5
+type_of_committed_boy : The Geeks
+
+boy 998 :
+name : lqralmbmjl
+attractiveness : 5
+intelligence : 4
+budget : 9982
+min_attraction_req : 1
+type_of_committed_boy : The Miser
+
+boy 999 :
+name : adrurbvwnf
+attractiveness : 3
+intelligence : 10
+budget : 664
+min_attraction_req : 7
+type_of_committed_boy : The Miser
+
+boy 1000 :
+name : byluawiclt
+attractiveness : 6
+intelligence : 10
+budget : 8095
+min_attraction_req : 10
+type_of_committed_boy : The Geeks
+
