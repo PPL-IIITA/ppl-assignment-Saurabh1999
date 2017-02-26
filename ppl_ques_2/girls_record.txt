@@ -1,0 +1,8000 @@
+girl 1 :
+name : yxsprjsmig
+attractiveness : 4
+intelligence : 1
+maintainence_budget : 3262
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 2 :
+name : eljrflpnna
+attractiveness : 6
+intelligence : 4
+maintainence_budget : 4521
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 3 :
+name : rjxkbqtteb
+attractiveness : 2
+intelligence : 7
+maintainence_budget : 6633
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 4 :
+name : jquuhbfxrv
+attractiveness : 8
+intelligence : 5
+maintainence_budget : 1271
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 5 :
+name : avvzfwrarv
+attractiveness : 7
+intelligence : 4
+maintainence_budget : 6590
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 6 :
+name : enwajdboau
+attractiveness : 4
+intelligence : 3
+maintainence_budget : 8977
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 7 :
+name : enybmfxdgo
+attractiveness : 6
+intelligence : 3
+maintainence_budget : 2248
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 8 :
+name : pcdlcmogcr
+attractiveness : 5
+intelligence : 5
+maintainence_budget : 2366
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 9 :
+name : ybnxcbebfk
+attractiveness : 8
+intelligence : 9
+maintainence_budget : 57
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 10 :
+name : iqhldlzttc
+attractiveness : 5
+intelligence : 7
+maintainence_budget : 951
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 11 :
+name : peuedwghxn
+attractiveness : 9
+intelligence : 1
+maintainence_budget : 4704
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 12 :
+name : zzhimkumep
+attractiveness : 3
+intelligence : 3
+maintainence_budget : 6968
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 13 :
+name : evcycfwiov
+attractiveness : 4
+intelligence : 3
+maintainence_budget : 207
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 14 :
+name : dtwlcixyud
+attractiveness : 4
+intelligence : 9
+maintainence_budget : 9729
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 15 :
+name : sdoweqbaap
+attractiveness : 9
+intelligence : 10
+maintainence_budget : 2181
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 16 :
+name : xnktymdyka
+attractiveness : 10
+intelligence : 9
+maintainence_budget : 497
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 17 :
+name : brernkhqnj
+attractiveness : 9
+intelligence : 6
+maintainence_budget : 4933
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 18 :
+name : zfijyjwdhi
+attractiveness : 6
+intelligence : 5
+maintainence_budget : 7771
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 19 :
+name : hrboipyrhl
+attractiveness : 7
+intelligence : 10
+maintainence_budget : 2433
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 20 :
+name : rhccsclogu
+attractiveness : 8
+intelligence : 2
+maintainence_budget : 6687
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 21 :
+name : orqsfahdro
+attractiveness : 8
+intelligence : 4
+maintainence_budget : 3859
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 22 :
+name : dhkijfkuvs
+attractiveness : 3
+intelligence : 7
+maintainence_budget : 21
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 23 :
+name : blvudaumfm
+attractiveness : 7
+intelligence : 1
+maintainence_budget : 518
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 24 :
+name : lorxwaciwy
+attractiveness : 8
+intelligence : 5
+maintainence_budget : 2733
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 25 :
+name : witrcytzmz
+attractiveness : 4
+intelligence : 2
+maintainence_budget : 8096
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 26 :
+name : hfnadlcfua
+attractiveness : 10
+intelligence : 8
+maintainence_budget : 6121
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 27 :
+name : vumqmrphqb
+attractiveness : 7
+intelligence : 4
+maintainence_budget : 193
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 28 :
+name : snbfqgtuln
+attractiveness : 4
+intelligence : 4
+maintainence_budget : 2031
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 29 :
+name : oejcvxtmfj
+attractiveness : 10
+intelligence : 10
+maintainence_budget : 5797
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 30 :
+name : iahlfxrare
+attractiveness : 2
+intelligence : 1
+maintainence_budget : 9448
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 31 :
+name : kpcwsxtlja
+attractiveness : 8
+intelligence : 4
+maintainence_budget : 8879
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 32 :
+name : hthogonzph
+attractiveness : 1
+intelligence : 3
+maintainence_budget : 5252
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 33 :
+name : tkvygpvbdh
+attractiveness : 5
+intelligence : 3
+maintainence_budget : 8399
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 34 :
+name : pbfwslmflb
+attractiveness : 1
+intelligence : 4
+maintainence_budget : 9119
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 35 :
+name : mfcjdkzbmc
+attractiveness : 7
+intelligence : 9
+maintainence_budget : 2351
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 36 :
+name : pjluhditlt
+attractiveness : 2
+intelligence : 8
+maintainence_budget : 9741
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 37 :
+name : aptdyynzbb
+attractiveness : 8
+intelligence : 6
+maintainence_budget : 4740
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 38 :
+name : dzopvvudpf
+attractiveness : 1
+intelligence : 1
+maintainence_budget : 4804
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 39 :
+name : slenqemfen
+attractiveness : 4
+intelligence : 4
+maintainence_budget : 6696
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 40 :
+name : ggsxxnsrtj
+attractiveness : 8
+intelligence : 8
+maintainence_budget : 8122
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 41 :
+name : kypqofxckb
+attractiveness : 10
+intelligence : 2
+maintainence_budget : 4395
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 42 :
+name : dbexyblqse
+attractiveness : 9
+intelligence : 6
+maintainence_budget : 5068
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 43 :
+name : biwqakvxoi
+attractiveness : 7
+intelligence : 6
+maintainence_budget : 642
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 44 :
+name : bszfqxibpd
+attractiveness : 4
+intelligence : 6
+maintainence_budget : 7155
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 45 :
+name : sizqyzcwzq
+attractiveness : 1
+intelligence : 2
+maintainence_budget : 6526
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 46 :
+name : vnhuuxtdal
+attractiveness : 1
+intelligence : 2
+maintainence_budget : 4273
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 47 :
+name : ruzqkysmwr
+attractiveness : 3
+intelligence : 9
+maintainence_budget : 9023
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 48 :
+name : hvaqsvnlyn
+attractiveness : 7
+intelligence : 9
+maintainence_budget : 9461
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 49 :
+name : nufpnpnfej
+attractiveness : 1
+intelligence : 7
+maintainence_budget : 3588
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 50 :
+name : ybgzrywelu
+attractiveness : 6
+intelligence : 7
+maintainence_budget : 6485
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 51 :
+name : kjhryujnbp
+attractiveness : 5
+intelligence : 6
+maintainence_budget : 722
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 52 :
+name : klvqkpqivd
+attractiveness : 7
+intelligence : 10
+maintainence_budget : 8344
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 53 :
+name : cttmkrgtek
+attractiveness : 3
+intelligence : 9
+maintainence_budget : 1784
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 54 :
+name : fszdklscup
+attractiveness : 4
+intelligence : 9
+maintainence_budget : 2957
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 55 :
+name : rdampmeygk
+attractiveness : 5
+intelligence : 9
+maintainence_budget : 7286
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 56 :
+name : cbudggrakn
+attractiveness : 10
+intelligence : 9
+maintainence_budget : 4152
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 57 :
+name : upuubmhhkp
+attractiveness : 3
+intelligence : 5
+maintainence_budget : 5996
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 58 :
+name : klqepwniwx
+attractiveness : 4
+intelligence : 5
+maintainence_budget : 3750
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 59 :
+name : idzdzargib
+attractiveness : 4
+intelligence : 1
+maintainence_budget : 5384
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 60 :
+name : krudvlzitw
+attractiveness : 5
+intelligence : 7
+maintainence_budget : 4379
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 61 :
+name : ugctlbtekd
+attractiveness : 4
+intelligence : 8
+maintainence_budget : 3280
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 62 :
+name : qohnrfytpu
+attractiveness : 4
+intelligence : 6
+maintainence_budget : 5515
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 63 :
+name : ltdnoqrjub
+attractiveness : 10
+intelligence : 6
+maintainence_budget : 8151
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 64 :
+name : dltkynpygf
+attractiveness : 7
+intelligence : 2
+maintainence_budget : 6651
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 65 :
+name : zqreghuxqo
+attractiveness : 7
+intelligence : 2
+maintainence_budget : 2120
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 66 :
+name : wpjscjfrhn
+attractiveness : 7
+intelligence : 1
+maintainence_budget : 6723
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 67 :
+name : iczbjfidea
+attractiveness : 7
+intelligence : 1
+maintainence_budget : 8833
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 68 :
+name : ekkpcmyjgf
+attractiveness : 7
+intelligence : 7
+maintainence_budget : 8780
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 69 :
+name : qsoqtxxdac
+attractiveness : 10
+intelligence : 7
+maintainence_budget : 4243
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 70 :
+name : fpusgweefm
+attractiveness : 7
+intelligence : 10
+maintainence_budget : 7910
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 71 :
+name : cmdqeypbdq
+attractiveness : 2
+intelligence : 3
+maintainence_budget : 2597
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 72 :
+name : wvjqnqouwv
+attractiveness : 1
+intelligence : 9
+maintainence_budget : 2697
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 73 :
+name : jguowyombr
+attractiveness : 5
+intelligence : 8
+maintainence_budget : 9951
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 74 :
+name : urufjkvaeu
+attractiveness : 8
+intelligence : 7
+maintainence_budget : 9555
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 75 :
+name : ofukuskkgm
+attractiveness : 3
+intelligence : 9
+maintainence_budget : 2268
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 76 :
+name : syyodjybjc
+attractiveness : 2
+intelligence : 2
+maintainence_budget : 5350
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 77 :
+name : fugbecvpne
+attractiveness : 10
+intelligence : 6
+maintainence_budget : 9359
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 78 :
+name : xstxgyjfzs
+attractiveness : 6
+intelligence : 3
+maintainence_budget : 3244
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 79 :
+name : ahyhicjgty
+attractiveness : 7
+intelligence : 7
+maintainence_budget : 224
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 80 :
+name : kaofxvegaf
+attractiveness : 10
+intelligence : 8
+maintainence_budget : 585
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 81 :
+name : ibtikekvkg
+attractiveness : 1
+intelligence : 9
+maintainence_budget : 5791
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 82 :
+name : bwwpdwkhem
+attractiveness : 10
+intelligence : 4
+maintainence_budget : 6513
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 83 :
+name : mflhnxlzsx
+attractiveness : 4
+intelligence : 1
+maintainence_budget : 9902
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 84 :
+name : qlymcbknlr
+attractiveness : 6
+intelligence : 9
+maintainence_budget : 175
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 85 :
+name : inavxpsiol
+attractiveness : 5
+intelligence : 9
+maintainence_budget : 4802
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 86 :
+name : zptzevbqkm
+attractiveness : 8
+intelligence : 9
+maintainence_budget : 87
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 87 :
+name : jqflmcaekq
+attractiveness : 6
+intelligence : 5
+maintainence_budget : 5115
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 88 :
+name : ssjlsnjvet
+attractiveness : 2
+intelligence : 4
+maintainence_budget : 6630
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 89 :
+name : xgmetygves
+attractiveness : 8
+intelligence : 1
+maintainence_budget : 5262
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 90 :
+name : fqhoezenwk
+attractiveness : 5
+intelligence : 10
+maintainence_budget : 1794
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 91 :
+name : tnkhtdhzal
+attractiveness : 6
+intelligence : 1
+maintainence_budget : 9548
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 92 :
+name : wlcecifgxc
+attractiveness : 7
+intelligence : 3
+maintainence_budget : 1592
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 93 :
+name : milwrecyfc
+attractiveness : 5
+intelligence : 3
+maintainence_budget : 7997
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 94 :
+name : asqfysnfyl
+attractiveness : 2
+intelligence : 5
+maintainence_budget : 7542
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 95 :
+name : pfqcbkifin
+attractiveness : 5
+intelligence : 7
+maintainence_budget : 4414
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 96 :
+name : qziheiztna
+attractiveness : 1
+intelligence : 6
+maintainence_budget : 9941
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 97 :
+name : aovtsydaen
+attractiveness : 8
+intelligence : 7
+maintainence_budget : 2585
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 98 :
+name : yrniatqcnd
+attractiveness : 1
+intelligence : 8
+maintainence_budget : 7383
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 99 :
+name : qzjnuemzes
+attractiveness : 9
+intelligence : 9
+maintainence_budget : 4557
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 100 :
+name : uuqierbuvq
+attractiveness : 1
+intelligence : 8
+maintainence_budget : 5765
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 101 :
+name : htysguwstd
+attractiveness : 7
+intelligence : 1
+maintainence_budget : 940
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 102 :
+name : wnboxhhycc
+attractiveness : 4
+intelligence : 1
+maintainence_budget : 3676
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 103 :
+name : zkvzeeubyn
+attractiveness : 1
+intelligence : 8
+maintainence_budget : 2990
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 104 :
+name : edshtpobqs
+attractiveness : 4
+intelligence : 4
+maintainence_budget : 7221
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 105 :
+name : zgwuhaabdz
+attractiveness : 6
+intelligence : 8
+maintainence_budget : 4707
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 106 :
+name : nuxibrxssn
+attractiveness : 1
+intelligence : 8
+maintainence_budget : 3773
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 107 :
+name : ggkecshdvk
+attractiveness : 3
+intelligence : 5
+maintainence_budget : 603
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 108 :
+name : qbxolbfjtz
+attractiveness : 7
+intelligence : 6
+maintainence_budget : 7803
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 109 :
+name : bbungzfpcb
+attractiveness : 10
+intelligence : 5
+maintainence_budget : 9636
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 110 :
+name : sqxqejrlsm
+attractiveness : 5
+intelligence : 9
+maintainence_budget : 4506
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 111 :
+name : ijpcxxbcmf
+attractiveness : 8
+intelligence : 10
+maintainence_budget : 540
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 112 :
+name : fpddfjmyug
+attractiveness : 5
+intelligence : 5
+maintainence_budget : 2917
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 113 :
+name : kmyzqvwszk
+attractiveness : 4
+intelligence : 8
+maintainence_budget : 9560
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 114 :
+name : kqrpvzyjxu
+attractiveness : 6
+intelligence : 1
+maintainence_budget : 8913
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 115 :
+name : naclbsgzmh
+attractiveness : 6
+intelligence : 9
+maintainence_budget : 3923
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 116 :
+name : stpkilljwi
+attractiveness : 10
+intelligence : 9
+maintainence_budget : 4573
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 117 :
+name : itemefhmgt
+attractiveness : 4
+intelligence : 10
+maintainence_budget : 800
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 118 :
+name : ecquobhzkf
+attractiveness : 9
+intelligence : 10
+maintainence_budget : 3540
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 119 :
+name : xpmdbskigq
+attractiveness : 7
+intelligence : 7
+maintainence_budget : 9838
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 120 :
+name : dqqvmfwvei
+attractiveness : 5
+intelligence : 5
+maintainence_budget : 4815
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 121 :
+name : rtkgxlyhwh
+attractiveness : 7
+intelligence : 1
+maintainence_budget : 8942
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 122 :
+name : zifpgrucob
+attractiveness : 8
+intelligence : 6
+maintainence_budget : 6964
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 123 :
+name : oceykbkjli
+attractiveness : 3
+intelligence : 8
+maintainence_budget : 977
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 124 :
+name : xczdtfwqjl
+attractiveness : 6
+intelligence : 5
+maintainence_budget : 9905
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 125 :
+name : nzkrxuvjfg
+attractiveness : 8
+intelligence : 10
+maintainence_budget : 4678
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 126 :
+name : hdgiicnesz
+attractiveness : 8
+intelligence : 10
+maintainence_budget : 1370
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 127 :
+name : diwncwjxhr
+attractiveness : 2
+intelligence : 10
+maintainence_budget : 501
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 128 :
+name : vfjdorfdyz
+attractiveness : 3
+intelligence : 8
+maintainence_budget : 2849
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 129 :
+name : idvgqxebwm
+attractiveness : 5
+intelligence : 8
+maintainence_budget : 1970
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 130 :
+name : xihjlvataa
+attractiveness : 9
+intelligence : 2
+maintainence_budget : 5629
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 131 :
+name : fngavyyabu
+attractiveness : 5
+intelligence : 3
+maintainence_budget : 7269
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 132 :
+name : zcpglcdoxe
+attractiveness : 7
+intelligence : 3
+maintainence_budget : 3922
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 133 :
+name : mnkuofsoht
+attractiveness : 7
+intelligence : 10
+maintainence_budget : 8738
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 134 :
+name : yifpoquugr
+attractiveness : 3
+intelligence : 6
+maintainence_budget : 4170
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 135 :
+name : gvtqrjyjxh
+attractiveness : 3
+intelligence : 10
+maintainence_budget : 9044
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 136 :
+name : fwykmodiij
+attractiveness : 8
+intelligence : 5
+maintainence_budget : 2455
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 137 :
+name : mpohifqiqn
+attractiveness : 8
+intelligence : 10
+maintainence_budget : 1969
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 138 :
+name : kcpiodzrlj
+attractiveness : 2
+intelligence : 4
+maintainence_budget : 4785
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 139 :
+name : lxnagxhwfy
+attractiveness : 10
+intelligence : 6
+maintainence_budget : 4988
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 140 :
+name : osvfdkjcdu
+attractiveness : 4
+intelligence : 3
+maintainence_budget : 8580
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 141 :
+name : drtrtaoayw
+attractiveness : 3
+intelligence : 7
+maintainence_budget : 4892
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 142 :
+name : olkmtnycpd
+attractiveness : 3
+intelligence : 10
+maintainence_budget : 3079
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 143 :
+name : gjbbcubrxa
+attractiveness : 6
+intelligence : 10
+maintainence_budget : 5597
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 144 :
+name : eaiombckft
+attractiveness : 5
+intelligence : 7
+maintainence_budget : 2829
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 145 :
+name : fitgjwdnpa
+attractiveness : 4
+intelligence : 7
+maintainence_budget : 3404
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 146 :
+name : whqhvdizpo
+attractiveness : 4
+intelligence : 2
+maintainence_budget : 3149
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 147 :
+name : cwpxfbtiqi
+attractiveness : 5
+intelligence : 10
+maintainence_budget : 9869
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 148 :
+name : eipxpmazmr
+attractiveness : 10
+intelligence : 2
+maintainence_budget : 6358
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 149 :
+name : envulcxekn
+attractiveness : 4
+intelligence : 9
+maintainence_budget : 2183
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 150 :
+name : ckptjgflit
+attractiveness : 5
+intelligence : 6
+maintainence_budget : 5033
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 151 :
+name : beyyajaxqm
+attractiveness : 3
+intelligence : 8
+maintainence_budget : 4719
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 152 :
+name : pgyfzhngsv
+attractiveness : 5
+intelligence : 10
+maintainence_budget : 6508
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 153 :
+name : ghcgfcqhzi
+attractiveness : 8
+intelligence : 6
+maintainence_budget : 2924
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 154 :
+name : brvaywjlfc
+attractiveness : 10
+intelligence : 2
+maintainence_budget : 6944
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 155 :
+name : xoxauecmme
+attractiveness : 3
+intelligence : 4
+maintainence_budget : 1310
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 156 :
+name : fpacrazane
+attractiveness : 9
+intelligence : 5
+maintainence_budget : 8928
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 157 :
+name : cbuzbrgffs
+attractiveness : 4
+intelligence : 3
+maintainence_budget : 3688
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 158 :
+name : ieckitkhwy
+attractiveness : 4
+intelligence : 5
+maintainence_budget : 9741
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 159 :
+name : dfjzgmqmry
+attractiveness : 9
+intelligence : 2
+maintainence_budget : 7053
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 160 :
+name : pqiudqpnyl
+attractiveness : 6
+intelligence : 6
+maintainence_budget : 8543
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 161 :
+name : upzdofphui
+attractiveness : 8
+intelligence : 9
+maintainence_budget : 1278
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 162 :
+name : nydvsgmivm
+attractiveness : 2
+intelligence : 4
+maintainence_budget : 4250
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 163 :
+name : tdksiyazhu
+attractiveness : 1
+intelligence : 5
+maintainence_budget : 3265
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 164 :
+name : jhuocmuqwp
+attractiveness : 7
+intelligence : 7
+maintainence_budget : 8945
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 165 :
+name : tzjdsresrl
+attractiveness : 3
+intelligence : 6
+maintainence_budget : 6415
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 166 :
+name : vxbrlegfuc
+attractiveness : 6
+intelligence : 8
+maintainence_budget : 5471
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 167 :
+name : crelwyeaqv
+attractiveness : 9
+intelligence : 3
+maintainence_budget : 9387
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 168 :
+name : rlssdeyjlt
+attractiveness : 6
+intelligence : 1
+maintainence_budget : 9099
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 169 :
+name : bozfzxedaw
+attractiveness : 10
+intelligence : 9
+maintainence_budget : 620
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 170 :
+name : yqrqlwujhi
+attractiveness : 9
+intelligence : 4
+maintainence_budget : 1401
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 171 :
+name : abxbhybndb
+attractiveness : 2
+intelligence : 9
+maintainence_budget : 5896
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 172 :
+name : voyofjlbts
+attractiveness : 6
+intelligence : 4
+maintainence_budget : 686
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 173 :
+name : yezviitjxx
+attractiveness : 7
+intelligence : 10
+maintainence_budget : 7314
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 174 :
+name : laqkovtzwo
+attractiveness : 7
+intelligence : 7
+maintainence_budget : 2455
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 175 :
+name : miqndyyzjx
+attractiveness : 5
+intelligence : 4
+maintainence_budget : 2431
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 176 :
+name : kpyaznxuot
+attractiveness : 10
+intelligence : 1
+maintainence_budget : 9984
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 177 :
+name : nlagafgyeq
+attractiveness : 5
+intelligence : 1
+maintainence_budget : 7942
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 178 :
+name : msxkuwztqo
+attractiveness : 2
+intelligence : 4
+maintainence_budget : 6717
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 179 :
+name : qejsmmasme
+attractiveness : 7
+intelligence : 3
+maintainence_budget : 932
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 180 :
+name : rinqukmwde
+attractiveness : 9
+intelligence : 9
+maintainence_budget : 8743
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 181 :
+name : gdpsxbextq
+attractiveness : 3
+intelligence : 7
+maintainence_budget : 3248
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 182 :
+name : yimlygxmcb
+attractiveness : 3
+intelligence : 3
+maintainence_budget : 1884
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 183 :
+name : ehetbdwhbq
+attractiveness : 2
+intelligence : 8
+maintainence_budget : 8281
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 184 :
+name : yaekmcslox
+attractiveness : 3
+intelligence : 1
+maintainence_budget : 2998
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 185 :
+name : ooquityeab
+attractiveness : 3
+intelligence : 8
+maintainence_budget : 1867
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 186 :
+name : cscgcqkxcy
+attractiveness : 9
+intelligence : 7
+maintainence_budget : 5531
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 187 :
+name : pyphszasfc
+attractiveness : 4
+intelligence : 7
+maintainence_budget : 269
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 188 :
+name : gdrilvbxsf
+attractiveness : 10
+intelligence : 9
+maintainence_budget : 7324
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 189 :
+name : yvupfoohht
+attractiveness : 9
+intelligence : 9
+maintainence_budget : 9944
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 190 :
+name : wuhnevkfud
+attractiveness : 1
+intelligence : 5
+maintainence_budget : 3852
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 191 :
+name : nkvhzawnif
+attractiveness : 5
+intelligence : 7
+maintainence_budget : 5572
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 192 :
+name : jcetrkqdsk
+attractiveness : 1
+intelligence : 3
+maintainence_budget : 1093
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 193 :
+name : anayvzytoi
+attractiveness : 9
+intelligence : 4
+maintainence_budget : 963
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 194 :
+name : orhukafadx
+attractiveness : 9
+intelligence : 9
+maintainence_budget : 6974
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 195 :
+name : srzupuuqpi
+attractiveness : 5
+intelligence : 8
+maintainence_budget : 7520
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 196 :
+name : ktorqytvax
+attractiveness : 3
+intelligence : 7
+maintainence_budget : 2514
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 197 :
+name : xpvwkkteai
+attractiveness : 7
+intelligence : 4
+maintainence_budget : 3669
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 198 :
+name : vgblarjtol
+attractiveness : 5
+intelligence : 9
+maintainence_budget : 838
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 199 :
+name : batyzdksjn
+attractiveness : 5
+intelligence : 7
+maintainence_budget : 2085
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 200 :
+name : wzczkctvyh
+attractiveness : 1
+intelligence : 5
+maintainence_budget : 985
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 201 :
+name : ujynhxttpc
+attractiveness : 7
+intelligence : 1
+maintainence_budget : 441
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 202 :
+name : yswdsgfncf
+attractiveness : 5
+intelligence : 9
+maintainence_budget : 9171
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 203 :
+name : ugbsukqpef
+attractiveness : 4
+intelligence : 1
+maintainence_budget : 1494
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 204 :
+name : wwbszvyhic
+attractiveness : 9
+intelligence : 8
+maintainence_budget : 7436
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 205 :
+name : fewjzsvphb
+attractiveness : 1
+intelligence : 9
+maintainence_budget : 9549
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 206 :
+name : vsxwkyukhc
+attractiveness : 6
+intelligence : 3
+maintainence_budget : 8278
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 207 :
+name : zjpxuorqda
+attractiveness : 10
+intelligence : 8
+maintainence_budget : 2575
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 208 :
+name : dcnabzavki
+attractiveness : 6
+intelligence : 4
+maintainence_budget : 7589
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 209 :
+name : mgoddjrubu
+attractiveness : 5
+intelligence : 3
+maintainence_budget : 9367
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 210 :
+name : rbehbfgcas
+attractiveness : 7
+intelligence : 7
+maintainence_budget : 182
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 211 :
+name : ygpnkuybqb
+attractiveness : 1
+intelligence : 3
+maintainence_budget : 2202
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 212 :
+name : xjmcspjztm
+attractiveness : 10
+intelligence : 10
+maintainence_budget : 7097
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 213 :
+name : vlemaogarw
+attractiveness : 8
+intelligence : 8
+maintainence_budget : 4295
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 214 :
+name : uwtgalykmr
+attractiveness : 5
+intelligence : 5
+maintainence_budget : 5816
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 215 :
+name : whgctjsblk
+attractiveness : 4
+intelligence : 10
+maintainence_budget : 9282
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 216 :
+name : hdkamlnkxa
+attractiveness : 8
+intelligence : 10
+maintainence_budget : 5071
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 217 :
+name : bzqjblsume
+attractiveness : 3
+intelligence : 6
+maintainence_budget : 482
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 218 :
+name : hmvrohectb
+attractiveness : 3
+intelligence : 2
+maintainence_budget : 5791
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 219 :
+name : hnyxwciryw
+attractiveness : 2
+intelligence : 1
+maintainence_budget : 8118
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 220 :
+name : zxwxqmevoy
+attractiveness : 5
+intelligence : 9
+maintainence_budget : 9586
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 221 :
+name : ugrvgqxqhv
+attractiveness : 4
+intelligence : 3
+maintainence_budget : 514
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 222 :
+name : iwvgtltzij
+attractiveness : 6
+intelligence : 4
+maintainence_budget : 8141
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 223 :
+name : krqeoyulpb
+attractiveness : 5
+intelligence : 1
+maintainence_budget : 7424
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 224 :
+name : drwaapnvry
+attractiveness : 3
+intelligence : 5
+maintainence_budget : 2020
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 225 :
+name : rxghbuivfz
+attractiveness : 3
+intelligence : 4
+maintainence_budget : 7838
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 226 :
+name : dmpcmrtbok
+attractiveness : 8
+intelligence : 6
+maintainence_budget : 3150
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 227 :
+name : ozewjhqrex
+attractiveness : 3
+intelligence : 9
+maintainence_budget : 5863
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 228 :
+name : kaxbcltwnh
+attractiveness : 3
+intelligence : 7
+maintainence_budget : 1543
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 229 :
+name : mzwqvfalwe
+attractiveness : 3
+intelligence : 1
+maintainence_budget : 4798
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 230 :
+name : wekuimhbkw
+attractiveness : 9
+intelligence : 4
+maintainence_budget : 3346
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 231 :
+name : gbccrzitlg
+attractiveness : 3
+intelligence : 2
+maintainence_budget : 5172
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 232 :
+name : gfysbghjjr
+attractiveness : 2
+intelligence : 3
+maintainence_budget : 9205
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 233 :
+name : pyktddsnxf
+attractiveness : 4
+intelligence : 8
+maintainence_budget : 4068
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 234 :
+name : xzlvrneayn
+attractiveness : 5
+intelligence : 10
+maintainence_budget : 3096
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 235 :
+name : qxwaqzelmb
+attractiveness : 5
+intelligence : 7
+maintainence_budget : 6719
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 236 :
+name : eubrqvguve
+attractiveness : 10
+intelligence : 2
+maintainence_budget : 7057
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 237 :
+name : khvikokqzw
+attractiveness : 10
+intelligence : 4
+maintainence_budget : 5987
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 238 :
+name : jxlmqdhxzf
+attractiveness : 10
+intelligence : 6
+maintainence_budget : 4125
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 239 :
+name : ubjqkveulf
+attractiveness : 3
+intelligence : 3
+maintainence_budget : 6503
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 240 :
+name : rmwfyniimi
+attractiveness : 6
+intelligence : 10
+maintainence_budget : 304
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 241 :
+name : tgicyuyeql
+attractiveness : 10
+intelligence : 4
+maintainence_budget : 1215
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 242 :
+name : pfyokwduep
+attractiveness : 9
+intelligence : 2
+maintainence_budget : 2845
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 243 :
+name : nsnwvnsvtj
+attractiveness : 9
+intelligence : 7
+maintainence_budget : 1907
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 244 :
+name : esyegkajhh
+attractiveness : 9
+intelligence : 8
+maintainence_budget : 5175
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 245 :
+name : hsdwqalixe
+attractiveness : 10
+intelligence : 7
+maintainence_budget : 7295
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 246 :
+name : crycvgnypu
+attractiveness : 4
+intelligence : 2
+maintainence_budget : 5878
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 247 :
+name : stowpewbmu
+attractiveness : 8
+intelligence : 9
+maintainence_budget : 2509
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 248 :
+name : iwjjygpneh
+attractiveness : 10
+intelligence : 2
+maintainence_budget : 6643
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 249 :
+name : sjogffkegz
+attractiveness : 5
+intelligence : 5
+maintainence_budget : 2404
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 250 :
+name : ykcjtaqjou
+attractiveness : 5
+intelligence : 2
+maintainence_budget : 6285
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 251 :
+name : dhytpfycjf
+attractiveness : 10
+intelligence : 6
+maintainence_budget : 5872
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 252 :
+name : bgwfqphiax
+attractiveness : 3
+intelligence : 7
+maintainence_budget : 7904
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 253 :
+name : lpslihrjjc
+attractiveness : 7
+intelligence : 5
+maintainence_budget : 4753
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 254 :
+name : xmdvrtladn
+attractiveness : 1
+intelligence : 4
+maintainence_budget : 8205
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 255 :
+name : rgljswslfc
+attractiveness : 2
+intelligence : 4
+maintainence_budget : 5165
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 256 :
+name : lzsouljhnm
+attractiveness : 10
+intelligence : 10
+maintainence_budget : 8194
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 257 :
+name : pwpdhhzzug
+attractiveness : 4
+intelligence : 4
+maintainence_budget : 3856
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 258 :
+name : jhidveogod
+attractiveness : 3
+intelligence : 6
+maintainence_budget : 9482
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 259 :
+name : xfmmivvjur
+attractiveness : 6
+intelligence : 7
+maintainence_budget : 8840
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 260 :
+name : ibdseawugk
+attractiveness : 6
+intelligence : 9
+maintainence_budget : 4142
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 261 :
+name : lmuzacuynr
+attractiveness : 2
+intelligence : 9
+maintainence_budget : 278
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 262 :
+name : nyxsqbspxy
+attractiveness : 4
+intelligence : 8
+maintainence_budget : 5549
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 263 :
+name : nixikameac
+attractiveness : 6
+intelligence : 8
+maintainence_budget : 3343
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 264 :
+name : ddgavxenmb
+attractiveness : 10
+intelligence : 6
+maintainence_budget : 7169
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 265 :
+name : kbvjlhjzlj
+attractiveness : 10
+intelligence : 10
+maintainence_budget : 7676
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 266 :
+name : jjfrlaopqc
+attractiveness : 2
+intelligence : 4
+maintainence_budget : 8353
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 267 :
+name : edqzndgycu
+attractiveness : 9
+intelligence : 9
+maintainence_budget : 6490
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 268 :
+name : gyxlpimgae
+attractiveness : 5
+intelligence : 10
+maintainence_budget : 1972
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 269 :
+name : whuoijrrhu
+attractiveness : 4
+intelligence : 2
+maintainence_budget : 263
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 270 :
+name : magjmwract
+attractiveness : 9
+intelligence : 5
+maintainence_budget : 6539
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 271 :
+name : fkwzaeiuxr
+attractiveness : 5
+intelligence : 5
+maintainence_budget : 750
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 272 :
+name : vcfclryera
+attractiveness : 5
+intelligence : 4
+maintainence_budget : 2671
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 273 :
+name : dvuzuvgepd
+attractiveness : 9
+intelligence : 4
+maintainence_budget : 9189
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 274 :
+name : sgzxkkqiqj
+attractiveness : 3
+intelligence : 3
+maintainence_budget : 9067
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 275 :
+name : rccnexikdz
+attractiveness : 4
+intelligence : 10
+maintainence_budget : 3419
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 276 :
+name : byvaxhmqqd
+attractiveness : 10
+intelligence : 1
+maintainence_budget : 4804
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 277 :
+name : azedmkcxuf
+attractiveness : 5
+intelligence : 8
+maintainence_budget : 9836
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 278 :
+name : xershqatgs
+attractiveness : 9
+intelligence : 7
+maintainence_budget : 5699
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 279 :
+name : yupexdobck
+attractiveness : 2
+intelligence : 4
+maintainence_budget : 6330
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 280 :
+name : mnkfirwklc
+attractiveness : 7
+intelligence : 2
+maintainence_budget : 2531
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 281 :
+name : yyypcvvqzx
+attractiveness : 9
+intelligence : 5
+maintainence_budget : 6675
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 282 :
+name : cmpnsxeqjr
+attractiveness : 7
+intelligence : 8
+maintainence_budget : 8734
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 283 :
+name : gdoevrcqjb
+attractiveness : 8
+intelligence : 1
+maintainence_budget : 886
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 284 :
+name : jqyydsykih
+attractiveness : 2
+intelligence : 2
+maintainence_budget : 4596
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 285 :
+name : nnnbtkuvae
+attractiveness : 3
+intelligence : 3
+maintainence_budget : 3531
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 286 :
+name : eqscryxrkh
+attractiveness : 3
+intelligence : 10
+maintainence_budget : 8657
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 287 :
+name : umjkqcukax
+attractiveness : 9
+intelligence : 9
+maintainence_budget : 2508
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 288 :
+name : rmwlrpjqgt
+attractiveness : 10
+intelligence : 8
+maintainence_budget : 3374
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 289 :
+name : fetqqjslvs
+attractiveness : 1
+intelligence : 9
+maintainence_budget : 2052
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 290 :
+name : xojvzallqt
+attractiveness : 9
+intelligence : 4
+maintainence_budget : 8457
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 291 :
+name : jwgemwphjk
+attractiveness : 4
+intelligence : 2
+maintainence_budget : 4031
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 292 :
+name : rreangcatu
+attractiveness : 2
+intelligence : 4
+maintainence_budget : 4814
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 293 :
+name : lhprlepalz
+attractiveness : 1
+intelligence : 1
+maintainence_budget : 9187
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 294 :
+name : jcynclvgnq
+attractiveness : 1
+intelligence : 10
+maintainence_budget : 9301
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 295 :
+name : laqcrdghfr
+attractiveness : 1
+intelligence : 4
+maintainence_budget : 5235
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 296 :
+name : njclxgzuom
+attractiveness : 2
+intelligence : 3
+maintainence_budget : 3640
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 297 :
+name : eqguuaxdjc
+attractiveness : 9
+intelligence : 8
+maintainence_budget : 3879
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 298 :
+name : wpbzbyhauw
+attractiveness : 3
+intelligence : 4
+maintainence_budget : 2319
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 299 :
+name : usednzdmcm
+attractiveness : 8
+intelligence : 7
+maintainence_budget : 2776
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 300 :
+name : ulqvktvuts
+attractiveness : 1
+intelligence : 5
+maintainence_budget : 8346
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 301 :
+name : mboqedrjqt
+attractiveness : 8
+intelligence : 8
+maintainence_budget : 9237
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 302 :
+name : xujnswhpqc
+attractiveness : 4
+intelligence : 1
+maintainence_budget : 6735
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 303 :
+name : itpxltadcs
+attractiveness : 5
+intelligence : 2
+maintainence_budget : 8638
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 304 :
+name : bpwnfojodb
+attractiveness : 3
+intelligence : 10
+maintainence_budget : 8762
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 305 :
+name : vnplmagpdl
+attractiveness : 6
+intelligence : 5
+maintainence_budget : 7515
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 306 :
+name : mqokdtaohf
+attractiveness : 6
+intelligence : 4
+maintainence_budget : 9745
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 307 :
+name : mwsbjecpth
+attractiveness : 3
+intelligence : 10
+maintainence_budget : 1554
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 308 :
+name : ibkwnqpney
+attractiveness : 5
+intelligence : 3
+maintainence_budget : 5480
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 309 :
+name : czswbbcfrw
+attractiveness : 7
+intelligence : 8
+maintainence_budget : 1044
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 310 :
+name : vgnfcavtna
+attractiveness : 10
+intelligence : 3
+maintainence_budget : 7413
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 311 :
+name : uusnsvovah
+attractiveness : 6
+intelligence : 2
+maintainence_budget : 3572
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 312 :
+name : ppvduxdssr
+attractiveness : 5
+intelligence : 6
+maintainence_budget : 308
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 313 :
+name : umambukqpk
+attractiveness : 6
+intelligence : 1
+maintainence_budget : 2700
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 314 :
+name : owtjzqieia
+attractiveness : 4
+intelligence : 3
+maintainence_budget : 4752
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 315 :
+name : tsivhkprcf
+attractiveness : 2
+intelligence : 2
+maintainence_budget : 8484
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 316 :
+name : urgnbffjjp
+attractiveness : 7
+intelligence : 6
+maintainence_budget : 7294
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 317 :
+name : nuywpfgfwi
+attractiveness : 9
+intelligence : 10
+maintainence_budget : 9596
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 318 :
+name : vvudlxisgu
+attractiveness : 7
+intelligence : 1
+maintainence_budget : 4332
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 319 :
+name : knqkliprpn
+attractiveness : 4
+intelligence : 6
+maintainence_budget : 6814
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 320 :
+name : rmcnpnmahv
+attractiveness : 1
+intelligence : 8
+maintainence_budget : 5678
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 321 :
+name : ljeewronkd
+attractiveness : 6
+intelligence : 6
+maintainence_budget : 8275
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 322 :
+name : kllozdbndj
+attractiveness : 7
+intelligence : 6
+maintainence_budget : 7657
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 323 :
+name : rljxrfofvy
+attractiveness : 1
+intelligence : 7
+maintainence_budget : 6514
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 324 :
+name : lbbypcbtqe
+attractiveness : 7
+intelligence : 7
+maintainence_budget : 5830
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 325 :
+name : dykpvbwmhr
+attractiveness : 5
+intelligence : 6
+maintainence_budget : 7788
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 326 :
+name : fjljjcllxb
+attractiveness : 4
+intelligence : 10
+maintainence_budget : 4869
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 327 :
+name : acikrfmqrv
+attractiveness : 2
+intelligence : 5
+maintainence_budget : 8047
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 328 :
+name : ugnfrwidhf
+attractiveness : 7
+intelligence : 4
+maintainence_budget : 6792
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 329 :
+name : vlcdvukjme
+attractiveness : 3
+intelligence : 2
+maintainence_budget : 5311
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 330 :
+name : mndzvwvfzf
+attractiveness : 3
+intelligence : 9
+maintainence_budget : 9747
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 331 :
+name : gsdixzeiks
+attractiveness : 5
+intelligence : 2
+maintainence_budget : 1317
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 332 :
+name : kixphumezn
+attractiveness : 10
+intelligence : 5
+maintainence_budget : 9942
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 333 :
+name : obetmdssld
+attractiveness : 4
+intelligence : 2
+maintainence_budget : 587
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 334 :
+name : elfddoyrvz
+attractiveness : 9
+intelligence : 5
+maintainence_budget : 2600
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 335 :
+name : bubhnnkigw
+attractiveness : 2
+intelligence : 10
+maintainence_budget : 5874
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 336 :
+name : vnfaskpsdk
+attractiveness : 1
+intelligence : 7
+maintainence_budget : 2313
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 337 :
+name : sikwrzjchr
+attractiveness : 7
+intelligence : 9
+maintainence_budget : 2337
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 338 :
+name : esumvnymhe
+attractiveness : 1
+intelligence : 10
+maintainence_budget : 7615
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 339 :
+name : gjtsfltqpb
+attractiveness : 5
+intelligence : 4
+maintainence_budget : 2078
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 340 :
+name : fdhzrcmrow
+attractiveness : 2
+intelligence : 9
+maintainence_budget : 432
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 341 :
+name : itnenurhng
+attractiveness : 9
+intelligence : 4
+maintainence_budget : 3330
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 342 :
+name : joasorwclm
+attractiveness : 5
+intelligence : 7
+maintainence_budget : 6889
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 343 :
+name : denskdpbkc
+attractiveness : 2
+intelligence : 5
+maintainence_budget : 6106
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 344 :
+name : yqsbigufif
+attractiveness : 2
+intelligence : 6
+maintainence_budget : 5345
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 345 :
+name : ixlvrwagzk
+attractiveness : 3
+intelligence : 8
+maintainence_budget : 7005
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 346 :
+name : kodcpokjvu
+attractiveness : 4
+intelligence : 7
+maintainence_budget : 4038
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 347 :
+name : klfwixujdt
+attractiveness : 10
+intelligence : 1
+maintainence_budget : 247
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 348 :
+name : qmtvqijaue
+attractiveness : 5
+intelligence : 10
+maintainence_budget : 9216
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 349 :
+name : bidhgngawj
+attractiveness : 9
+intelligence : 1
+maintainence_budget : 5330
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 350 :
+name : fqiaoylzaf
+attractiveness : 9
+intelligence : 9
+maintainence_budget : 8359
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 351 :
+name : kcdnljarmz
+attractiveness : 2
+intelligence : 1
+maintainence_budget : 358
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 352 :
+name : plbzmpzxqz
+attractiveness : 9
+intelligence : 9
+maintainence_budget : 2802
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 353 :
+name : qgatvlevdq
+attractiveness : 5
+intelligence : 9
+maintainence_budget : 6077
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 354 :
+name : lgymhkdgjt
+attractiveness : 6
+intelligence : 8
+maintainence_budget : 5449
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 355 :
+name : pvtpqoduji
+attractiveness : 4
+intelligence : 7
+maintainence_budget : 3607
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 356 :
+name : cyeamlmruv
+attractiveness : 8
+intelligence : 8
+maintainence_budget : 5375
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 357 :
+name : vufokvcpqo
+attractiveness : 6
+intelligence : 8
+maintainence_budget : 9881
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 358 :
+name : rptvshhgzb
+attractiveness : 1
+intelligence : 5
+maintainence_budget : 6437
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 359 :
+name : pknuyzqdqi
+attractiveness : 6
+intelligence : 10
+maintainence_budget : 5592
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 360 :
+name : hguccmklul
+attractiveness : 1
+intelligence : 7
+maintainence_budget : 9776
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 361 :
+name : slxhgxjyaz
+attractiveness : 5
+intelligence : 6
+maintainence_budget : 2040
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 362 :
+name : replhrzreu
+attractiveness : 9
+intelligence : 1
+maintainence_budget : 817
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 363 :
+name : fxacgicpgc
+attractiveness : 8
+intelligence : 3
+maintainence_budget : 7425
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 364 :
+name : gvrvjamits
+attractiveness : 5
+intelligence : 4
+maintainence_budget : 7203
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 365 :
+name : bczbhgjjvr
+attractiveness : 10
+intelligence : 9
+maintainence_budget : 2462
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 366 :
+name : usqnnzochh
+attractiveness : 1
+intelligence : 3
+maintainence_budget : 3526
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 367 :
+name : hiljlupudm
+attractiveness : 4
+intelligence : 4
+maintainence_budget : 4560
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 368 :
+name : towjbkirmq
+attractiveness : 4
+intelligence : 7
+maintainence_budget : 6351
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 369 :
+name : nnxawivnea
+attractiveness : 7
+intelligence : 4
+maintainence_budget : 9738
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 370 :
+name : ywbugfeows
+attractiveness : 3
+intelligence : 10
+maintainence_budget : 3026
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 371 :
+name : qzrqapaxdf
+attractiveness : 6
+intelligence : 10
+maintainence_budget : 8577
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 372 :
+name : mpenlkuqbr
+attractiveness : 1
+intelligence : 6
+maintainence_budget : 4785
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 373 :
+name : scvluvcuuf
+attractiveness : 8
+intelligence : 5
+maintainence_budget : 527
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 374 :
+name : umczbnjwfm
+attractiveness : 8
+intelligence : 1
+maintainence_budget : 6447
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 375 :
+name : szfnkzlpwf
+attractiveness : 1
+intelligence : 6
+maintainence_budget : 1614
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 376 :
+name : kdlmcpcolh
+attractiveness : 5
+intelligence : 5
+maintainence_budget : 5994
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 377 :
+name : zqhgetgrie
+attractiveness : 7
+intelligence : 6
+maintainence_budget : 9908
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 378 :
+name : bgrovwfxkq
+attractiveness : 1
+intelligence : 3
+maintainence_budget : 6233
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 379 :
+name : cfdlljetap
+attractiveness : 4
+intelligence : 8
+maintainence_budget : 5437
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 380 :
+name : kcdbsazyxl
+attractiveness : 9
+intelligence : 3
+maintainence_budget : 4313
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 381 :
+name : nppqaacgwe
+attractiveness : 4
+intelligence : 2
+maintainence_budget : 4328
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 382 :
+name : adyghtggrg
+attractiveness : 5
+intelligence : 10
+maintainence_budget : 2505
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 383 :
+name : ufljxnlzwh
+attractiveness : 9
+intelligence : 6
+maintainence_budget : 180
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 384 :
+name : zksaqztyim
+attractiveness : 9
+intelligence : 7
+maintainence_budget : 1926
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 385 :
+name : skzfvwthyr
+attractiveness : 7
+intelligence : 1
+maintainence_budget : 7515
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 386 :
+name : zvzuvpvqod
+attractiveness : 3
+intelligence : 9
+maintainence_budget : 346
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 387 :
+name : zrvaxrxsax
+attractiveness : 10
+intelligence : 3
+maintainence_budget : 6578
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 388 :
+name : oxlorifmyv
+attractiveness : 5
+intelligence : 5
+maintainence_budget : 4437
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 389 :
+name : bzrwzqpykr
+attractiveness : 10
+intelligence : 10
+maintainence_budget : 2415
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 390 :
+name : alpnbivgxt
+attractiveness : 5
+intelligence : 2
+maintainence_budget : 5388
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 391 :
+name : uvnntpfjnp
+attractiveness : 1
+intelligence : 2
+maintainence_budget : 7519
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 392 :
+name : dosubtfwac
+attractiveness : 10
+intelligence : 5
+maintainence_budget : 6152
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 393 :
+name : jjvzyooezd
+attractiveness : 8
+intelligence : 7
+maintainence_budget : 1331
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 394 :
+name : uldohgimdk
+attractiveness : 7
+intelligence : 5
+maintainence_budget : 4653
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 395 :
+name : qxwlyuzmyb
+attractiveness : 4
+intelligence : 3
+maintainence_budget : 1724
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 396 :
+name : rapwoydyni
+attractiveness : 7
+intelligence : 2
+maintainence_budget : 1241
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 397 :
+name : rqqnboidci
+attractiveness : 9
+intelligence : 2
+maintainence_budget : 8329
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 398 :
+name : gazxzqycql
+attractiveness : 3
+intelligence : 4
+maintainence_budget : 4569
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 399 :
+name : jiuzvvpfar
+attractiveness : 5
+intelligence : 3
+maintainence_budget : 5928
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 400 :
+name : mbqoargytw
+attractiveness : 2
+intelligence : 2
+maintainence_budget : 978
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 401 :
+name : blfvldsciv
+attractiveness : 5
+intelligence : 5
+maintainence_budget : 4322
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 402 :
+name : rvujjuartv
+attractiveness : 3
+intelligence : 1
+maintainence_budget : 1547
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 403 :
+name : zoshjfkehu
+attractiveness : 2
+intelligence : 8
+maintainence_budget : 6238
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 404 :
+name : kvigetaglv
+attractiveness : 8
+intelligence : 10
+maintainence_budget : 9681
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 405 :
+name : ifdamohyup
+attractiveness : 7
+intelligence : 6
+maintainence_budget : 5923
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 406 :
+name : fxtpdyiggv
+attractiveness : 10
+intelligence : 5
+maintainence_budget : 8297
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 407 :
+name : lmwqokgwib
+attractiveness : 8
+intelligence : 10
+maintainence_budget : 7097
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 408 :
+name : ummodromxu
+attractiveness : 2
+intelligence : 6
+maintainence_budget : 6841
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 409 :
+name : ytqwjhjrdr
+attractiveness : 5
+intelligence : 5
+maintainence_budget : 7303
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 410 :
+name : llmzzpqpbq
+attractiveness : 3
+intelligence : 4
+maintainence_budget : 7110
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 411 :
+name : vsoorzvaqa
+attractiveness : 8
+intelligence : 4
+maintainence_budget : 4585
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 412 :
+name : pbpbarrsgu
+attractiveness : 1
+intelligence : 5
+maintainence_budget : 8002
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 413 :
+name : cvfqlwpiyi
+attractiveness : 3
+intelligence : 5
+maintainence_budget : 1198
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 414 :
+name : xrnmtndmhk
+attractiveness : 1
+intelligence : 5
+maintainence_budget : 9179
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 415 :
+name : puoxlzvchu
+attractiveness : 7
+intelligence : 6
+maintainence_budget : 4715
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 416 :
+name : aclnpecuqj
+attractiveness : 3
+intelligence : 7
+maintainence_budget : 5236
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 417 :
+name : talhzyhvcq
+attractiveness : 2
+intelligence : 4
+maintainence_budget : 1745
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 418 :
+name : dhzowquykk
+attractiveness : 4
+intelligence : 2
+maintainence_budget : 7956
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 419 :
+name : deeqleqsbt
+attractiveness : 6
+intelligence : 5
+maintainence_budget : 1767
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 420 :
+name : eykfngxhgk
+attractiveness : 9
+intelligence : 10
+maintainence_budget : 7950
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 421 :
+name : hmeldqrtks
+attractiveness : 1
+intelligence : 8
+maintainence_budget : 773
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 422 :
+name : pftzkihkrp
+attractiveness : 7
+intelligence : 8
+maintainence_budget : 7924
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 423 :
+name : hejormgjhs
+attractiveness : 10
+intelligence : 3
+maintainence_budget : 3397
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 424 :
+name : ihbdjolsyd
+attractiveness : 7
+intelligence : 3
+maintainence_budget : 5123
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 425 :
+name : nyxwmokuxr
+attractiveness : 2
+intelligence : 6
+maintainence_budget : 7498
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 426 :
+name : mncntlbeeb
+attractiveness : 8
+intelligence : 9
+maintainence_budget : 7158
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 427 :
+name : mnfjjsytox
+attractiveness : 3
+intelligence : 4
+maintainence_budget : 7257
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 428 :
+name : vowybplftr
+attractiveness : 7
+intelligence : 4
+maintainence_budget : 4572
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 429 :
+name : mqqsazmauc
+attractiveness : 8
+intelligence : 7
+maintainence_budget : 3685
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 430 :
+name : mvykvcbjhx
+attractiveness : 9
+intelligence : 4
+maintainence_budget : 1877
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 431 :
+name : fykvqmwems
+attractiveness : 4
+intelligence : 2
+maintainence_budget : 2581
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 432 :
+name : jbhhoejpns
+attractiveness : 5
+intelligence : 7
+maintainence_budget : 3687
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 433 :
+name : dvynqrboxn
+attractiveness : 1
+intelligence : 5
+maintainence_budget : 3616
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 434 :
+name : kqxrznwjcl
+attractiveness : 4
+intelligence : 8
+maintainence_budget : 5008
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 435 :
+name : bpdcevvgms
+attractiveness : 2
+intelligence : 7
+maintainence_budget : 3170
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 436 :
+name : uhvryvgwej
+attractiveness : 9
+intelligence : 6
+maintainence_budget : 4029
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 437 :
+name : lpiqroomuc
+attractiveness : 5
+intelligence : 3
+maintainence_budget : 7815
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 438 :
+name : catxtuuasa
+attractiveness : 8
+intelligence : 7
+maintainence_budget : 3477
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 439 :
+name : dcfnvybjmy
+attractiveness : 4
+intelligence : 7
+maintainence_budget : 3009
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 440 :
+name : epaanvujxo
+attractiveness : 3
+intelligence : 7
+maintainence_budget : 3342
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 441 :
+name : hxeokzmnka
+attractiveness : 4
+intelligence : 2
+maintainence_budget : 8777
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 442 :
+name : siauinseyp
+attractiveness : 5
+intelligence : 3
+maintainence_budget : 45
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 443 :
+name : bubfingwbq
+attractiveness : 7
+intelligence : 3
+maintainence_budget : 4716
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 444 :
+name : ylcyimnaqn
+attractiveness : 4
+intelligence : 3
+maintainence_budget : 4321
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 445 :
+name : ctsgadvhby
+attractiveness : 8
+intelligence : 3
+maintainence_budget : 2986
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 446 :
+name : jnclnkxcmp
+attractiveness : 10
+intelligence : 3
+maintainence_budget : 1172
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 447 :
+name : xsqqarvvaw
+attractiveness : 5
+intelligence : 10
+maintainence_budget : 2519
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 448 :
+name : psdsfseeut
+attractiveness : 6
+intelligence : 7
+maintainence_budget : 8182
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 449 :
+name : ssvjkxchtc
+attractiveness : 10
+intelligence : 2
+maintainence_budget : 8962
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 450 :
+name : spuvjboqfk
+attractiveness : 10
+intelligence : 1
+maintainence_budget : 2883
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 451 :
+name : caozjyxlfs
+attractiveness : 10
+intelligence : 4
+maintainence_budget : 3752
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 452 :
+name : jlefgqiwin
+attractiveness : 4
+intelligence : 2
+maintainence_budget : 2512
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 453 :
+name : jjbyjlygyg
+attractiveness : 7
+intelligence : 5
+maintainence_budget : 8010
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 454 :
+name : guskzaahzi
+attractiveness : 5
+intelligence : 9
+maintainence_budget : 1530
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 455 :
+name : cubeumrvsr
+attractiveness : 6
+intelligence : 5
+maintainence_budget : 1216
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 456 :
+name : ocximylpfk
+attractiveness : 4
+intelligence : 8
+maintainence_budget : 1249
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 457 :
+name : jhkmnhyecs
+attractiveness : 9
+intelligence : 8
+maintainence_budget : 6849
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 458 :
+name : pudmerkpgr
+attractiveness : 10
+intelligence : 9
+maintainence_budget : 3105
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 459 :
+name : khuxvieuoi
+attractiveness : 1
+intelligence : 1
+maintainence_budget : 9178
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 460 :
+name : oqotfskpkt
+attractiveness : 2
+intelligence : 6
+maintainence_budget : 5782
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 461 :
+name : qqsknnuthj
+attractiveness : 6
+intelligence : 7
+maintainence_budget : 2838
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 462 :
+name : pepfxuyjmk
+attractiveness : 1
+intelligence : 2
+maintainence_budget : 1644
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 463 :
+name : gvsaghoccx
+attractiveness : 6
+intelligence : 8
+maintainence_budget : 4120
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 464 :
+name : scziiyciiq
+attractiveness : 1
+intelligence : 7
+maintainence_budget : 3056
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 465 :
+name : oyniyvsoyu
+attractiveness : 3
+intelligence : 10
+maintainence_budget : 7015
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 466 :
+name : tcztmjrqrz
+attractiveness : 8
+intelligence : 8
+maintainence_budget : 331
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 467 :
+name : eiarrbplpn
+attractiveness : 10
+intelligence : 6
+maintainence_budget : 4311
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 468 :
+name : xzrwsfflvy
+attractiveness : 2
+intelligence : 1
+maintainence_budget : 8338
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 469 :
+name : lfhoyapnlg
+attractiveness : 3
+intelligence : 10
+maintainence_budget : 9491
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 470 :
+name : byvuwpzbbu
+attractiveness : 2
+intelligence : 9
+maintainence_budget : 1782
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 471 :
+name : yxuflsgagt
+attractiveness : 2
+intelligence : 5
+maintainence_budget : 433
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 472 :
+name : jyjeufutix
+attractiveness : 6
+intelligence : 2
+maintainence_budget : 5264
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 473 :
+name : aotuwemehu
+attractiveness : 2
+intelligence : 1
+maintainence_budget : 9696
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 474 :
+name : otpyzjdtco
+attractiveness : 7
+intelligence : 2
+maintainence_budget : 1104
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 475 :
+name : vfaozwuocd
+attractiveness : 9
+intelligence : 5
+maintainence_budget : 8638
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 476 :
+name : kefzeeijam
+attractiveness : 8
+intelligence : 9
+maintainence_budget : 8359
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 477 :
+name : usduiftcvv
+attractiveness : 7
+intelligence : 10
+maintainence_budget : 3992
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 478 :
+name : jozqndvymx
+attractiveness : 3
+intelligence : 7
+maintainence_budget : 7746
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 479 :
+name : nobtljyent
+attractiveness : 2
+intelligence : 6
+maintainence_budget : 859
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 480 :
+name : vmlwdazaao
+attractiveness : 6
+intelligence : 6
+maintainence_budget : 3349
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 481 :
+name : lcymxjxxnm
+attractiveness : 1
+intelligence : 7
+maintainence_budget : 4419
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 482 :
+name : foeskhumhv
+attractiveness : 5
+intelligence : 1
+maintainence_budget : 7083
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 483 :
+name : rpypdvycsn
+attractiveness : 5
+intelligence : 7
+maintainence_budget : 3249
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 484 :
+name : vdtbvfkqtt
+attractiveness : 6
+intelligence : 2
+maintainence_budget : 5056
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 485 :
+name : umqsctocvi
+attractiveness : 5
+intelligence : 5
+maintainence_budget : 4704
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 486 :
+name : arovvjafbw
+attractiveness : 8
+intelligence : 7
+maintainence_budget : 8730
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 487 :
+name : vualpehfge
+attractiveness : 6
+intelligence : 7
+maintainence_budget : 6137
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 488 :
+name : bkmpfjaiqe
+attractiveness : 7
+intelligence : 6
+maintainence_budget : 3835
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 489 :
+name : gsoggdknis
+attractiveness : 8
+intelligence : 3
+maintainence_budget : 3648
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 490 :
+name : lltzayiaiz
+attractiveness : 7
+intelligence : 3
+maintainence_budget : 7331
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 491 :
+name : mhgbpogbbr
+attractiveness : 4
+intelligence : 4
+maintainence_budget : 5986
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 492 :
+name : xwqsxsrgsb
+attractiveness : 10
+intelligence : 10
+maintainence_budget : 2331
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 493 :
+name : cmjkpyzvzc
+attractiveness : 3
+intelligence : 7
+maintainence_budget : 44
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 494 :
+name : cbdutammif
+attractiveness : 7
+intelligence : 4
+maintainence_budget : 8597
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 495 :
+name : ikfruurvrq
+attractiveness : 3
+intelligence : 7
+maintainence_budget : 5655
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 496 :
+name : tamwuizhwh
+attractiveness : 7
+intelligence : 3
+maintainence_budget : 8864
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 497 :
+name : seexxbtowk
+attractiveness : 7
+intelligence : 1
+maintainence_budget : 3469
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 498 :
+name : cmwqksalbx
+attractiveness : 2
+intelligence : 4
+maintainence_budget : 3950
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 499 :
+name : gmtklqlegk
+attractiveness : 7
+intelligence : 5
+maintainence_budget : 6825
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 500 :
+name : cnvafhtgtu
+attractiveness : 10
+intelligence : 1
+maintainence_budget : 1035
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 501 :
+name : zywvlhlyns
+attractiveness : 1
+intelligence : 2
+maintainence_budget : 8905
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 502 :
+name : pxbkyhstpl
+attractiveness : 8
+intelligence : 7
+maintainence_budget : 8940
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 503 :
+name : jdnhyaolab
+attractiveness : 10
+intelligence : 2
+maintainence_budget : 8409
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 504 :
+name : vddwqdfiww
+attractiveness : 8
+intelligence : 9
+maintainence_budget : 8657
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 505 :
+name : hhswosweey
+attractiveness : 4
+intelligence : 10
+maintainence_budget : 3334
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 506 :
+name : pkdvjtyqdv
+attractiveness : 4
+intelligence : 3
+maintainence_budget : 7446
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 507 :
+name : ymftivlgbr
+attractiveness : 2
+intelligence : 1
+maintainence_budget : 6586
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 508 :
+name : cgkfdtybjb
+attractiveness : 3
+intelligence : 3
+maintainence_budget : 514
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 509 :
+name : ziqgbzdofe
+attractiveness : 9
+intelligence : 1
+maintainence_budget : 2457
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 510 :
+name : mpjwvorvrc
+attractiveness : 6
+intelligence : 9
+maintainence_budget : 2718
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 511 :
+name : fejxmmwqbe
+attractiveness : 3
+intelligence : 2
+maintainence_budget : 2245
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 512 :
+name : tvnetiumgm
+attractiveness : 5
+intelligence : 4
+maintainence_budget : 705
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 513 :
+name : fwnruadsqg
+attractiveness : 3
+intelligence : 7
+maintainence_budget : 646
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 514 :
+name : pmsdtnnnzt
+attractiveness : 6
+intelligence : 3
+maintainence_budget : 5787
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 515 :
+name : mjezaybfst
+attractiveness : 3
+intelligence : 6
+maintainence_budget : 673
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 516 :
+name : fvyyyrnlfn
+attractiveness : 8
+intelligence : 9
+maintainence_budget : 3336
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 517 :
+name : ivvoxxoach
+attractiveness : 9
+intelligence : 3
+maintainence_budget : 3107
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 518 :
+name : mjrkjrexej
+attractiveness : 3
+intelligence : 10
+maintainence_budget : 2746
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 519 :
+name : bxuwottcuy
+attractiveness : 4
+intelligence : 3
+maintainence_budget : 1757
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 520 :
+name : kzhdmruqoz
+attractiveness : 2
+intelligence : 9
+maintainence_budget : 7287
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 521 :
+name : juoescxoft
+attractiveness : 1
+intelligence : 5
+maintainence_budget : 1446
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 522 :
+name : jlfroriljy
+attractiveness : 9
+intelligence : 1
+maintainence_budget : 6385
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 523 :
+name : rgdhmvmljr
+attractiveness : 8
+intelligence : 6
+maintainence_budget : 3786
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 524 :
+name : nclvvbmfmy
+attractiveness : 6
+intelligence : 3
+maintainence_budget : 5185
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 525 :
+name : tybwfpsrad
+attractiveness : 9
+intelligence : 8
+maintainence_budget : 8832
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 526 :
+name : zlgkgbltgy
+attractiveness : 4
+intelligence : 10
+maintainence_budget : 2837
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 527 :
+name : rzqsvxjppm
+attractiveness : 6
+intelligence : 2
+maintainence_budget : 6506
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 528 :
+name : xvjffpgsko
+attractiveness : 3
+intelligence : 2
+maintainence_budget : 268
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 529 :
+name : tgilbflkva
+attractiveness : 9
+intelligence : 1
+maintainence_budget : 6854
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 530 :
+name : brfmxkbfem
+attractiveness : 9
+intelligence : 4
+maintainence_budget : 1212
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 531 :
+name : arsketqpel
+attractiveness : 2
+intelligence : 9
+maintainence_budget : 3944
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 532 :
+name : lyoqklcnqg
+attractiveness : 10
+intelligence : 7
+maintainence_budget : 9658
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 533 :
+name : rvbkghfyzl
+attractiveness : 10
+intelligence : 9
+maintainence_budget : 5755
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 534 :
+name : kznyrzlvnc
+attractiveness : 10
+intelligence : 3
+maintainence_budget : 7403
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 535 :
+name : yyfbkljqlk
+attractiveness : 4
+intelligence : 7
+maintainence_budget : 9891
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 536 :
+name : selfechqxw
+attractiveness : 9
+intelligence : 3
+maintainence_budget : 6063
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 537 :
+name : ujizmumxmz
+attractiveness : 4
+intelligence : 9
+maintainence_budget : 7158
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 538 :
+name : henuluyskx
+attractiveness : 9
+intelligence : 7
+maintainence_budget : 9620
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 539 :
+name : hxbryolkny
+attractiveness : 6
+intelligence : 4
+maintainence_budget : 1821
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 540 :
+name : zrlplwjjrv
+attractiveness : 9
+intelligence : 4
+maintainence_budget : 5564
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 541 :
+name : tofxhdntpa
+attractiveness : 4
+intelligence : 7
+maintainence_budget : 8250
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 542 :
+name : ekzrzmqkxh
+attractiveness : 6
+intelligence : 2
+maintainence_budget : 2129
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 543 :
+name : xebcbjioex
+attractiveness : 5
+intelligence : 2
+maintainence_budget : 9065
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 544 :
+name : iuuiowwegu
+attractiveness : 2
+intelligence : 5
+maintainence_budget : 6938
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 545 :
+name : mycqddzltd
+attractiveness : 1
+intelligence : 3
+maintainence_budget : 5501
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 546 :
+name : mrwibmexsl
+attractiveness : 10
+intelligence : 2
+maintainence_budget : 456
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 547 :
+name : xhhaxmfyxz
+attractiveness : 4
+intelligence : 5
+maintainence_budget : 7610
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 548 :
+name : ntjlcmagms
+attractiveness : 8
+intelligence : 6
+maintainence_budget : 7119
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 549 :
+name : hskqsjdxic
+attractiveness : 1
+intelligence : 8
+maintainence_budget : 3519
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 550 :
+name : damomobovn
+attractiveness : 7
+intelligence : 1
+maintainence_budget : 4633
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 551 :
+name : xpbjgvsluc
+attractiveness : 10
+intelligence : 10
+maintainence_budget : 6439
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 552 :
+name : jfhvtvkwjh
+attractiveness : 8
+intelligence : 4
+maintainence_budget : 2068
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 553 :
+name : ifnlovgigd
+attractiveness : 6
+intelligence : 1
+maintainence_budget : 9959
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 554 :
+name : godnjykvxv
+attractiveness : 9
+intelligence : 7
+maintainence_budget : 2420
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 555 :
+name : lmzaynwgyc
+attractiveness : 2
+intelligence : 4
+maintainence_budget : 9275
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 556 :
+name : yoebdpaqnz
+attractiveness : 10
+intelligence : 2
+maintainence_budget : 4128
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 557 :
+name : cjkbkiriop
+attractiveness : 7
+intelligence : 9
+maintainence_budget : 89
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 558 :
+name : ulzandrpvg
+attractiveness : 1
+intelligence : 1
+maintainence_budget : 501
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 559 :
+name : zbqjdctukk
+attractiveness : 10
+intelligence : 2
+maintainence_budget : 8425
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 560 :
+name : vlxvlkaebv
+attractiveness : 2
+intelligence : 2
+maintainence_budget : 5084
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 561 :
+name : imsbwvfrrq
+attractiveness : 4
+intelligence : 5
+maintainence_budget : 4632
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 562 :
+name : blgygtliao
+attractiveness : 4
+intelligence : 8
+maintainence_budget : 8475
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 563 :
+name : xrkpsinxcg
+attractiveness : 6
+intelligence : 8
+maintainence_budget : 2736
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 564 :
+name : ijirkqmvym
+attractiveness : 6
+intelligence : 2
+maintainence_budget : 5856
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 565 :
+name : xockguuvuw
+attractiveness : 8
+intelligence : 2
+maintainence_budget : 1381
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 566 :
+name : bbdjunbikb
+attractiveness : 4
+intelligence : 3
+maintainence_budget : 1605
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 567 :
+name : rwcugkqahm
+attractiveness : 2
+intelligence : 3
+maintainence_budget : 1161
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 568 :
+name : scevnyjoit
+attractiveness : 10
+intelligence : 10
+maintainence_budget : 6634
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 569 :
+name : dmyhietzga
+attractiveness : 10
+intelligence : 2
+maintainence_budget : 8849
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 570 :
+name : ndktzztkpc
+attractiveness : 2
+intelligence : 1
+maintainence_budget : 2592
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 571 :
+name : laqjjypezw
+attractiveness : 1
+intelligence : 2
+maintainence_budget : 9874
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 572 :
+name : mgcyzbytnn
+attractiveness : 8
+intelligence : 7
+maintainence_budget : 7473
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 573 :
+name : xqrpzcqrgp
+attractiveness : 2
+intelligence : 1
+maintainence_budget : 7397
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 574 :
+name : belddmgdfv
+attractiveness : 3
+intelligence : 5
+maintainence_budget : 4060
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 575 :
+name : fozydydvrl
+attractiveness : 10
+intelligence : 9
+maintainence_budget : 1617
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 576 :
+name : fsfsxkefpk
+attractiveness : 9
+intelligence : 1
+maintainence_budget : 8095
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 577 :
+name : vzkuzqvcno
+attractiveness : 1
+intelligence : 1
+maintainence_budget : 668
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 578 :
+name : wxmdpmovtf
+attractiveness : 2
+intelligence : 7
+maintainence_budget : 5040
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 579 :
+name : mrnwomolrc
+attractiveness : 10
+intelligence : 6
+maintainence_budget : 53
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 580 :
+name : wuwjynxoiq
+attractiveness : 8
+intelligence : 9
+maintainence_budget : 7897
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 581 :
+name : atfprteigx
+attractiveness : 5
+intelligence : 9
+maintainence_budget : 3253
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 582 :
+name : dnzbwxotnw
+attractiveness : 8
+intelligence : 5
+maintainence_budget : 3121
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 583 :
+name : yakesezwmg
+attractiveness : 8
+intelligence : 1
+maintainence_budget : 5499
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 584 :
+name : uebthzsvuf
+attractiveness : 10
+intelligence : 9
+maintainence_budget : 7523
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 585 :
+name : fgesmwwouk
+attractiveness : 5
+intelligence : 4
+maintainence_budget : 1551
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 586 :
+name : agucabbsyy
+attractiveness : 9
+intelligence : 9
+maintainence_budget : 5385
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 587 :
+name : ivkonxnlnj
+attractiveness : 4
+intelligence : 6
+maintainence_budget : 2948
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 588 :
+name : pidmmdppyq
+attractiveness : 8
+intelligence : 7
+maintainence_budget : 8055
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 589 :
+name : mblwszvfmi
+attractiveness : 7
+intelligence : 9
+maintainence_budget : 2644
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 590 :
+name : qhdutpzkhz
+attractiveness : 1
+intelligence : 7
+maintainence_budget : 482
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 591 :
+name : nyrbvjaqqo
+attractiveness : 6
+intelligence : 4
+maintainence_budget : 9607
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 592 :
+name : undxjypijw
+attractiveness : 9
+intelligence : 2
+maintainence_budget : 3359
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 593 :
+name : ixwayrlakc
+attractiveness : 1
+intelligence : 6
+maintainence_budget : 1624
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 594 :
+name : flwlkflzqw
+attractiveness : 10
+intelligence : 9
+maintainence_budget : 281
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 595 :
+name : gaieciwoki
+attractiveness : 3
+intelligence : 6
+maintainence_budget : 7900
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 596 :
+name : cgdztpgfpy
+attractiveness : 10
+intelligence : 3
+maintainence_budget : 5431
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 597 :
+name : mrjuylfwbp
+attractiveness : 1
+intelligence : 8
+maintainence_budget : 43
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 598 :
+name : kbbpcwflbw
+attractiveness : 2
+intelligence : 2
+maintainence_budget : 6145
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 599 :
+name : tyieuirzet
+attractiveness : 2
+intelligence : 5
+maintainence_budget : 6191
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 600 :
+name : fwkilneqag
+attractiveness : 5
+intelligence : 6
+maintainence_budget : 2560
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 601 :
+name : bwxlastrtx
+attractiveness : 3
+intelligence : 5
+maintainence_budget : 7266
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 602 :
+name : oeszmfmqyo
+attractiveness : 1
+intelligence : 7
+maintainence_budget : 9892
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 603 :
+name : znlwalqufm
+attractiveness : 8
+intelligence : 4
+maintainence_budget : 6591
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 604 :
+name : wpuqogwczu
+attractiveness : 3
+intelligence : 8
+maintainence_budget : 5541
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 605 :
+name : yryjpyxiuc
+attractiveness : 5
+intelligence : 7
+maintainence_budget : 1768
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 606 :
+name : mrggjvnfzo
+attractiveness : 6
+intelligence : 7
+maintainence_budget : 4072
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 607 :
+name : wkbwtsvsar
+attractiveness : 9
+intelligence : 1
+maintainence_budget : 942
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 608 :
+name : yekfktczbb
+attractiveness : 8
+intelligence : 7
+maintainence_budget : 4284
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 609 :
+name : dzygwuztmz
+attractiveness : 5
+intelligence : 6
+maintainence_budget : 7163
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 610 :
+name : psfzzrsbrv
+attractiveness : 10
+intelligence : 7
+maintainence_budget : 1155
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 611 :
+name : ocjnkfhjyv
+attractiveness : 2
+intelligence : 9
+maintainence_budget : 5587
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 612 :
+name : fwbmxaerex
+attractiveness : 10
+intelligence : 8
+maintainence_budget : 1556
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 613 :
+name : pbnyqyfxjf
+attractiveness : 4
+intelligence : 9
+maintainence_budget : 2588
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 614 :
+name : yfzztybzqf
+attractiveness : 5
+intelligence : 10
+maintainence_budget : 2639
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 615 :
+name : cvtrvkrajb
+attractiveness : 10
+intelligence : 7
+maintainence_budget : 1522
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 616 :
+name : zwlaxezzep
+attractiveness : 1
+intelligence : 9
+maintainence_budget : 4351
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 617 :
+name : mdffwapqcz
+attractiveness : 6
+intelligence : 2
+maintainence_budget : 9410
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 618 :
+name : hpgssezrdf
+attractiveness : 1
+intelligence : 4
+maintainence_budget : 222
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 619 :
+name : uqpzxmcnee
+attractiveness : 9
+intelligence : 6
+maintainence_budget : 6003
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 620 :
+name : ybdevviuon
+attractiveness : 4
+intelligence : 9
+maintainence_budget : 3448
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 621 :
+name : lfudgrrkgv
+attractiveness : 2
+intelligence : 3
+maintainence_budget : 7093
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 622 :
+name : ffpilkfwft
+attractiveness : 2
+intelligence : 9
+maintainence_budget : 3246
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 623 :
+name : vyypbhjsrp
+attractiveness : 4
+intelligence : 1
+maintainence_budget : 5107
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 624 :
+name : ymwpxizceg
+attractiveness : 3
+intelligence : 8
+maintainence_budget : 3618
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 625 :
+name : gpahgdopxf
+attractiveness : 10
+intelligence : 9
+maintainence_budget : 3323
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 626 :
+name : htheigojju
+attractiveness : 3
+intelligence : 10
+maintainence_budget : 3410
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 627 :
+name : nnpnuwqknp
+attractiveness : 9
+intelligence : 3
+maintainence_budget : 8628
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 628 :
+name : wpggvqmjax
+attractiveness : 8
+intelligence : 5
+maintainence_budget : 6933
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 629 :
+name : jemaujwmtm
+attractiveness : 3
+intelligence : 10
+maintainence_budget : 7517
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 630 :
+name : waleiivuux
+attractiveness : 9
+intelligence : 2
+maintainence_budget : 7840
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 631 :
+name : ojvamrjkdf
+attractiveness : 5
+intelligence : 6
+maintainence_budget : 4173
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 632 :
+name : oblbhtjcpd
+attractiveness : 10
+intelligence : 4
+maintainence_budget : 2750
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 633 :
+name : vevshhjssn
+attractiveness : 10
+intelligence : 9
+maintainence_budget : 7275
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 634 :
+name : dgwqhelqib
+attractiveness : 3
+intelligence : 9
+maintainence_budget : 5939
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 635 :
+name : wujsnsbykt
+attractiveness : 6
+intelligence : 7
+maintainence_budget : 5961
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 636 :
+name : flkectkpju
+attractiveness : 7
+intelligence : 8
+maintainence_budget : 3729
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 637 :
+name : jbduvqmxqy
+attractiveness : 5
+intelligence : 3
+maintainence_budget : 3505
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 638 :
+name : omvaqxtanf
+attractiveness : 3
+intelligence : 10
+maintainence_budget : 697
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 639 :
+name : tmmwijouie
+attractiveness : 5
+intelligence : 4
+maintainence_budget : 1639
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 640 :
+name : svtowjlrja
+attractiveness : 9
+intelligence : 1
+maintainence_budget : 9561
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 641 :
+name : uexiafsqba
+attractiveness : 9
+intelligence : 4
+maintainence_budget : 2144
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 642 :
+name : lvaejyoxrz
+attractiveness : 6
+intelligence : 5
+maintainence_budget : 4292
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 643 :
+name : qefpmhugxx
+attractiveness : 6
+intelligence : 10
+maintainence_budget : 1468
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 644 :
+name : zxuzcfzser
+attractiveness : 10
+intelligence : 5
+maintainence_budget : 242
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 645 :
+name : ittnjiudor
+attractiveness : 10
+intelligence : 10
+maintainence_budget : 3509
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 646 :
+name : jvjfxnmwfr
+attractiveness : 4
+intelligence : 2
+maintainence_budget : 7590
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 647 :
+name : metiresnii
+attractiveness : 1
+intelligence : 8
+maintainence_budget : 315
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 648 :
+name : segdjfrvcy
+attractiveness : 9
+intelligence : 8
+maintainence_budget : 9554
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 649 :
+name : zawviqzcdj
+attractiveness : 9
+intelligence : 9
+maintainence_budget : 1145
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 650 :
+name : fkjoquthpx
+attractiveness : 10
+intelligence : 3
+maintainence_budget : 5656
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 651 :
+name : jetfbdvdfb
+attractiveness : 9
+intelligence : 9
+maintainence_budget : 3658
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 652 :
+name : sqvbglvaum
+attractiveness : 6
+intelligence : 4
+maintainence_budget : 2237
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 653 :
+name : mznffojcrq
+attractiveness : 10
+intelligence : 1
+maintainence_budget : 8245
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 654 :
+name : rijmlqzgst
+attractiveness : 4
+intelligence : 2
+maintainence_budget : 9585
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 655 :
+name : dbhqjmgupa
+attractiveness : 5
+intelligence : 5
+maintainence_budget : 1711
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 656 :
+name : zktkwhcxpu
+attractiveness : 7
+intelligence : 3
+maintainence_budget : 4977
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 657 :
+name : upfbhoqokf
+attractiveness : 3
+intelligence : 4
+maintainence_budget : 4550
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 658 :
+name : mxyijwpmte
+attractiveness : 9
+intelligence : 4
+maintainence_budget : 9744
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 659 :
+name : tmpyowpemz
+attractiveness : 6
+intelligence : 3
+maintainence_budget : 3699
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 660 :
+name : kzxkjhgyvb
+attractiveness : 7
+intelligence : 2
+maintainence_budget : 5343
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 661 :
+name : ooifpybeeq
+attractiveness : 2
+intelligence : 10
+maintainence_budget : 6563
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 662 :
+name : tkfsvobdmw
+attractiveness : 10
+intelligence : 3
+maintainence_budget : 3039
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 663 :
+name : ujceotdsxh
+attractiveness : 3
+intelligence : 6
+maintainence_budget : 8250
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 664 :
+name : fxnmqkatoo
+attractiveness : 5
+intelligence : 6
+maintainence_budget : 4401
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 665 :
+name : wkebosutms
+attractiveness : 10
+intelligence : 3
+maintainence_budget : 4846
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 666 :
+name : ylynxqyzko
+attractiveness : 8
+intelligence : 1
+maintainence_budget : 4978
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 667 :
+name : fscjtqenmq
+attractiveness : 10
+intelligence : 10
+maintainence_budget : 882
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 668 :
+name : qceqsbhqcr
+attractiveness : 5
+intelligence : 4
+maintainence_budget : 6194
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 669 :
+name : jygnibdorr
+attractiveness : 9
+intelligence : 1
+maintainence_budget : 2075
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 670 :
+name : blhfcbiltm
+attractiveness : 7
+intelligence : 2
+maintainence_budget : 5308
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 671 :
+name : qgtytdayrr
+attractiveness : 5
+intelligence : 4
+maintainence_budget : 3498
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 672 :
+name : wagghkhsvd
+attractiveness : 7
+intelligence : 2
+maintainence_budget : 8657
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 673 :
+name : zacuyvxawq
+attractiveness : 2
+intelligence : 9
+maintainence_budget : 6942
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 674 :
+name : kjmrpwbzqz
+attractiveness : 7
+intelligence : 9
+maintainence_budget : 5223
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 675 :
+name : vhexbfvafr
+attractiveness : 7
+intelligence : 4
+maintainence_budget : 9286
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 676 :
+name : rstgjlenku
+attractiveness : 7
+intelligence : 5
+maintainence_budget : 65
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 677 :
+name : vhebhhgcio
+attractiveness : 10
+intelligence : 5
+maintainence_budget : 7850
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 678 :
+name : ztbszmffbr
+attractiveness : 2
+intelligence : 2
+maintainence_budget : 996
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 679 :
+name : enlkqsrzwz
+attractiveness : 4
+intelligence : 10
+maintainence_budget : 2643
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 680 :
+name : kbnnvoadud
+attractiveness : 7
+intelligence : 4
+maintainence_budget : 4502
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 681 :
+name : xgckqtfhsb
+attractiveness : 2
+intelligence : 4
+maintainence_budget : 5062
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 682 :
+name : ovobllqlom
+attractiveness : 7
+intelligence : 4
+maintainence_budget : 6252
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 683 :
+name : vgrxthsyqm
+attractiveness : 2
+intelligence : 8
+maintainence_budget : 8120
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 684 :
+name : gliumtgegu
+attractiveness : 1
+intelligence : 9
+maintainence_budget : 8212
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 685 :
+name : ovofuhonff
+attractiveness : 6
+intelligence : 8
+maintainence_budget : 4293
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 686 :
+name : rbozwdscha
+attractiveness : 9
+intelligence : 5
+maintainence_budget : 7545
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 687 :
+name : eqvvypeocm
+attractiveness : 4
+intelligence : 3
+maintainence_budget : 3820
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 688 :
+name : yrapswsmyb
+attractiveness : 3
+intelligence : 8
+maintainence_budget : 7864
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 689 :
+name : brrwmrmqgq
+attractiveness : 5
+intelligence : 6
+maintainence_budget : 8727
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 690 :
+name : twuuloqfar
+attractiveness : 3
+intelligence : 3
+maintainence_budget : 1021
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 691 :
+name : rlqiiecwuk
+attractiveness : 7
+intelligence : 2
+maintainence_budget : 8924
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 692 :
+name : peulyharmc
+attractiveness : 7
+intelligence : 2
+maintainence_budget : 896
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 693 :
+name : srqibaodyi
+attractiveness : 6
+intelligence : 8
+maintainence_budget : 1464
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 694 :
+name : gsccdbkfuy
+attractiveness : 1
+intelligence : 5
+maintainence_budget : 2902
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 695 :
+name : avxtfyttcu
+attractiveness : 6
+intelligence : 4
+maintainence_budget : 7940
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 696 :
+name : fvkhxokjvg
+attractiveness : 7
+intelligence : 10
+maintainence_budget : 6155
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 697 :
+name : qgfnzkmudq
+attractiveness : 1
+intelligence : 4
+maintainence_budget : 8590
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 698 :
+name : ycrimoyyaw
+attractiveness : 4
+intelligence : 7
+maintainence_budget : 9926
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 699 :
+name : okvvzwglrl
+attractiveness : 8
+intelligence : 10
+maintainence_budget : 3907
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 700 :
+name : ojhftvwuuw
+attractiveness : 9
+intelligence : 6
+maintainence_budget : 1079
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 701 :
+name : vlethepnri
+attractiveness : 5
+intelligence : 4
+maintainence_budget : 1883
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 702 :
+name : tjrcrkypgu
+attractiveness : 10
+intelligence : 1
+maintainence_budget : 7396
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 703 :
+name : rqfwjmcbbt
+attractiveness : 8
+intelligence : 1
+maintainence_budget : 3829
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 704 :
+name : wuinxzaxog
+attractiveness : 6
+intelligence : 4
+maintainence_budget : 7956
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 705 :
+name : bfnidyvhzy
+attractiveness : 2
+intelligence : 4
+maintainence_budget : 9109
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 706 :
+name : zsfifejhby
+attractiveness : 5
+intelligence : 9
+maintainence_budget : 5834
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 707 :
+name : yyrngvldcl
+attractiveness : 7
+intelligence : 6
+maintainence_budget : 2611
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 708 :
+name : ggtlqapzis
+attractiveness : 4
+intelligence : 3
+maintainence_budget : 1243
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 709 :
+name : ybvsodpzjt
+attractiveness : 5
+intelligence : 10
+maintainence_budget : 6774
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 710 :
+name : cpbvcrvutf
+attractiveness : 1
+intelligence : 1
+maintainence_budget : 5058
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 711 :
+name : cdwzvmfkmo
+attractiveness : 7
+intelligence : 1
+maintainence_budget : 9940
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 712 :
+name : whaacetxym
+attractiveness : 10
+intelligence : 10
+maintainence_budget : 1082
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 713 :
+name : cnvborntdb
+attractiveness : 4
+intelligence : 6
+maintainence_budget : 5833
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 714 :
+name : nlvplxtgxs
+attractiveness : 8
+intelligence : 3
+maintainence_budget : 5050
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 715 :
+name : zedwhspvnt
+attractiveness : 1
+intelligence : 6
+maintainence_budget : 9197
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 716 :
+name : rrumghmaol
+attractiveness : 1
+intelligence : 8
+maintainence_budget : 5254
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 717 :
+name : fcpjyxdouq
+attractiveness : 6
+intelligence : 3
+maintainence_budget : 3796
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 718 :
+name : xeqttxbhxp
+attractiveness : 3
+intelligence : 2
+maintainence_budget : 4021
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 719 :
+name : jqwyzuvckr
+attractiveness : 4
+intelligence : 6
+maintainence_budget : 5275
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 720 :
+name : lhnbbgycnx
+attractiveness : 8
+intelligence : 10
+maintainence_budget : 6219
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 721 :
+name : kcjgakbypn
+attractiveness : 2
+intelligence : 7
+maintainence_budget : 1236
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 722 :
+name : qqcdsfksjz
+attractiveness : 3
+intelligence : 9
+maintainence_budget : 8086
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 723 :
+name : btzmbzxezo
+attractiveness : 7
+intelligence : 6
+maintainence_budget : 435
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 724 :
+name : urnywhdizm
+attractiveness : 9
+intelligence : 2
+maintainence_budget : 6759
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 725 :
+name : nuxmjyoidp
+attractiveness : 7
+intelligence : 10
+maintainence_budget : 8341
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 726 :
+name : fsrsrpzuya
+attractiveness : 4
+intelligence : 5
+maintainence_budget : 3243
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 727 :
+name : ypzxdivrqa
+attractiveness : 4
+intelligence : 7
+maintainence_budget : 6014
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 728 :
+name : xufqowgpsg
+attractiveness : 5
+intelligence : 8
+maintainence_budget : 1653
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 729 :
+name : vmuujzdgrt
+attractiveness : 6
+intelligence : 5
+maintainence_budget : 5535
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 730 :
+name : ugozycxguq
+attractiveness : 3
+intelligence : 7
+maintainence_budget : 338
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 731 :
+name : azkwwvwzbp
+attractiveness : 3
+intelligence : 3
+maintainence_budget : 1342
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 732 :
+name : gxbwyzzwgt
+attractiveness : 3
+intelligence : 5
+maintainence_budget : 1220
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 733 :
+name : fkcrgymczn
+attractiveness : 10
+intelligence : 5
+maintainence_budget : 7119
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 734 :
+name : trvunutosb
+attractiveness : 6
+intelligence : 5
+maintainence_budget : 7895
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 735 :
+name : bvbdoieamf
+attractiveness : 9
+intelligence : 3
+maintainence_budget : 9514
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 736 :
+name : wjhtdxnylh
+attractiveness : 9
+intelligence : 8
+maintainence_budget : 304
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 737 :
+name : fzjgexqkyf
+attractiveness : 7
+intelligence : 9
+maintainence_budget : 9426
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 738 :
+name : dnrnhwkwux
+attractiveness : 1
+intelligence : 5
+maintainence_budget : 1429
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 739 :
+name : gyvphcmxom
+attractiveness : 1
+intelligence : 5
+maintainence_budget : 8959
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 740 :
+name : mxndkwbwvw
+attractiveness : 8
+intelligence : 4
+maintainence_budget : 6877
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 741 :
+name : putklcozzd
+attractiveness : 5
+intelligence : 9
+maintainence_budget : 1190
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 742 :
+name : jfuzkgvmcq
+attractiveness : 3
+intelligence : 7
+maintainence_budget : 9992
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 743 :
+name : orghcrjssk
+attractiveness : 8
+intelligence : 3
+maintainence_budget : 7077
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 744 :
+name : sueotovrcz
+attractiveness : 2
+intelligence : 7
+maintainence_budget : 4532
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 745 :
+name : jrgrakkldd
+attractiveness : 2
+intelligence : 1
+maintainence_budget : 1710
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 746 :
+name : iiemwzdtsf
+attractiveness : 2
+intelligence : 1
+maintainence_budget : 109
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 747 :
+name : hcyptaaeld
+attractiveness : 6
+intelligence : 3
+maintainence_budget : 1616
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 748 :
+name : pzivnhwqap
+attractiveness : 7
+intelligence : 8
+maintainence_budget : 7770
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 749 :
+name : aboaqhcqnn
+attractiveness : 4
+intelligence : 3
+maintainence_budget : 6976
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 750 :
+name : yqoilbphuq
+attractiveness : 9
+intelligence : 1
+maintainence_budget : 140
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 751 :
+name : xtnnvfxxyk
+attractiveness : 9
+intelligence : 8
+maintainence_budget : 6926
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 752 :
+name : uimiqxlihf
+attractiveness : 1
+intelligence : 10
+maintainence_budget : 2410
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 753 :
+name : llsayoivng
+attractiveness : 7
+intelligence : 5
+maintainence_budget : 7288
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 754 :
+name : yluktmieur
+attractiveness : 5
+intelligence : 1
+maintainence_budget : 8429
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 755 :
+name : vzrobrejpr
+attractiveness : 4
+intelligence : 2
+maintainence_budget : 2962
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 756 :
+name : dtzzduonai
+attractiveness : 5
+intelligence : 7
+maintainence_budget : 5756
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 757 :
+name : lyzeocxsmm
+attractiveness : 1
+intelligence : 4
+maintainence_budget : 3886
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 758 :
+name : blvckbwyox
+attractiveness : 6
+intelligence : 6
+maintainence_budget : 4244
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 759 :
+name : lbamfppehd
+attractiveness : 8
+intelligence : 10
+maintainence_budget : 2429
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 760 :
+name : lgmgiyhhxy
+attractiveness : 3
+intelligence : 1
+maintainence_budget : 8134
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 761 :
+name : vfzvtgmikw
+attractiveness : 8
+intelligence : 2
+maintainence_budget : 8782
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 762 :
+name : sjqeradzhc
+attractiveness : 6
+intelligence : 6
+maintainence_budget : 6857
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 763 :
+name : irqjojpbuz
+attractiveness : 6
+intelligence : 4
+maintainence_budget : 72
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 764 :
+name : njqdpkduln
+attractiveness : 7
+intelligence : 9
+maintainence_budget : 3681
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 765 :
+name : nszddnpsoj
+attractiveness : 7
+intelligence : 4
+maintainence_budget : 1459
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 766 :
+name : aknspecuzn
+attractiveness : 10
+intelligence : 2
+maintainence_budget : 8600
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 767 :
+name : fbcehguwyk
+attractiveness : 8
+intelligence : 9
+maintainence_budget : 8929
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 768 :
+name : ezdtusxwpw
+attractiveness : 3
+intelligence : 9
+maintainence_budget : 3041
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 769 :
+name : gvqizxqvtr
+attractiveness : 7
+intelligence : 5
+maintainence_budget : 7288
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 770 :
+name : dmbgfvzcto
+attractiveness : 8
+intelligence : 4
+maintainence_budget : 441
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 771 :
+name : dfqtnrsgnl
+attractiveness : 4
+intelligence : 6
+maintainence_budget : 7200
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 772 :
+name : mlppsukryg
+attractiveness : 4
+intelligence : 10
+maintainence_budget : 9698
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 773 :
+name : iafyvvqnbf
+attractiveness : 5
+intelligence : 9
+maintainence_budget : 6905
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 774 :
+name : fasurmqcfo
+attractiveness : 1
+intelligence : 1
+maintainence_budget : 2687
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 775 :
+name : sgmaghvwxy
+attractiveness : 2
+intelligence : 6
+maintainence_budget : 4899
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 776 :
+name : gknaeemugr
+attractiveness : 10
+intelligence : 3
+maintainence_budget : 2568
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 777 :
+name : rxwfzcoubl
+attractiveness : 5
+intelligence : 3
+maintainence_budget : 3250
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 778 :
+name : ubuhbbloxu
+attractiveness : 6
+intelligence : 1
+maintainence_budget : 3485
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 779 :
+name : agnynmbbjc
+attractiveness : 6
+intelligence : 6
+maintainence_budget : 7241
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 780 :
+name : ssbpzcqmsn
+attractiveness : 3
+intelligence : 3
+maintainence_budget : 5571
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 781 :
+name : nxxawknxly
+attractiveness : 6
+intelligence : 3
+maintainence_budget : 9836
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 782 :
+name : beqctrhlgz
+attractiveness : 3
+intelligence : 5
+maintainence_budget : 7142
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 783 :
+name : smjpmfzben
+attractiveness : 10
+intelligence : 6
+maintainence_budget : 832
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 784 :
+name : mguelnwsye
+attractiveness : 8
+intelligence : 8
+maintainence_budget : 5087
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 785 :
+name : eplnfasgdy
+attractiveness : 4
+intelligence : 8
+maintainence_budget : 8538
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 786 :
+name : tvqqzbfxvg
+attractiveness : 8
+intelligence : 6
+maintainence_budget : 3284
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 787 :
+name : gadspkujrx
+attractiveness : 2
+intelligence : 9
+maintainence_budget : 2559
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 788 :
+name : khobxqednc
+attractiveness : 2
+intelligence : 6
+maintainence_budget : 6862
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 789 :
+name : jwroqgzkpq
+attractiveness : 5
+intelligence : 9
+maintainence_budget : 3215
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 790 :
+name : wxrkapaeuq
+attractiveness : 7
+intelligence : 4
+maintainence_budget : 356
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 791 :
+name : ymrpdkvcum
+attractiveness : 5
+intelligence : 1
+maintainence_budget : 7119
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 792 :
+name : uumlfmahsu
+attractiveness : 8
+intelligence : 10
+maintainence_budget : 2552
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 793 :
+name : uevotayocs
+attractiveness : 5
+intelligence : 5
+maintainence_budget : 2526
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 794 :
+name : ogrcswqufk
+attractiveness : 6
+intelligence : 6
+maintainence_budget : 2206
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 795 :
+name : wnqtbjtbax
+attractiveness : 10
+intelligence : 3
+maintainence_budget : 2582
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 796 :
+name : rixikpgcko
+attractiveness : 2
+intelligence : 2
+maintainence_budget : 1236
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 797 :
+name : cyiurlgkog
+attractiveness : 6
+intelligence : 9
+maintainence_budget : 1211
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 798 :
+name : bypzizqpcc
+attractiveness : 10
+intelligence : 10
+maintainence_budget : 5652
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 799 :
+name : baslvjxbwl
+attractiveness : 6
+intelligence : 2
+maintainence_budget : 4866
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 800 :
+name : czkrassqjw
+attractiveness : 2
+intelligence : 9
+maintainence_budget : 2144
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 801 :
+name : hdnbpkmolk
+attractiveness : 6
+intelligence : 7
+maintainence_budget : 5509
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 802 :
+name : cbumuugonq
+attractiveness : 10
+intelligence : 1
+maintainence_budget : 2813
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 803 :
+name : pjoekdoxrb
+attractiveness : 10
+intelligence : 3
+maintainence_budget : 9612
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 804 :
+name : sduprqjyfy
+attractiveness : 3
+intelligence : 1
+maintainence_budget : 9983
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 805 :
+name : rjcfnmidlb
+attractiveness : 1
+intelligence : 10
+maintainence_budget : 288
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 806 :
+name : nyyjnpayph
+attractiveness : 10
+intelligence : 6
+maintainence_budget : 5768
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 807 :
+name : rwjvdxilcv
+attractiveness : 3
+intelligence : 2
+maintainence_budget : 2243
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 808 :
+name : lxklgzciys
+attractiveness : 2
+intelligence : 8
+maintainence_budget : 304
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 809 :
+name : vibfdeensg
+attractiveness : 2
+intelligence : 3
+maintainence_budget : 6080
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 810 :
+name : cmnoxwoago
+attractiveness : 7
+intelligence : 9
+maintainence_budget : 4856
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 811 :
+name : ppyquevarn
+attractiveness : 7
+intelligence : 5
+maintainence_budget : 6826
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 812 :
+name : maqzoqxese
+attractiveness : 1
+intelligence : 3
+maintainence_budget : 8265
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 813 :
+name : sxurnqvkqo
+attractiveness : 8
+intelligence : 8
+maintainence_budget : 680
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 814 :
+name : xhzpiphguz
+attractiveness : 9
+intelligence : 3
+maintainence_budget : 2168
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 815 :
+name : titnziewvu
+attractiveness : 4
+intelligence : 1
+maintainence_budget : 8744
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 816 :
+name : ufytwhlgnf
+attractiveness : 8
+intelligence : 8
+maintainence_budget : 528
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 817 :
+name : roxmdzvhxq
+attractiveness : 3
+intelligence : 7
+maintainence_budget : 9415
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 818 :
+name : ewzcryjeey
+attractiveness : 10
+intelligence : 6
+maintainence_budget : 278
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 819 :
+name : mywmlaliji
+attractiveness : 3
+intelligence : 6
+maintainence_budget : 7422
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 820 :
+name : pqpptipcnt
+attractiveness : 2
+intelligence : 3
+maintainence_budget : 6597
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 821 :
+name : ppgldrnobz
+attractiveness : 3
+intelligence : 8
+maintainence_budget : 4539
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 822 :
+name : hlewcxhtbu
+attractiveness : 7
+intelligence : 5
+maintainence_budget : 3135
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 823 :
+name : ajygxbzmra
+attractiveness : 4
+intelligence : 2
+maintainence_budget : 954
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 824 :
+name : qjauietpxv
+attractiveness : 10
+intelligence : 2
+maintainence_budget : 2432
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 825 :
+name : kfrilqlmcc
+attractiveness : 7
+intelligence : 7
+maintainence_budget : 4617
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 826 :
+name : jidlclpwcm
+attractiveness : 8
+intelligence : 10
+maintainence_budget : 782
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 827 :
+name : ghaxropfau
+attractiveness : 10
+intelligence : 2
+maintainence_budget : 8277
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 828 :
+name : eqohbtvqpz
+attractiveness : 7
+intelligence : 5
+maintainence_budget : 5606
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 829 :
+name : ikpkjhyzmb
+attractiveness : 2
+intelligence : 10
+maintainence_budget : 8209
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 830 :
+name : yjtnsvinnz
+attractiveness : 4
+intelligence : 7
+maintainence_budget : 4006
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 831 :
+name : rmlhwvqxwe
+attractiveness : 9
+intelligence : 6
+maintainence_budget : 6962
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 832 :
+name : eohadbxlpk
+attractiveness : 5
+intelligence : 9
+maintainence_budget : 7781
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 833 :
+name : gnurusomrk
+attractiveness : 7
+intelligence : 6
+maintainence_budget : 7624
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 834 :
+name : bywkyzmxnd
+attractiveness : 10
+intelligence : 8
+maintainence_budget : 850
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 835 :
+name : rwilnefcsx
+attractiveness : 7
+intelligence : 7
+maintainence_budget : 7475
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 836 :
+name : wxbsibtwyi
+attractiveness : 8
+intelligence : 5
+maintainence_budget : 5695
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 837 :
+name : dbunojtvll
+attractiveness : 9
+intelligence : 9
+maintainence_budget : 3082
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 838 :
+name : yftaxdbqbc
+attractiveness : 2
+intelligence : 9
+maintainence_budget : 177
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 839 :
+name : koredhnydb
+attractiveness : 10
+intelligence : 8
+maintainence_budget : 6982
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 840 :
+name : delwgkckbf
+attractiveness : 7
+intelligence : 9
+maintainence_budget : 1373
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 841 :
+name : yibqmexbcc
+attractiveness : 1
+intelligence : 8
+maintainence_budget : 5687
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 842 :
+name : iozwnigrsj
+attractiveness : 9
+intelligence : 9
+maintainence_budget : 1828
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 843 :
+name : afmbxyhwbl
+attractiveness : 10
+intelligence : 1
+maintainence_budget : 7501
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 844 :
+name : tlkvhxdoox
+attractiveness : 8
+intelligence : 9
+maintainence_budget : 4138
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 845 :
+name : hnytpvtyrw
+attractiveness : 7
+intelligence : 7
+maintainence_budget : 5893
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 846 :
+name : agfkdmjicz
+attractiveness : 2
+intelligence : 3
+maintainence_budget : 6350
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 847 :
+name : epackrzdqr
+attractiveness : 10
+intelligence : 9
+maintainence_budget : 1358
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 848 :
+name : fgsmsxybfd
+attractiveness : 3
+intelligence : 5
+maintainence_budget : 4780
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 849 :
+name : sslswvkwyc
+attractiveness : 4
+intelligence : 7
+maintainence_budget : 7409
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 850 :
+name : qhkltciufq
+attractiveness : 6
+intelligence : 2
+maintainence_budget : 2165
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 851 :
+name : xsqimnewlc
+attractiveness : 7
+intelligence : 3
+maintainence_budget : 1071
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 852 :
+name : gxkskfwuzd
+attractiveness : 5
+intelligence : 3
+maintainence_budget : 2487
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 853 :
+name : jksbufoydb
+attractiveness : 2
+intelligence : 5
+maintainence_budget : 7660
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 854 :
+name : iqhukrzhoz
+attractiveness : 1
+intelligence : 1
+maintainence_budget : 9662
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 855 :
+name : wkxolutcsz
+attractiveness : 2
+intelligence : 8
+maintainence_budget : 2430
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 856 :
+name : ntxxphqooe
+attractiveness : 2
+intelligence : 10
+maintainence_budget : 4244
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 857 :
+name : sloszbmvdg
+attractiveness : 5
+intelligence : 2
+maintainence_budget : 5299
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 858 :
+name : nonkncresi
+attractiveness : 7
+intelligence : 9
+maintainence_budget : 1590
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 859 :
+name : pkkfclgqim
+attractiveness : 5
+intelligence : 3
+maintainence_budget : 4752
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 860 :
+name : prwebjivna
+attractiveness : 10
+intelligence : 5
+maintainence_budget : 1011
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 861 :
+name : lhzvmdjutt
+attractiveness : 9
+intelligence : 1
+maintainence_budget : 1211
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 862 :
+name : fsobyplgka
+attractiveness : 10
+intelligence : 6
+maintainence_budget : 1461
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 863 :
+name : qhoreavpxo
+attractiveness : 6
+intelligence : 2
+maintainence_budget : 6075
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 864 :
+name : fqbtscifiv
+attractiveness : 10
+intelligence : 8
+maintainence_budget : 6327
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 865 :
+name : sawgrcjosg
+attractiveness : 6
+intelligence : 6
+maintainence_budget : 3122
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 866 :
+name : useylwawdi
+attractiveness : 6
+intelligence : 10
+maintainence_budget : 7701
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 867 :
+name : tvtremtpbl
+attractiveness : 8
+intelligence : 5
+maintainence_budget : 5065
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 868 :
+name : cfmhdxfdtj
+attractiveness : 6
+intelligence : 1
+maintainence_budget : 5105
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 869 :
+name : rmnmdtyxib
+attractiveness : 1
+intelligence : 2
+maintainence_budget : 4698
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 870 :
+name : ddxpmaosdk
+attractiveness : 4
+intelligence : 9
+maintainence_budget : 573
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 871 :
+name : osweecxcbi
+attractiveness : 5
+intelligence : 10
+maintainence_budget : 5418
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 872 :
+name : jqsghgiwan
+attractiveness : 5
+intelligence : 4
+maintainence_budget : 5151
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 873 :
+name : svyqbcsaht
+attractiveness : 9
+intelligence : 6
+maintainence_budget : 8556
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 874 :
+name : vltpsawayw
+attractiveness : 7
+intelligence : 7
+maintainence_budget : 4917
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 875 :
+name : iokhenjznq
+attractiveness : 5
+intelligence : 5
+maintainence_budget : 6912
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 876 :
+name : izlboddkgc
+attractiveness : 8
+intelligence : 1
+maintainence_budget : 7093
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 877 :
+name : zvilcmymnm
+attractiveness : 7
+intelligence : 3
+maintainence_budget : 6543
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 878 :
+name : kskvvzbylh
+attractiveness : 9
+intelligence : 9
+maintainence_budget : 6486
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 879 :
+name : xoffchtctj
+attractiveness : 5
+intelligence : 3
+maintainence_budget : 3898
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 880 :
+name : cmepizolzb
+attractiveness : 7
+intelligence : 7
+maintainence_budget : 3035
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 881 :
+name : jwjodlwyor
+attractiveness : 6
+intelligence : 9
+maintainence_budget : 7470
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 882 :
+name : ddrjubkkmk
+attractiveness : 10
+intelligence : 1
+maintainence_budget : 1897
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 883 :
+name : jvfsjiehhu
+attractiveness : 8
+intelligence : 9
+maintainence_budget : 4083
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 884 :
+name : fauzjqawap
+attractiveness : 1
+intelligence : 2
+maintainence_budget : 3372
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 885 :
+name : hhumzfvfpe
+attractiveness : 8
+intelligence : 7
+maintainence_budget : 1055
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 886 :
+name : lhmhgwxjux
+attractiveness : 3
+intelligence : 9
+maintainence_budget : 8012
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 887 :
+name : kghgtilqoc
+attractiveness : 7
+intelligence : 10
+maintainence_budget : 4403
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 888 :
+name : fezrlhplql
+attractiveness : 5
+intelligence : 5
+maintainence_budget : 804
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 889 :
+name : nhywntfbjv
+attractiveness : 8
+intelligence : 10
+maintainence_budget : 1783
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 890 :
+name : cdedwpkocb
+attractiveness : 4
+intelligence : 4
+maintainence_budget : 9626
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 891 :
+name : ncsobfhigt
+attractiveness : 2
+intelligence : 1
+maintainence_budget : 4891
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 892 :
+name : arneujwfxy
+attractiveness : 9
+intelligence : 10
+maintainence_budget : 2364
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 893 :
+name : wtqqhtvqbe
+attractiveness : 6
+intelligence : 3
+maintainence_budget : 9021
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 894 :
+name : yollviwrpw
+attractiveness : 6
+intelligence : 8
+maintainence_budget : 862
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 895 :
+name : jbxbrgvozw
+attractiveness : 9
+intelligence : 9
+maintainence_budget : 9228
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 896 :
+name : xgpktksqdh
+attractiveness : 5
+intelligence : 7
+maintainence_budget : 5325
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 897 :
+name : luakvtrsiq
+attractiveness : 4
+intelligence : 1
+maintainence_budget : 2257
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 898 :
+name : dtrudngydj
+attractiveness : 10
+intelligence : 2
+maintainence_budget : 8504
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 899 :
+name : dbwfltzeoj
+attractiveness : 3
+intelligence : 2
+maintainence_budget : 7170
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 900 :
+name : wewqabdibi
+attractiveness : 10
+intelligence : 10
+maintainence_budget : 7202
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 901 :
+name : dbczhnugsi
+attractiveness : 4
+intelligence : 5
+maintainence_budget : 874
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 902 :
+name : sbvqrvuwdv
+attractiveness : 9
+intelligence : 1
+maintainence_budget : 4415
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 903 :
+name : fkwhldvhlp
+attractiveness : 3
+intelligence : 7
+maintainence_budget : 8376
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 904 :
+name : xcgsuzqovt
+attractiveness : 9
+intelligence : 2
+maintainence_budget : 4493
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 905 :
+name : nwwjdjnaqa
+attractiveness : 10
+intelligence : 1
+maintainence_budget : 9064
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 906 :
+name : iwuoqongfk
+attractiveness : 9
+intelligence : 6
+maintainence_budget : 2426
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 907 :
+name : xhftslchlu
+attractiveness : 1
+intelligence : 2
+maintainence_budget : 4948
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 908 :
+name : vvcrjufydk
+attractiveness : 5
+intelligence : 10
+maintainence_budget : 4252
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 909 :
+name : lwkqrebtmp
+attractiveness : 8
+intelligence : 7
+maintainence_budget : 3129
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 910 :
+name : apcegnaonf
+attractiveness : 5
+intelligence : 8
+maintainence_budget : 8305
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 911 :
+name : prsbhjgleu
+attractiveness : 5
+intelligence : 6
+maintainence_budget : 5281
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 912 :
+name : xyfbeooged
+attractiveness : 1
+intelligence : 5
+maintainence_budget : 3973
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 913 :
+name : wobqrlzxwd
+attractiveness : 2
+intelligence : 3
+maintainence_budget : 3471
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 914 :
+name : ogwujaizio
+attractiveness : 1
+intelligence : 9
+maintainence_budget : 4515
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 915 :
+name : halkscvrat
+attractiveness : 5
+intelligence : 8
+maintainence_budget : 7800
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 916 :
+name : pljlfvnpuw
+attractiveness : 6
+intelligence : 6
+maintainence_budget : 7175
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 917 :
+name : nheyrwdpqd
+attractiveness : 5
+intelligence : 7
+maintainence_budget : 4559
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 918 :
+name : btvnhciwuc
+attractiveness : 1
+intelligence : 6
+maintainence_budget : 2656
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 919 :
+name : fcgldyjgpz
+attractiveness : 2
+intelligence : 6
+maintainence_budget : 2699
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 920 :
+name : zlzwyiziev
+attractiveness : 1
+intelligence : 4
+maintainence_budget : 8327
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 921 :
+name : uvsagxapdp
+attractiveness : 10
+intelligence : 7
+maintainence_budget : 4200
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 922 :
+name : ugntdnbevi
+attractiveness : 10
+intelligence : 4
+maintainence_budget : 180
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 923 :
+name : zpstsarssw
+attractiveness : 1
+intelligence : 8
+maintainence_budget : 2056
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 924 :
+name : rxyetdrwjo
+attractiveness : 5
+intelligence : 3
+maintainence_budget : 8704
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 925 :
+name : xqxrmpsfkm
+attractiveness : 6
+intelligence : 5
+maintainence_budget : 6444
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 926 :
+name : pjynnrtgoe
+attractiveness : 9
+intelligence : 1
+maintainence_budget : 1388
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 927 :
+name : xteukqmevw
+attractiveness : 7
+intelligence : 2
+maintainence_budget : 3269
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 928 :
+name : tcdrssjnbz
+attractiveness : 10
+intelligence : 2
+maintainence_budget : 8374
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 929 :
+name : jfoqcbgofe
+attractiveness : 3
+intelligence : 5
+maintainence_budget : 5390
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 930 :
+name : azodsiydvb
+attractiveness : 1
+intelligence : 7
+maintainence_budget : 8885
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 931 :
+name : ylcobepkux
+attractiveness : 9
+intelligence : 9
+maintainence_budget : 9642
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 932 :
+name : gxpwdieblz
+attractiveness : 7
+intelligence : 1
+maintainence_budget : 3873
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 933 :
+name : jeflvjskvo
+attractiveness : 10
+intelligence : 10
+maintainence_budget : 7544
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 934 :
+name : nnfdlknqla
+attractiveness : 8
+intelligence : 2
+maintainence_budget : 7221
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 935 :
+name : koesczbwmw
+attractiveness : 5
+intelligence : 2
+maintainence_budget : 5060
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 936 :
+name : rzryecjruw
+attractiveness : 2
+intelligence : 3
+maintainence_budget : 3891
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 937 :
+name : owisomurig
+attractiveness : 8
+intelligence : 5
+maintainence_budget : 8350
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 938 :
+name : hrhasldbcz
+attractiveness : 8
+intelligence : 6
+maintainence_budget : 8672
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 939 :
+name : ffcpasbukl
+attractiveness : 3
+intelligence : 6
+maintainence_budget : 322
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 940 :
+name : pppwphjukn
+attractiveness : 7
+intelligence : 1
+maintainence_budget : 9378
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 941 :
+name : qmhsbjncdx
+attractiveness : 8
+intelligence : 2
+maintainence_budget : 7463
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 942 :
+name : wodoltvwni
+attractiveness : 3
+intelligence : 10
+maintainence_budget : 2325
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 943 :
+name : xjfgehprlu
+attractiveness : 3
+intelligence : 8
+maintainence_budget : 640
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 944 :
+name : qlotzbowye
+attractiveness : 5
+intelligence : 1
+maintainence_budget : 888
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 945 :
+name : gyomeuvwni
+attractiveness : 1
+intelligence : 10
+maintainence_budget : 9200
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 946 :
+name : lidcbcfsaf
+attractiveness : 7
+intelligence : 6
+maintainence_budget : 6976
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 947 :
+name : uqfjemfzit
+attractiveness : 4
+intelligence : 9
+maintainence_budget : 8107
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 948 :
+name : qgatkexqwy
+attractiveness : 8
+intelligence : 3
+maintainence_budget : 5074
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 949 :
+name : ohvwsbiyas
+attractiveness : 6
+intelligence : 7
+maintainence_budget : 7177
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 950 :
+name : nilpdytdqr
+attractiveness : 2
+intelligence : 6
+maintainence_budget : 7898
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 951 :
+name : rykoueqees
+attractiveness : 5
+intelligence : 2
+maintainence_budget : 8633
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 952 :
+name : hezvtctphj
+attractiveness : 7
+intelligence : 7
+maintainence_budget : 7569
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 953 :
+name : zptlfprxuw
+attractiveness : 9
+intelligence : 1
+maintainence_budget : 8368
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 954 :
+name : keplzjquax
+attractiveness : 4
+intelligence : 7
+maintainence_budget : 2587
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 955 :
+name : eevzrdpjaj
+attractiveness : 8
+intelligence : 1
+maintainence_budget : 8976
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 956 :
+name : nltcyuloqn
+attractiveness : 9
+intelligence : 6
+maintainence_budget : 7685
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 957 :
+name : eafccyfrhh
+attractiveness : 9
+intelligence : 1
+maintainence_budget : 7825
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 958 :
+name : rqamtaigpy
+attractiveness : 7
+intelligence : 6
+maintainence_budget : 1796
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 959 :
+name : xabecddjwk
+attractiveness : 4
+intelligence : 5
+maintainence_budget : 4786
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 960 :
+name : omuqanqiwh
+attractiveness : 9
+intelligence : 1
+maintainence_budget : 2965
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 961 :
+name : jconhtskcp
+attractiveness : 1
+intelligence : 6
+maintainence_budget : 3984
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 962 :
+name : plgkbgzuox
+attractiveness : 2
+intelligence : 9
+maintainence_budget : 4998
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 963 :
+name : fxeumnnfzr
+attractiveness : 1
+intelligence : 2
+maintainence_budget : 4792
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 964 :
+name : hxeojiwicl
+attractiveness : 7
+intelligence : 6
+maintainence_budget : 1340
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 965 :
+name : ndrtzdgmif
+attractiveness : 2
+intelligence : 3
+maintainence_budget : 6809
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 966 :
+name : vejcuukqeo
+attractiveness : 4
+intelligence : 3
+maintainence_budget : 6010
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 967 :
+name : pcpgvoldaw
+attractiveness : 5
+intelligence : 6
+maintainence_budget : 3723
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 968 :
+name : migxmcrwsw
+attractiveness : 9
+intelligence : 1
+maintainence_budget : 4767
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 969 :
+name : uwnjeixslz
+attractiveness : 3
+intelligence : 10
+maintainence_budget : 922
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 970 :
+name : jdtrcftudn
+attractiveness : 9
+intelligence : 10
+maintainence_budget : 7334
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 971 :
+name : wxxjgctgug
+attractiveness : 6
+intelligence : 3
+maintainence_budget : 7428
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 972 :
+name : nxdgqiolcr
+attractiveness : 4
+intelligence : 1
+maintainence_budget : 9070
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The choosy
+
+girl 973 :
+name : khxhsglmmh
+attractiveness : 9
+intelligence : 8
+maintainence_budget : 8604
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 974 :
+name : ulfztwhhjl
+attractiveness : 4
+intelligence : 3
+maintainence_budget : 590
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The desperate
+
+girl 975 :
+name : iwehfwntib
+attractiveness : 7
+intelligence : 2
+maintainence_budget : 9052
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 976 :
+name : domiphgxps
+attractiveness : 7
+intelligence : 7
+maintainence_budget : 5709
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 977 :
+name : xccbjhazak
+attractiveness : 9
+intelligence : 2
+maintainence_budget : 5802
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 978 :
+name : qanelemtbd
+attractiveness : 2
+intelligence : 9
+maintainence_budget : 9700
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 979 :
+name : zlgbprkpql
+attractiveness : 10
+intelligence : 4
+maintainence_budget : 6131
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 980 :
+name : phrcmcgyvk
+attractiveness : 10
+intelligence : 6
+maintainence_budget : 1579
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 981 :
+name : cxikazbkqu
+attractiveness : 10
+intelligence : 9
+maintainence_budget : 4098
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 982 :
+name : deqwicyrcw
+attractiveness : 6
+intelligence : 2
+maintainence_budget : 9564
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 983 :
+name : abcklcmmpc
+attractiveness : 9
+intelligence : 3
+maintainence_budget : 1359
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 984 :
+name : dbiwxryyid
+attractiveness : 9
+intelligence : 8
+maintainence_budget : 6665
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 985 :
+name : mblonwtzkk
+attractiveness : 1
+intelligence : 2
+maintainence_budget : 5107
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 986 :
+name : ectpariyrq
+attractiveness : 6
+intelligence : 4
+maintainence_budget : 5580
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 987 :
+name : nynaoawjai
+attractiveness : 2
+intelligence : 3
+maintainence_budget : 8576
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 988 :
+name : wcgrrgibhb
+attractiveness : 8
+intelligence : 3
+maintainence_budget : 9317
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The normal
+
+girl 989 :
+name : yjwnjnohyq
+attractiveness : 5
+intelligence : 1
+maintainence_budget : 4915
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 990 :
+name : wvufnmlxns
+attractiveness : 4
+intelligence : 8
+maintainence_budget : 4220
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The choosy
+
+girl 991 :
+name : bmpabaprkn
+attractiveness : 2
+intelligence : 3
+maintainence_budget : 7194
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 992 :
+name : zaxufkishx
+attractiveness : 4
+intelligence : 7
+maintainence_budget : 3609
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 993 :
+name : kvkbvlbkdl
+attractiveness : 1
+intelligence : 9
+maintainence_budget : 3900
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 994 :
+name : rhsodzylrh
+attractiveness : 5
+intelligence : 1
+maintainence_budget : 8177
+criteria_for_choosing_boys : Most rich
+type_of_committed_girl : The desperate
+
+girl 995 :
+name : mbuwcrhfem
+attractiveness : 8
+intelligence : 9
+maintainence_budget : 8796
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 996 :
+name : pbuhrxgpkz
+attractiveness : 6
+intelligence : 6
+maintainence_budget : 6707
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The choosy
+
+girl 997 :
+name : edlyzpqiwu
+attractiveness : 2
+intelligence : 4
+maintainence_budget : 9469
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The normal
+
+girl 998 :
+name : lnfguxfcos
+attractiveness : 6
+intelligence : 6
+maintainence_budget : 8324
+criteria_for_choosing_boys : Most attractive
+type_of_committed_girl : The normal
+
+girl 999 :
+name : xohkoiberz
+attractiveness : 9
+intelligence : 9
+maintainence_budget : 5254
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
+girl 1000 :
+name : xmzeuvdbzu
+attractiveness : 2
+intelligence : 3
+maintainence_budget : 4696
+criteria_for_choosing_boys : Most intelligent
+type_of_committed_girl : The desperate
+
