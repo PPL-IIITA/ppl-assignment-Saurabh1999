@@ -4,7 +4,7 @@ Saurabh Singh, LIT2015013
 ## tested on
 Ubuntu 16.04 , 64-bit
 
-## Command prompt instructions
+# Command prompt instructions
 ### For testing question 1 open folder named "ppl_ques_1"
 ```
 g++ main1.cpp boy.cpp
