@@ -11,11 +11,28 @@ g++ main1.cpp boy.cpp
 ./a.out
 ```
 It will generate "boys_record.txt" , "girls_record.txt" , "gifts_record.txt" , "log.txt"
-### And For testing question 2 open folder named "ppl_ques_2"
+### For testing question 2 open folder named "ppl_ques_2"
 ```
 g++ main2.cpp boy.cpp
 ./a.out
 ```
 It will generate "k_most_compatible_couple.txt" , "k_most_happiest_couple.txt" , "gift_exchange.txt" ,"boys_record.txt" , "girls_record.txt" , "gifts_record.txt" , "log.txt" 
 
+### For testing question 3 open folder named "ppl_ques_3"
+```
+g++ main3.cpp boy.cpp
+./a.out
+```
+It will generate "k_most_compatible_couple.txt" , "k_most_happiest_couple.txt" , "gift_exchange.txt" ,"boys_record.txt" , "girls_record.txt" , "gifts_record.txt" , "log.txt" 
 
+### For testing question 4 open folder named "ppl_ques_4"
+```
+g++ main4.cpp boy.cpp
+./a.out
+```
+
+### For testing question 5 open folder named "ppl_ques_5"
+```
+g++ main5.cpp boy.cpp
+./a.out
+```
