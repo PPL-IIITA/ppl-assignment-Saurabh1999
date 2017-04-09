@@ -37,8 +37,8 @@ g++ main5.cpp boy.cpp
 ./a.out
 ```
 
-### For testing question 6 open folder named "ppl_ques_5"
+### For testing question 6 open folder named "ppl_ques_6"
 ```
-g++ main5.cpp boy.cpp
+g++ main6.cpp boy.cpp
 ./a.out
 ```
