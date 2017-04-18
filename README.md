@@ -42,3 +42,8 @@ g++ main5.cpp boy.cpp
 g++ main6.cpp boy.cpp
 ./a.out
 ```
+
+### For testing question 11
+```
+open previous questions, I've already used exception handling.
+```
